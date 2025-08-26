@@ -1,1 +1,7 @@
-# Diabetes-Type-2-Analysis
+# Diabetes Type 2 Analysis
+
+## Overview:
+
+Welcome to my analysis of the Diabetes type 2 analysis, focusing on disease analysis in the USA and Marketing analysis for top 3 drugs treating this disease. This project was created out of a desire to understand the diabetes type 2 causes, perservalance, risk factors and navigate the marketing analysis from top 3 companies. It delves into the disease status in the USA market and companies marketing performance to help find optimal marketing activities to tackle this disease.
+
+The data sourced from two separate sources, the USA disease data was sourced from the Centers for Disease Control and prevention (CDC) website and the international disease data was sources from the International Diabetes Federation (IDF). While, Due to the proprietary nature of pharmaceutical sales/marketing data, this project uses a simulated dataset that mirrors a real-world scenario, in which the simulated data was suplemented with real figures for the drugs sales and marketing expendatures from the companies's 10-K filing. The data was created to demonstrate my ability to analyze key marketing metrics, including market share, sales trends, and campaign effectiveness. The simulated data containing detailed information on drug name, prescription filled, new patients starts, sales revenue, marketing spend on digital Ads, marketing spend on Healthcare professionals, and competitors prescriptions.
