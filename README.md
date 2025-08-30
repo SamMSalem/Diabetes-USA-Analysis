@@ -41,7 +41,7 @@ To find the main demographics of the American population with diabetes, I filter
 
 ### Results
 
-![Visualization for age gp diagnoes with diabetes](Age_gp_Diabetes.png)
+![Visualization for age gp diagnoes with diabetes](Age_gps_Diabetes.png)
 
 ![Visualization for Gender gp diagnoes with diabetes](Diabetes_by_Gender.png)
 
