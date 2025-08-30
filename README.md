@@ -92,20 +92,22 @@ This chart breaks down the percentages of various risk factors for adults diagno
 
 ### How has the percentage of undiagnosed and diagnosed diabetes changed over time in the US?
 
-        plt.figure(figsize=(8, 5))
-        plt.plot(diagnosed_over_time['Time Period'], diagnosed_over_time['Diagnosed_diabetes_Percentage'], marker='o', label='Diagnosed Diabetes Percentage')
-        plt.plot(undiagnosed_over_time['Time Period'], undiagnosed_over_time['Undiagnosed_diabetes_Percentage '], marker='o', label='Undiagnosed Diabetes Percentage')
-        plt.title('Diabetes Diagnosed vs Undiagnosed % Over Time in the USA')
-        plt.legend()
-        plt.ylabel('Percentage (%)')
-        plt.xticks(rotation = 45, ha = 'right')
+    plt.figure(figsize=(8, 5))
+    plt.plot(diagnosed_over_time['Time Period'], diagnosed_over_time['Diagnosed_diabetes_Percentage'], marker='o', label='Diagnosed Diabetes Percentage')
+    plt.plot(undiagnosed_over_time['Time Period'], undiagnosed_over_time['Undiagnosed_diabetes_Percentage '], marker='o', label='Undiagnosed Diabetes Percentage')
+    plt.title('Diabetes Diagnosed vs Undiagnosed % Over Time in the USA')
+    plt.legend()
+    plt.ylabel('Percentage (%)')
+    plt.xticks(rotation = 45, ha = 'right')
         
-        plt.show()
-        plt.tight_layout()
+    plt.show()
+    plt.tight_layout()
 
 ### Result
 
 ![Diagnoed vs Undiagnosed percentages over years](diagnosed_vs_undiagnosed_%_over_time.png)
+
+
 
 
 
