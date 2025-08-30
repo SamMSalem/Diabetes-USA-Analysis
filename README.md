@@ -73,7 +73,7 @@ The data for the risk factors comes in a separate sheet, and it only needs data 
 
 ### Results
 
-![Related risk factors for diabetics](%_of_Risk_factors.png)
+![Related risk factors for diabetics](Percent_of_Risk_factors.png)
 
 ### Insights
 
@@ -106,5 +106,6 @@ This chart breaks down the percentages of various risk factors for adults diagno
 ### Result
 
 ![Diagnoed vs Undiagnosed percentages over years](diagnosed_vs_undiagnosed_%_over_time.png)
+
 
 
