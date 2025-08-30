@@ -21,7 +21,7 @@ The questions are divided into two parts, the Medical Part and the Marketing Par
       - What are the demographic characteristics of the American population with diabetes?
       - What are the most prevalent health risk factors among people with diabetes?
       - How has the percentage of undiagnosed and diagnosed diabetes changed over time in the US?
-      - Which US counties have the highest diagnosed diabetes rates, and what is the total population of those counties?
+      - Which US counties have the highest diagnosed diabetes cases, and what is the total population of the cases in those counties?
       - What are the top 20 states with the highest overall percentage of diagnosed diabetes?
       - What are the top 20 counties/states with the highest overall cases of diagnosed diabetes?
       - How does the percentage of children in poverty correlate with diagnosed diabetes rates at the county level?
@@ -71,6 +71,28 @@ The "Race and Ethnicity" graph  highlights significant disparities in diabetes r
 
 The data for the risk factors comes in a separate sheet, and it only needs data processing. Cleaning columns and converting data to numeric type (float). Then plot the data on a bar chart. The chart below is for the risk factors - related complications. Since the CDC Statistics website only provides data for 2 risk factors, obesity and physical inactivity. 
 
+    fig, ax = plt.subplots(figsize=(8,6))
+    
+    # Horizontal bar chart
+    bars = ax.barh(
+        df_risk_top8['Risk factors for diabetes-related complications'],
+        df_risk_top8['Percentage'],
+        color=plt.cm.Blues_r(range(len(df_risk_top8)))
+    )
+    
+    # Add percentage labels to bars
+    ax.bar_label(bars, fmt='%.1f%%', padding=3, color="black", fontsize=10)
+    ax.set_title('% of Risk Factors for Diabetes-related Complications')
+    ax.set_xlabel("Percentage")
+    ax.set_ylabel("")
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.set_xlim(0, 100)
+    ax.invert_yaxis()
+    plt.tight_layout()
+    plt.show()
+
+
 ### Results
 
 ![Related risk factors for diabetics](Percent_of_Risk_factors.png)
@@ -108,6 +130,30 @@ This chart breaks down the percentages of various risk factors for adults diagno
 ![Diagnoed vs Undiagnosed percentages over years](diagnosed_vs_undiagnosed_%_over_time.png)
 
 
+### Insights
 
+  - The most significant trend is the steady increase in the total percentage of people with diabetes over the period. This indicates that diabetes remains a growing public health challenge in the US. The percentage of diagnosed diabetes has consistently risen over time, showing a clear upward trend. 
+
+  - The percentage of undiagnosed diabetes has remained relatively stable, hovering around 2-3% of the population. This is a crucial finding because while a higher number of people are getting diagnosed, there's still a persistent portion of the population that's unaware of their condition.
+
+While the absolute number of undiagnosed cases may be staying the same, the data shows that the proportion of undiagnosed cases relative to total cases is decreasing. This is a positive trend, suggesting that a greater share of people with diabetes are being identified by the healthcare system.
+
+
+### Which US counties have the highest diagnosed diabetes cases and percentages, and what is the total number of the cases in those counties?
+
+      # calculating the total diagnosed diabetes cases in the top 20 states
+    total_diagnosed_cases = full_df[['Diagnosed Diabetes-2021-Percentage', 'State', 'county_population', 'County']]
+    total_diagnosed_cases['Total_Cases'] = total_diagnosed_cases['Diagnosed Diabetes-2021-Percentage'] /100 *    total_diagnosed_cases['county_population']
+
+
+    # Calculating the total diagnosed diabetes cases in the top 20 states based on percentage of diagnosed cases
+    total_diagnosed_cases1 = total_diagnosed_cases.sort_values(by='Diagnosed Diabetes-2021-Percentage', ascending=False).head(20)
+    total_diagnosed_cases1['Total_Cases'].sum()
+
+total number of diabetes cases in counties with the highest diagnosis percentage = 311120
+
+total number of diabetes cases in counties with the highest diagnosis cases = 5706690
+
+### Results
 
 
