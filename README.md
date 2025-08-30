@@ -26,10 +26,7 @@ The questions are divided into two parts, the Medical Part and the Marketing Par
       - What are the top 20 counties/states with the highest overall cases of diagnosed diabetes?
       - How does the percentage of children in poverty correlate with diagnosed diabetes rates at the county level?
       - Is there a relationship between race and ethnicity and the prevalence of obesity and physical inactivity in a county?
-      - What is the relationship between the overall obesity rate and the diagnosed diabetes rate at the county level?
-      - Which counties have a high percentage of diagnosed diabetes?
-      - Is there a relationship between child Poverty and the prevalence of diabetes? 
-
+      - What is the relationship between the overall obesity rate and the diagnosed diabetes rate at the county level? 
 
 
 ## The Analysis:
@@ -182,3 +179,48 @@ Actionable Insight: These are the primary targets for large-scale marketing camp
   - This pattern suggests a link between diabetes prevalence and rural or socioeconomically disadvantaged areas, which often have limited access to fresh food and healthcare facilities.
 
 Actionable Insight: For a public health campaign focused on prevalence, these states are the priority. The goal would be to address underlying factors in these regions that lead to high diabetes percentages.
+
+### How does the percentage of children in poverty correlate with diagnosed diabetes rates at the county level?
+
+      sub = full_df.dropna(subset=["Diagnosed Diabetes-2021-Percentage","Children in Poverty-2022 & 2018-2022-Percentage"]).copy()
+    x = sub["Diagnosed Diabetes-2021-Percentage"].values; y = sub["Children in Poverty-2022 & 2018-2022-Percentage"].values
+    coeff = np.polyfit(x, y, 1)
+    y_fit = np.polyval(coeff, x)
+    print("Slope:", coeff[0], "Intercept:", coeff[1])
+    plt.figure(figsize=(7,5))
+    plt.scatter(x,y,s=20)
+    plt.plot(x, y_fit, linewidth=2)
+    plt.xlabel("Diagnosed Diabetes rates"); plt.ylabel("Children in Poverty %")
+    plt.title("Diabetes Diagnosed vs Children in Poverty %")
+    plt.show()
+
+### Result
+
+![Children in poverty and diabetis correlation](Diabets_diagnosed_vs_children_poverty.png)
+
+### Insights
+
+Notice that as you move from left to right on the x-axis (the diagnosed diabetes rate also increases), the data points generally tend to move upwards on the y-axis (as the percentage of children in poverty increases). This indicates a **positive correlation**.
+  - The graph shows a clear positive correlation between the two variables. As the percentage of children in poverty increases, the diagnosed diabetes rate at the county level also tends to increase.
+  - This correlation suggests a strong link between socioeconomic factors and diabetes prevalence. Counties with higher levels of poverty may face challenges such as limited access to nutritious food, safe places for physical activity, and quality healthcare, all of which are risk factors for diabetes.
+
+Actionable Insight: For a marketing or public health campaign, this correlation is crucial. It suggests that a targeted approach focusing on areas with high child poverty could be effective in reaching a population that is both at-risk and in need of resources related to diabetes prevention and management.
+
+### What is the relationship between the overall obesity rate and the diagnosed diabetes rate at the county level? 
+
+    sub = full_df.dropna(subset=["Diagnosed Diabetes-2021-Percentage","obesity-2021-Percentage"]).copy()
+    x = sub["Diagnosed Diabetes-2021-Percentage"].values; y = sub["obesity-2021-Percentage"].values
+    coeff = np.polyfit(x, y, 1)
+    y_fit = np.polyval(coeff, x)
+    print("Slope:", coeff[0], "Intercept:", coeff[1])
+    plt.figure(figsize=(7,5))
+    plt.scatter(x,y,s=20)
+    plt.plot(x, y_fit, linewidth=2)
+    plt.xlabel("Diagnosed Diabetes rates"); plt.ylabel("Obesity %")
+    plt.title("Diabetes Diagnosed vs Obesity %")
+    plt.show()
+
+### Result
+
+
+### Is there a relationship between race and ethnicity and the prevalence of obesity and physical inactivity in a county?
