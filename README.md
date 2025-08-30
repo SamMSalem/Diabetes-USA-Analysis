@@ -162,4 +162,23 @@ total number of diabetes cases in counties with the highest diagnosis cases = 57
 
 ### Insights
 
+**Top 20 Counties with the Highest Diabetes Percentage**
+  - This chart shows that even within a state, diabetes percentages can vary greatly. The top counties are often clustered in specific regions, such as the Appalachian Mountains and rural areas in the South.
 
+  - This provides a powerful insight where, rather than targeting an entire high-prevalence state, a campaign can be hyper-focused on the specific counties with the highest percentages, maximizing the return on investment.
+
+Actionable Insight: These counties represent the most concentrated "hotspots" of diabetes. They are ideal for community-level interventions, such as local health clinics or mobile screening units.
+
+**Top 20 Counties with the Highest Total Diagnosed Cases**
+  - This graph highlights a crucial difference between a percentage-based analysis and a count-based one. The top counties for total cases are almost exclusively major metropolitan areas like Los Angeles County, Cook County (Chicago), and Harris County (Houston). This is because even with a lower diabetes percentage, a massive population will yield a large number of total cases.
+
+  - From a business perspective, these counties represent the largest markets for diabetes-related products and services, such as medications, devices, and health programs.
+
+Actionable Insight: These are the primary targets for large-scale marketing campaigns. The goal here is to capture a piece of the largest available patient population.
+
+**Top 20 States with the Highest Diabetes Percentage**
+  - The highest percentages of diagnosed diabetes are concentrated in the Southeastern United States. States like West Virginia, Alabama, and Arkansas consistently top the list.
+
+  - This pattern suggests a link between diabetes prevalence and rural or socioeconomically disadvantaged areas, which often have limited access to fresh food and healthcare facilities.
+
+Actionable Insight: For a public health campaign focused on prevalence, these states are the priority. The goal would be to address underlying factors in these regions that lead to high diabetes percentages.
