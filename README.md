@@ -25,7 +25,6 @@ The questions are divided into two parts, the Medical Part and the Marketing Par
       - What are the top 20 states with the highest overall percentage of diagnosed diabetes?
       - What are the top 20 counties/states with the highest overall cases of diagnosed diabetes?
       - How does the percentage of children in poverty correlate with diagnosed diabetes rates at the county level?
-      - Is there a relationship between race and ethnicity and the prevalence of obesity and physical inactivity in a county?
       - What is the relationship between the overall obesity rate and the diagnosed diabetes rate at the county level? 
 
 
@@ -222,5 +221,15 @@ Actionable Insight: For a marketing or public health campaign, this correlation 
 
 ### Result
 
+![Obesity and diabetis diagnosed correlation](Diabets_diagnosed_vs_obesity.png)
 
-### Is there a relationship between race and ethnicity and the prevalence of obesity and physical inactivity in a county?
+### Insights
+
+  - The most significant observation is the strong positive correlation between obesity rates and diagnosed diabetes rates. As the percentage of obesity increases in a county, the percentage of diagnosed diabetes also increases.
+
+  - The data points form a relatively tight, upward-sloping cloud, suggesting a clear and consistent **linear relationship** between the two variables. This implies that for every increase in obesity, there is a predictable increase in the diabetes rate.
+
+  - This strong correlation suggests that obesity is a primary driver or a major contributing factor to the high rates of diagnosed diabetes at the county level. The visual evidence is compelling enough to conclude that any strategy to combat diabetes should prioritize addressing obesity.
+
+Actionable Insight: This insight is highly valuable. It points to a direct causal link that can be used to frame messaging. A campaign targeting counties with high obesity rates would likely be effective in reaching a population at high risk for diabetes.
+
