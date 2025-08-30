@@ -49,4 +49,20 @@ To find the main demographics of the American population with diabetes, I filter
 
 ### Insights
 
+At first glance at the above graphs, I could realize that:
+**Age-Group Insights**
+The "Age Groups Diabetes" graph  demonstrates a strong correlation between age and the prevalence of diabetes.
+  - The highest age group diagnosed with diabetes is people over 65 years old, with almost 14 million diagnosed cases. Followed by the second-highest age group of people aged from 45 to 64 years old. That means the prevalence of diagnosed, undiagnosed, and total diabetes increases dramatically with age. The highest undiagnosed age group is the age group of 45 to 65 years old.
+
+**Gender Demographics**
+The "Diabetes by Gender" graph  reveals a clear distinction in the prevalence of diagnosed, undiagnosed, and total diabetes between men and women.
+  - Men have a higher prevalence of total diabetes compared to women. Women show a larger gap between diagnosed and undiagnosed cases. This indicates that a significant portion of diabetes in the female population remains undiagnosed, highlighting a potential need for increased screening and public health outreach targeted at women.
+
+**Race and Ethnicity Demographics**
+The "Race and Ethnicity" graph  highlights significant disparities in diabetes rates among different racial and ethnic groups.
+  - Hispanic, non-Hispanic Black, and non-Hispanic Asian populations have a higher overall prevalence of diabetes compared to non-Hispanic White populations.
+
+
+### What are the most prevalent health risk factors among people with diabetes?
+
 
