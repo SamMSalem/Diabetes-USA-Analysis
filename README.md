@@ -17,18 +17,18 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 
 ## The Questions:
 The questions are divided into two parts, the Medical Part and the Marketing Part:
-      - Diabetes Disease State Questions:
-          - What are the demographic characteristics of the American population with diabetes?
-          - What are the most prevalent health risk factors among people with diabetes?
-          - Is there a relationship between child Poverty and the prevalence of diabetes?
-          - How has the percentage of undiagnosed and diagnosed diabetes changed over time in the US?
-          - Which US counties have the highest diagnosed diabetes rates, and what is the total population of those counties?
-          - What are the top 20 states with the highest overall percentage of diagnosed diabetes?
-          - What are the top 20 counties/states with the highest overall cases of diagnosed diabetes?
-          - How does the percentage of children in poverty correlate with diagnosed diabetes rates at the county level?
-          - Is there a relationship between race and ethnicity and the prevalence of obesity and physical inactivity in a county?
-          - What is the relationship between the overall obesity rate and the diagnosed diabetes rate at the county level?
-          - Which counties have a high percentage of diagnosed diabetes? 
+  - Diabetes Disease State Questions:
+      - What are the demographic characteristics of the American population with diabetes?
+      - What are the most prevalent health risk factors among people with diabetes?
+      - Is there a relationship between child Poverty and the prevalence of diabetes?
+      - How has the percentage of undiagnosed and diagnosed diabetes changed over time in the US?
+      - Which US counties have the highest diagnosed diabetes rates, and what is the total population of those counties?
+      - What are the top 20 states with the highest overall percentage of diagnosed diabetes?
+      - What are the top 20 counties/states with the highest overall cases of diagnosed diabetes?
+      - How does the percentage of children in poverty correlate with diagnosed diabetes rates at the county level?
+      - Is there a relationship between race and ethnicity and the prevalence of obesity and physical inactivity in a county?
+      - What is the relationship between the overall obesity rate and the diagnosed diabetes rate at the county level?
+      - Which counties have a high percentage of diagnosed diabetes? 
 
 
 
