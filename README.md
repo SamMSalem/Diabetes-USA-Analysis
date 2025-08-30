@@ -127,7 +127,7 @@ This chart breaks down the percentages of various risk factors for adults diagno
 
 ### Result
 
-![Diagnoed vs Undiagnosed percentages over years](diagnosed_vs_undiagnosed_%_over_time.png)
+![Diagnoed vs Undiagnosed percentages over years](diagnosed_vs_undiagnosed_Perc_overtime.png)
 
 
 ### Insights
@@ -155,5 +155,11 @@ total number of diabetes cases in counties with the highest diagnosis percentage
 total number of diabetes cases in counties with the highest diagnosis cases = 5706690
 
 ### Results
+
+![Top_20_counties_highest_diabetes_diagnoses_perc](Top_20_counties_highest_diabetes_diagnoses_perc.png)
+![Top 20 counties with the highest diabetes cases](Top_20_counties_with_highest_cases.png)
+![Top 20 states with the highest diagnosed percentages](Top_20_States_highest_diabetes_diagnosed_perc.png)
+
+### Insights
 
 
