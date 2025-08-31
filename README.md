@@ -137,6 +137,11 @@ While the absolute number of undiagnosed cases may be staying the same, the data
 
 ### Which US counties have the highest diagnosed diabetes cases and percentages, and what is the total number of the cases in those counties?
 
+### What are the top 20 states with the highest overall percentage of diagnosed diabetes?
+    
+### What are the top 20 counties/states with the highest overall cases of diagnosed diabetes?
+
+
       # calculating the total diagnosed diabetes cases in the top 20 states
     total_diagnosed_cases = full_df[['Diagnosed Diabetes-2021-Percentage', 'State', 'county_population', 'County']]
     total_diagnosed_cases['Total_Cases'] = total_diagnosed_cases['Diagnosed Diabetes-2021-Percentage'] /100 *    total_diagnosed_cases['county_population']
