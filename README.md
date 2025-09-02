@@ -31,7 +31,7 @@ The questions are divided into two parts, the Medical Part and the Marketing Par
 ## The Analysis:
 The Jupyter notebook for this part (01_Patient_Profile.ipynb) of the project aimed at investigating specific aspects of the US diabetes disease state. Here’s how I approached each question:
 
-### What are the demographic characteristics of the American population with diabetes?
+## What are the demographic characteristics of the American population with diabetes?
 
 To identify the main demographics of the American population with diabetes, I filtered the data by age groups of diagnosed/undiagnosed diabetes, then by the percentage of diagnosed/undiagnosed diabetes by gender, and finally by the percentage of diagnosed diabetes for each ethnic group. I plotted a subplots bar chart for the age group to identify the difference between the groups diagnosed and the undiagnosed numbers. In the same way, I plotted subplot pie charts for the gender data. For the ethnic groups data, I plotted it on a bar chart to demonstrate the differences in diabetes occurrence across different ethnicities.
 
@@ -63,7 +63,7 @@ The "Race and Ethnicity" graph  highlights significant disparities in diabetes r
   - Hispanic, non-Hispanic Black, and non-Hispanic Asian populations have a higher overall prevalence of diabetes compared to non-Hispanic White populations.
 
 
-### What are the most prevalent health risk factors among people with diabetes?
+## What are the most prevalent health risk factors among people with diabetes?
 
 The data for the risk factors comes in a separate sheet, and it only needs data processing. Cleaning columns and converting data to numeric type (float). Then plot the data on a bar chart. The chart below is for the risk factors - related complications. Since the CDC Statistics website only provides data for 2 risk factors, obesity and physical inactivity. 
 
@@ -135,11 +135,11 @@ This chart breaks down the percentages of various risk factors for adults diagno
 While the absolute number of undiagnosed cases may be staying the same, the data shows that the proportion of undiagnosed cases relative to total cases is decreasing. This is a positive trend, suggesting that a greater share of people with diabetes are being identified by the healthcare system.
 
 
-### Which US counties have the highest diagnosed diabetes cases and percentages, and what is the total number of the cases in those counties?
+## Which US counties have the highest diagnosed diabetes cases and percentages, and what is the total number of cases in those counties?
 
-### What are the top 20 states with the highest overall percentage of diagnosed diabetes?
+## What are the top 20 states with the highest overall percentage of diagnosed diabetes?
     
-### What are the top 20 counties/states with the highest overall cases of diagnosed diabetes?
+## What are the top 20 counties/states with the highest overall cases of diagnosed diabetes?
 
 
       # calculating the total diagnosed diabetes cases in the top 20 states
@@ -147,7 +147,7 @@ While the absolute number of undiagnosed cases may be staying the same, the data
     total_diagnosed_cases['Total_Cases'] = total_diagnosed_cases['Diagnosed Diabetes-2021-Percentage'] /100 *    total_diagnosed_cases['county_population']
 
 
-    # Calculating the total diagnosed diabetes cases in the top 20 states based on percentage of diagnosed cases
+    # Calculating the total diagnosed diabetes cases in the top 20 states based on the percentage of diagnosed cases
     total_diagnosed_cases1 = total_diagnosed_cases.sort_values(by='Diagnosed Diabetes-2021-Percentage', ascending=False).head(20)
     total_diagnosed_cases1['Total_Cases'].sum()
 
@@ -178,13 +178,13 @@ Actionable Insight: These counties represent the most concentrated "hotspots" of
 Actionable Insight: These are the primary targets for large-scale marketing campaigns. The goal here is to capture a piece of the largest available patient population.
 
 **Top 20 States with the Highest Diabetes Percentage**
-  - The highest percentages of diagnosed diabetes are concentrated in the Southeastern United States. States like West Virginia, Alabama, and Arkansas consistently top the list.
+  - The highest percentages of diagnosed diabetes are concentrated in the Southern United States. States like South Carolina, Mississippi, Alabama, and Arkansas consistently top the list.
 
   - This pattern suggests a link between diabetes prevalence and rural or socioeconomically disadvantaged areas, which often have limited access to fresh food and healthcare facilities.
 
 Actionable Insight: For a public health campaign focused on prevalence, these states are the priority. The goal would be to address underlying factors in these regions that lead to high diabetes percentages.
 
-### How does the percentage of children in poverty correlate with diagnosed diabetes rates at the county level?
+## How does the percentage of children in poverty correlate with diagnosed diabetes rates at the county level?
 
       sub = full_df.dropna(subset=["Diagnosed Diabetes-2021-Percentage","Children in Poverty-2022 & 2018-2022-Percentage"]).copy()
     x = sub["Diagnosed Diabetes-2021-Percentage"].values; y = sub["Children in Poverty-2022 & 2018-2022-Percentage"].values
@@ -210,7 +210,7 @@ Notice that as you move from left to right on the x-axis (the diagnosed diabetes
 
 Actionable Insight: For a marketing or public health campaign, this correlation is crucial. It suggests that a targeted approach focusing on areas with high child poverty could be effective in reaching a population that is both at-risk and in need of resources related to diabetes prevention and management.
 
-### What is the relationship between the overall obesity rate and the diagnosed diabetes rate at the county level? 
+## What is the relationship between the overall obesity rate and the diagnosed diabetes rate at the county level? 
 
     sub = full_df.dropna(subset=["Diagnosed Diabetes-2021-Percentage","obesity-2021-Percentage"]).copy()
     x = sub["Diagnosed Diabetes-2021-Percentage"].values; y = sub["obesity-2021-Percentage"].values
@@ -261,10 +261,10 @@ This question is identified by grouping patient segments and aggregating the sum
 ![Rx volume per patient segments](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/d6cbbc05ec07875c65b2b6eb2dbb7a6f91e74577/Marketing%20Photos/volume_newRx_patient_segment.png)
 
 ### Insights
-The graph, a horizontal bar chart, illustrates the total number of new prescriptions for three distinct patient segments: Obesity Comorbidity, Cardiovascular Risk, and Type 2 Newly Diagnosed. The data reveals a clear and significant difference in the volume of new patients in each group, which is a crucial insight for understanding market size and growth potential.
+The horizontal bar chart illustrates the total number of new prescriptions for three distinct patient segments: Obesity Comorbidity, Cardiovascular Risk, and Type 2 Newly Diagnosed. The data reveals a clear and significant difference in the volume of new patients in each group, which is a crucial insight for understanding market size and growth potential.
   - The Obesity Comorbidity segment generates the highest volume of new prescriptions by a considerable margin. This indicates that this patient group is the primary driver of new customer acquisition for the brands in the market.
   - Cardiovascular Risk segment generates the second-highest volume of new prescriptions. Its strong performance indicates that patients with cardiovascular risk are also a major target for new prescription acquisition.
-  - Type 2 Newly Diagnosed segment has the lowest volume of new prescriptions. This lower volume could be due to several factors, such as newly diagnosed patients being started on more traditional, older, and less expensive treatments that are not reflected in the data.
+  - Type 2 Newly Diagnosed segment has the lowest volume of new prescriptions. This lower volume could be due to several factors, such as newly diagnosed patients being started on more traditional, older, and less expensive treatments like Metformine that are not reflected in the data.
 
 ## Do certain patient segments generate higher sales per prescription than others?
 This question is solved by creating a new column for the single prescription cost by dividing the daily sales by the daily Rx, then grouping the patient segment by the average Rx cost.
@@ -294,9 +294,9 @@ To identify the effectiveness of the channel, this could be reached by determini
 
 ### Insights
 The bar chart compares the effectiveness (in USD) of three distinct marketing channels in driving conversions within three key patient segments. This is a classic cross-channel, cross-segment performance analysis. The more spending in the channel to achieve the conversion or sale is the less effective the channel and vice versa
-  - **Direct-to-Consumer DTC:** This includes digital advertising (social media, search engines), email marketing, branded websites, and online patient resources. DTC is likely most effective for the "Type 2 Newly Diagnosed" segment. Best for capturing intent and guiding patients to ask their HCP about the drug.
-  - **HCP Outreach Channel:** This includes sales reps detailing physicians, providing samples, medical science liaisons, and professional marketing. HCP Outreach is undoubtedly the top-performing channel for the "Obesity Comorbidity" and "Cardiovascular Risk" segments. This is a high-touch, high-value channel designed to influence the prescriber directly.
-  - **TV:** National or targeted cable TV commercials. TV is likely the broad awareness play, potentially showing the most balanced performance across all three segments, but with a lower dollar effectiveness per spend than targeted channels. It primes the entire market, making the efforts of the DTC and HCP channels more effective.
+  - **Direct-to-Consumer DTC:** This includes digital advertising (social media, search engines), email marketing, branded websites, and online patient resources. DTC is likely the second most effective channel for reaching the targeted segments. Best for capturing intent and guiding patients to ask their HCP about the drug.
+  - **HCP Outreach Channel:** This includes sales reps detailing physicians, providing samples, medical science liaisons, and professional marketing. HCP Outreach is undoubtedly the top-performing channel for all the segments. It is only going to cost the brand $5 more or less to reach the targeted segment. This is a high-touch, high-value channel designed to influence the prescriber directly.
+  - **TV:** National or targeted cable TV commercials. TV is likely the broad awareness play, potentially showing the most balanced performance across all three segments, but with a lower dollar effectiveness per spend than other channels. However, it primes the entire market, making the efforts of the DTC and HCP channels more effective.
 
 ## What is the average cost of a prescription for each drug?
 
@@ -390,7 +390,7 @@ The Pie chart provides a clear snapshot of the market share for five different d
 ### Insights
 The dual-axis chart effectively compares the performance of several drugs across two key metrics: Total Sales (USD) and Total New Prescriptions. The visual separation of these metrics for each drug allows for a direct comparison of their market success and patient adoption. A key takeaway is the strong positive relationship between sales and new prescriptions. Drugs with higher sales generally have a higher number of new prescriptions, and vice versa. This indicates that the sales volume is directly tied to the number of new patients adopting the drug.
   - Market Leaders: Ozempic, Trulicity, and Mounjaro are the market leaders. Any competitive strategy would need to focus on directly challenging their dominance.
-  - Tiered Market: The market appears to be tiered, with a clear gap between the top two drugs, the solid mid-tier performer (Jardiance), and the lower-tier drugs (Januvia, Janumet, and Glucocure).
+  - Tiered Market: The market appears to be tiered, with a clear gap between the top two drugs, the solid mid-tier performer (Jardiance), and the lower-tier drugs (Januvia, Janumet, and Glucocure). Although Jardiance has an outstanding Rx number exceeding even the market leaders, the total sales are in the mid-tier performer. This is a result of the pricing strategy for Jardiance, where it is the lowest Rx cost across all the competitors. 
 The high correlation between sales and prescriptions means that a successful marketing strategy should focus on driving new prescriptions, as this will directly translate into higher sales.
 
 ## What is the correlation between marketing spend across all channels and daily sales/new prescriptions?
