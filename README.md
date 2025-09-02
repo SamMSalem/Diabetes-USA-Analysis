@@ -258,6 +258,6 @@ This question is approached by grouping patient segments and aggregating the sum
 
 ### Result
 
-![Rx volume per patient segments]([volume_newRx_patient_segment.png](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/d6cbbc05ec07875c65b2b6eb2dbb7a6f91e74577/Marketing%20Photos/volume_newRx_patient_segment.png))
+![Rx volume per patient segments](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/d6cbbc05ec07875c65b2b6eb2dbb7a6f91e74577/Marketing%20Photos/volume_newRx_patient_segment.png)
 
 ### Insights
