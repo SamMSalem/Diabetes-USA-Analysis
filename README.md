@@ -239,7 +239,7 @@ Actionable Insight: For a marketing or public health campaign, this correlation 
 Actionable Insight: This insight is highly valuable since it points to a direct causal link that can be used to frame messaging. A campaign targeting counties with high obesity rates would likely be effective in reaching a population at high risk for diabetes.
 
 ## The Questions (B):
-**B**- The questions below are related to the second part of the project, the Marketing analysis for the US Market:
+  - The questions below are related to the second part of the project, the Marketing analysis for the US Market:
       - Which patient segment has the highest volume of new prescriptions?
       - Do certain patient segments generate higher sales per prescription than others?
       - Is there a specific marketing channel that is more effective at reaching a particular patient segment?
@@ -258,6 +258,6 @@ This question is approached by grouping patient segments and aggregating the sum
 
 ### Result
 
-![Rx volume per patient segments](volume_newRx_patient_segment.png)
+![Rx volume per patient segments]([volume_newRx_patient_segment.png](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/d6cbbc05ec07875c65b2b6eb2dbb7a6f91e74577/Marketing%20Photos/volume_newRx_patient_segment.png))
 
 ### Insights
