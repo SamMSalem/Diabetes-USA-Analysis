@@ -4,7 +4,7 @@
 
 Welcome to my analysis of diabetes mellitus, focusing on disease analysis in the USA and Marketing analysis for the top 5 drugs in the US managing this disease. Diabetes mellitus is a condition that happens when your blood sugar (glucose) is too high. It develops when your pancreas doesn’t make enough insulin or any at all, or when your body isn’t responding to the effects of insulin properly. This project was created out of a desire to understand the disease burden, its prevalence, risk factors, occurrence at the county level, and to analyze the marketing strategies of the top 5 drugs. It delves into the disease status in the USA market and companies' marketing performance to help find optimal marketing activities to tackle this disease.
 
-The data was sourced from two separate sources; the USA disease data was sourced from the Centers for Disease Control and Prevention (CDC) website. The disease data contains detailed information on age groups, genders, diagnosed percentage per county, risk factors, obesity percentages/county for US race and ethnicity, Social Vulnerability Index (SVI)/county, and diagnosed/undiagnosed percentages across years. Due to the proprietary nature of pharmaceutical sales/marketing data, this project utilized a simulated dataset that mirrors a real-world scenario. The simulated data was supplemented with real figures for drug sales and marketing expenditures from the company's 10-K filing, as well as trusted blogs on pharma websites, such as xtalks. The data was created to demonstrate my ability to analyze key marketing metrics, including market share, sales trends, and campaign effectiveness. The simulated data contains detailed information on drug name, prescriptions filled, new patients started, sales, marketing spend on digital Ads, marketing spend on Healthcare professionals, and competitors' prescriptions.
+The data was sourced from two separate sources; the USA disease data was sourced from the Centers for Disease Control and Prevention (CDC) website. The disease data contains detailed information on age groups, genders, diagnosed percentage per county, risk factors, obesity percentages/county for US race and ethnicity, Social Vulnerability Index (SVI)/county, and diagnosed/undiagnosed percentages across years. Due to the proprietary nature of pharmaceutical sales/marketing data, this project utilized a simulated dataset that mirrors a real-world scenario. The simulated data was supplemented with real figures for drug sales and marketing expenditures from the company's 10-K filing, as well as trusted blogs on pharma websites, such as xtalks. The data was created to demonstrate my ability to analyze key marketing metrics, including market share, sales trends, and campaign or channel effectiveness. The simulated data contains detailed information on drug name, company, prescriptions filled, new prescriptions, sales, marketing spend on digital Ads, marketing spend on Healthcare professionals, and prescription dates.
 
 ## Tools I Used:
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
@@ -15,9 +15,9 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
   - Jupyter Notebooks: The tool I used to run my Python scripts, which let me easily include my notes and analysis.
   - Visual Studio Code: My go-to for executing my Python scripts.
 
-## The Questions:
+## The Questions (A):
 The questions are divided into two parts, the Medical Part and the Marketing Part:
-  - Diabetes Disease State Questions:
+**A**- Diabetes Disease State Questions:
       - What are the demographic characteristics of the American population with diabetes?
       - What are the most prevalent health risk factors among people with diabetes?
       - How has the percentage of undiagnosed and diagnosed diabetes changed over time in the US?
@@ -29,7 +29,7 @@ The questions are divided into two parts, the Medical Part and the Marketing Par
 
 
 ## The Analysis:
-The Jupyter notebook for this part of the project aimed at investigating specific aspects of the US diabetes disease state. Here’s how I approached each question:
+The Jupyter notebook for this part (01_Patient_Profile.ipynb) of the project aimed at investigating specific aspects of the US diabetes disease state. Here’s how I approached each question:
 
 ### What are the demographic characteristics of the American population with diabetes?
 
@@ -238,3 +238,26 @@ Actionable Insight: For a marketing or public health campaign, this correlation 
 
 Actionable Insight: This insight is highly valuable since it points to a direct causal link that can be used to frame messaging. A campaign targeting counties with high obesity rates would likely be effective in reaching a population at high risk for diabetes.
 
+## The Questions (B):
+**B**- The questions below are related to the second part of the project, the Marketing analysis for the US Market:
+      - Which patient segment has the highest volume of new prescriptions?
+      - Do certain patient segments generate higher sales per prescription than others?
+      - Is there a specific marketing channel that is more effective at reaching a particular patient segment?
+      - What is the average cost of a prescription for each drug?
+      - How is the market share distributed among the top pharmaceutical companies based on total sales?
+      - Which drug and company combination has the highest daily sales and prescriptions?
+      - What is the correlation between marketing spend across all channels and daily sales/new prescriptions?
+      - How does marketing spend change over time for the top-selling drugs?
+      - Which marketing channel (DTC, HCP, or TV) shows the strongest return on investment (ROI)?
+   
+## The Analysis:
+The Jupyter notebook for this part (02_Marketing_Analysis.ipynb) of the project aimed at investigating the Marketing aspects of the US diabetes drugs. Here’s how I approached each question:
+
+###  Which patient segment has the highest volume of new prescriptions?
+This question is approached by grouping patient segments and aggregating the sum of new prescriptions, then plotting the results.
+
+### Result
+
+![Rx volume per patient segments](volume_newRx_patient_segment.png)
+
+### Insights
