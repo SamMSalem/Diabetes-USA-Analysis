@@ -17,7 +17,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 
 ## The Questions (A):
 The questions are divided into two parts, the Medical Part and the Marketing Part:
-**A**- Diabetes Disease State Questions:
+*A*- Diabetes Disease State Questions:
       - What are the demographic characteristics of the American population with diabetes?
       - What are the most prevalent health risk factors among people with diabetes?
       - How has the percentage of undiagnosed and diagnosed diabetes changed over time in the US?
