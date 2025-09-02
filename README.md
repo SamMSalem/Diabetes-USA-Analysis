@@ -322,7 +322,7 @@ The bar chart compares the effectiveness (in USD) of three distinct marketing ch
 ![channel effectiveness](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/avg_rx_costs.png)
 
 ### Insights
-The graph, a simple bar chart, presents the average cost per prescription for seven different brands. The data reveals a significant difference in pricing across the market, which is a key factor in both patient accessibility and a brand's revenue strategy. 
+The bar chart presents the average cost per prescription for seven different brands. The data reveals a significant difference in pricing across the market, which is a key factor in both patient accessibility and a brand's revenue strategy. 
   - High-Cost vs. Low-Cost Brands: There is a clear divide between the high-cost brands (Ozempic, Trulicity, and Mounjaro) and the lower-cost brands (Januvia, Janumet, and Jardiance). This pricing strategy likely reflects differences in drug type, Route of administration, market positioning, and the target patient segment or indication.
 
 
@@ -341,7 +341,7 @@ The pie chart below contains only the top 5 brands in the market.
 ![channel effectiveness](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/brands_ms.png)
 
 ### Insights
-The graph, a bar chart, provides a clear snapshot of the market share for five different diabetes drugs. The length of each bar represents the percentage of the total market that the brand controls. The visualization reveals a highly competitive market, dominated by a few key players, with a significant disparity between the top brands and the others.
+The Pie chart provides a clear snapshot of the market share for five different diabetes drugs. The length of each slice represents the percentage of the total market that the brand controls. The visualization reveals a highly competitive market, dominated by a few key players, with a significant disparity between the top brands and the others.
   - Ozempic: This brand is the undisputed market leader. It has the largest market share, controlling just over 24%. Its near-equal dominance suggests a direct and intense rivalry for the top spot. 
   - Mounjaro and Trulicity: Trulicity and Mounjaro are strong second and third-place competitors. Their market share is significant, at approximately 22% for each, placing them firmly in the top tier behind the market leaders. This indicates a robust market presence and a strong competitive position. Their combined market share represents over 40% of the total market, making them the most influential players.
   - Jardiance: Jardiance holds a solid position, with a market share of around 13%. While not a top-tier leader, its substantial share indicates a stable and recognizable brand with a dedicated customer base.
@@ -388,7 +388,7 @@ The graph, a bar chart, provides a clear snapshot of the market share for five d
 ![top companies sales and rx](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/top_drugs_sales_rx.png)
 
 ### Insights
-The graph, a grouped bar chart, effectively compares the performance of several drugs across two key metrics: Total Sales (USD) and Total New Prescriptions. The visual separation of these metrics for each drug allows for a direct comparison of their market success and patient adoption. A key takeaway is the strong positive relationship between sales and new prescriptions. Drugs with higher sales generally have a higher number of new prescriptions, and vice versa. This indicates that the sales volume is directly tied to the number of new patients adopting the drug.
+The dual-axis chart effectively compares the performance of several drugs across two key metrics: Total Sales (USD) and Total New Prescriptions. The visual separation of these metrics for each drug allows for a direct comparison of their market success and patient adoption. A key takeaway is the strong positive relationship between sales and new prescriptions. Drugs with higher sales generally have a higher number of new prescriptions, and vice versa. This indicates that the sales volume is directly tied to the number of new patients adopting the drug.
   - Market Leaders: Ozempic, Trulicity, and Mounjaro are the market leaders. Any competitive strategy would need to focus on directly challenging their dominance.
   - Tiered Market: The market appears to be tiered, with a clear gap between the top two drugs, the solid mid-tier performer (Jardiance), and the lower-tier drugs (Januvia, Janumet, and Glucocure).
 The high correlation between sales and prescriptions means that a successful marketing strategy should focus on driving new prescriptions, as this will directly translate into higher sales.
