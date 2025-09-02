@@ -1,0 +1,1709 @@
+Date,Drug_Name,Company,Daily_Prescriptions,Daily_Sales_USD,Marketing_Spend_DTC_Digital,Marketing_Spend_HCP_Outreach,Marketing_Spend_TV_Ads,New_Prescriptions,Patient_Segment
+2024-01-01,Jardiance,Boehringer Ingelheim / Eli Lilly,4502,82536.67,4883.84,5050.22,10051.27,1259,Obesity Comorbidity
+2024-01-01,Trulicity,Eli Lilly,3994,126476.67,8434.15,,15880.69,982,Type 2 Newly Diagnosed
+2024-01-01,Januvia,Merck,2507,50140.0,3039.33,1868.87,4654.91,710,Obesity Comorbidity
+2024-01-01,Janumet,Merck,2141,41392.67,2117.36,2110.65,4470.01,429,Type 2 Newly Diagnosed
+2024-01-01,Ozempic,Novo Nordisk,3887,126327.5,9197.08,7757.4,11871.9,919,Obesity Comorbidity
+2024-01-01,Mounjaro,Eli Lilly,2980,99333.33,8345.53,4769.98,8038.9,852,Cardiovascular Risk
+2024-01-01,Glucocure,Fictional Pharma,463,10803.33,704.71,366.31,1381.71,130,Type 2 Newly Diagnosed
+2024-01-02,Jardiance,Boehringer Ingelheim / Eli Lilly,4598,84296.67,7726.61,3113.46,9051.29,1200,Type 2 Newly Diagnosed
+2024-01-02,Trulicity,Eli Lilly,4053,128345.0,9754.66,6657.05,11928.36,936,Cardiovascular Risk
+2024-01-02,Januvia,Merck,2461,49220.0,4663.17,2653.75,7113.83,723,Type 2 Newly Diagnosed
+2024-01-02,Janumet,Merck,2157,41702.0,3643.34,2151.31,5048.97,613,Cardiovascular Risk
+2024-01-02,Ozempic,Novo Nordisk,3892,126490.0,7215.78,7853.5,10779.29,989,Cardiovascular Risk
+2024-01-02,Mounjaro,Eli Lilly,2986,99533.33,5004.15,,12887.58,656,Obesity Comorbidity
+2024-01-02,Glucocure,Fictional Pharma,483,11270.0,1085.47,631.61,1623.41,125,Cardiovascular Risk
+2024-01-03,Jardiance,Boehringer Ingelheim / Eli Lilly,4411,80868.33,4300.41,3431.99,8310.26,1028,Cardiovascular Risk
+2024-01-03,Trulicity,Eli Lilly,4027,127521.67,9954.62,5778.91,18875.74,916,Cardiovascular Risk
+2024-01-03,Januvia,Merck,2420,48400.0,4285.74,2407.99,5643.02,619,Obesity Comorbidity
+2024-01-03,Janumet,Merck,2157,41702.0,2505.7,2745.27,4723.83,526,Cardiovascular Risk
+2024-01-03,Ozempic,Novo Nordisk,3841,124832.5,7797.61,5794.14,16588.81,1116,Obesity Comorbidity
+2024-01-03,Mounjaro,Eli Lilly,3025,100833.33,8544.54,6576.22,12473.57,786,Obesity Comorbidity
+2024-01-03,Glucocure,Fictional Pharma,457,10663.33,649.63,497.56,1512.38,112,Type 2 Newly Diagnosed
+2024-01-04,Jardiance,Boehringer Ingelheim / Eli Lilly,4491,82335.0,7849.94,3366.29,10319.73,1058,Type 2 Newly Diagnosed
+2024-01-04,Trulicity,Eli Lilly,3928,124386.67,9395.84,5808.41,11884.84,788,Type 2 Newly Diagnosed
+2024-01-04,Januvia,Merck,2565,51300.0,3394.02,2603.56,6628.54,754,Obesity Comorbidity
+2024-01-04,Janumet,Merck,2165,41856.67,3550.08,2448.23,3782.42,486,Cardiovascular Risk
+2024-01-04,Ozempic,Novo Nordisk,3901,126782.5,9525.67,4064.54,12615.52,1017,Cardiovascular Risk
+2024-01-04,Mounjaro,Eli Lilly,2999,99966.67,7444.78,6940.29,9691.16,643,Obesity Comorbidity
+2024-01-04,Glucocure,Fictional Pharma,527,12296.67,763.72,763.94,1388.55,124,Cardiovascular Risk
+2024-01-05,Jardiance,Boehringer Ingelheim / Eli Lilly,4538,83196.67,7480.82,2997.47,9615.36,1278,Cardiovascular Risk
+2024-01-05,Trulicity,Eli Lilly,3930,124450.0,10438.64,,14417.1,1018,Obesity Comorbidity
+2024-01-05,Januvia,Merck,2507,50140.0,4864.89,2301.57,5828.4,525,Cardiovascular Risk
+2024-01-05,Janumet,Merck,2122,41025.33,2284.03,2748.19,5801.55,496,Type 2 Newly Diagnosed
+2024-01-05,Ozempic,Novo Nordisk,3863,125547.5,9762.58,6426.28,12169.28,1088,Type 2 Newly Diagnosed
+2024-01-05,Mounjaro,Eli Lilly,3021,100700.0,9479.07,3781.11,10021.76,772,Obesity Comorbidity
+2024-01-05,Glucocure,Fictional Pharma,533,12436.67,1173.45,761.06,1553.86,154,Type 2 Newly Diagnosed
+2024-01-06,Jardiance,Boehringer Ingelheim / Eli Lilly,4599,84315.0,7036.04,4487.87,8942.43,1280,Cardiovascular Risk
+2024-01-06,Trulicity,Eli Lilly,4082,129263.33,7502.5,6715.15,16601.63,818,Obesity Comorbidity
+2024-01-06,Januvia,Merck,2477,49540.0,3283.02,2965.45,6216.0,554,Cardiovascular Risk
+2024-01-06,Janumet,Merck,2254,43577.33,3360.99,2194.23,5427.26,520,Type 2 Newly Diagnosed
+2024-01-06,Ozempic,Novo Nordisk,3882,126165.0,8788.01,8286.75,15667.13,1154,Obesity Comorbidity
+2024-01-06,Mounjaro,Eli Lilly,3175,105833.33,8831.39,6833.31,10171.96,839,Obesity Comorbidity
+2024-01-06,Glucocure,Fictional Pharma,458,10686.67,879.23,396.31,1558.46,92,Cardiovascular Risk
+2024-01-07,Jardiance,Boehringer Ingelheim / Eli Lilly,4516,82793.33,7234.97,5640.12,8540.34,1302,Cardiovascular Risk
+2024-01-07,Trulicity,Eli Lilly,4026,127490.0,11812.01,5326.27,13635.93,1193,Cardiovascular Risk
+2024-01-07,Januvia,Merck,2474,49480.0,3851.53,3337.24,6369.17,536,Cardiovascular Risk
+2024-01-07,Janumet,Merck,2131,41199.33,3442.5,1827.02,4028.94,470,Type 2 Newly Diagnosed
+2024-01-07,Ozempic,Novo Nordisk,3746,121745.0,6918.9,7104.6,14450.81,1067,Obesity Comorbidity
+2024-01-07,Mounjaro,Eli Lilly,2923,97433.33,9095.75,6482.2,11282.19,821,Obesity Comorbidity
+2024-01-07,Glucocure,Fictional Pharma,500,11666.67,624.72,535.17,974.79,109,Cardiovascular Risk
+2024-01-08,Jardiance,Boehringer Ingelheim / Eli Lilly,4542,83270.0,4554.79,4424.24,6871.1,1078,Obesity Comorbidity
+2024-01-08,Trulicity,Eli Lilly,3996,126540.0,11634.93,8151.22,12339.88,1191,Type 2 Newly Diagnosed
+2024-01-08,Januvia,Merck,2420,48400.0,2727.49,2463.06,6480.74,571,Type 2 Newly Diagnosed
+2024-01-08,Janumet,Merck,2110,40793.33,3757.11,1540.98,4438.1,518,Cardiovascular Risk
+2024-01-08,Ozempic,Novo Nordisk,3902,126815.0,12528.38,6423.44,13012.1,1063,Obesity Comorbidity
+2024-01-08,Mounjaro,Eli Lilly,3180,106000.0,5715.82,3287.49,15622.85,775,Cardiovascular Risk
+2024-01-08,Glucocure,Fictional Pharma,465,10850.0,574.07,722.7,1203.97,125,Type 2 Newly Diagnosed
+2024-01-09,Jardiance,Boehringer Ingelheim / Eli Lilly,4517,82811.67,6874.19,3411.62,12160.11,1226,Cardiovascular Risk
+2024-01-09,Trulicity,Eli Lilly,4004,126793.33,8999.79,5060.23,13302.91,1045,Obesity Comorbidity
+2024-01-09,Januvia,Merck,2432,48640.0,2543.88,1538.44,6803.87,514,Cardiovascular Risk
+2024-01-09,Janumet,Merck,2247,43442.0,3239.94,2126.0,4002.06,471,Obesity Comorbidity
+2024-01-09,Ozempic,Novo Nordisk,3762,122265.0,11915.62,8004.35,12014.07,770,Type 2 Newly Diagnosed
+2024-01-09,Mounjaro,Eli Lilly,3060,102000.0,9468.1,,9323.35,765,Type 2 Newly Diagnosed
+2024-01-09,Glucocure,Fictional Pharma,459,10710.0,849.18,724.09,1288.23,93,Type 2 Newly Diagnosed
+2024-01-10,Jardiance,Boehringer Ingelheim / Eli Lilly,4523,82921.67,7509.4,5209.6,10267.01,962,Cardiovascular Risk
+2024-01-10,Trulicity,Eli Lilly,4011,127015.0,8090.61,4900.69,13515.43,885,Type 2 Newly Diagnosed
+2024-01-10,Januvia,Merck,2436,48720.0,4033.34,,6222.18,569,Obesity Comorbidity
+2024-01-10,Janumet,Merck,2216,42842.67,2395.26,2479.28,5313.6,505,Cardiovascular Risk
+2024-01-10,Ozempic,Novo Nordisk,3908,127010.0,12495.12,6594.22,13925.75,944,Obesity Comorbidity
+2024-01-10,Mounjaro,Eli Lilly,3148,104933.33,7411.53,4709.48,14097.68,941,Obesity Comorbidity
+2024-01-10,Glucocure,Fictional Pharma,520,12133.33,751.42,693.95,1599.1,133,Type 2 Newly Diagnosed
+2024-01-11,Jardiance,Boehringer Ingelheim / Eli Lilly,4429,81198.33,6111.2,5120.23,8314.99,1285,Cardiovascular Risk
+2024-01-11,Trulicity,Eli Lilly,4039,127901.67,12185.08,4304.08,13090.99,812,Cardiovascular Risk
+2024-01-11,Januvia,Merck,2527,50540.0,3772.88,1684.57,4367.63,627,Cardiovascular Risk
+2024-01-11,Janumet,Merck,2222,42958.67,4180.3,2631.3,3777.89,491,Cardiovascular Risk
+2024-01-11,Ozempic,Novo Nordisk,3935,127887.5,9908.27,6095.27,18177.84,809,Obesity Comorbidity
+2024-01-11,Mounjaro,Eli Lilly,3075,102500.0,8651.15,6506.55,14419.78,912,Cardiovascular Risk
+2024-01-11,Glucocure,Fictional Pharma,505,11783.33,632.04,740.87,1525.2,136,Type 2 Newly Diagnosed
+2024-01-12,Jardiance,Boehringer Ingelheim / Eli Lilly,4564,83673.33,6615.65,5399.07,11850.25,1019,Type 2 Newly Diagnosed
+2024-01-12,Trulicity,Eli Lilly,4012,127046.67,11138.04,5723.5,10906.33,1197,Obesity Comorbidity
+2024-01-12,Januvia,Merck,2488,49760.0,3309.67,2357.53,4864.43,559,Obesity Comorbidity
+2024-01-12,Janumet,Merck,2223,42978.0,2404.23,1491.38,5391.36,457,Cardiovascular Risk
+2024-01-12,Ozempic,Novo Nordisk,3846,124995.0,8592.6,5178.35,17599.54,1139,Obesity Comorbidity
+2024-01-12,Mounjaro,Eli Lilly,3071,102366.67,10123.55,5347.66,10501.6,860,Type 2 Newly Diagnosed
+2024-01-12,Glucocure,Fictional Pharma,545,12716.67,682.76,663.23,1880.17,163,Obesity Comorbidity
+2024-01-13,Jardiance,Boehringer Ingelheim / Eli Lilly,4448,81546.67,5930.65,,9859.16,1199,Cardiovascular Risk
+2024-01-13,Trulicity,Eli Lilly,3955,125241.67,6624.43,5733.67,10955.25,1170,Obesity Comorbidity
+2024-01-13,Januvia,Merck,2517,50340.0,3684.13,2221.71,6083.89,550,Type 2 Newly Diagnosed
+2024-01-13,Janumet,Merck,2136,41296.0,3000.65,1292.26,4112.4,482,Obesity Comorbidity
+2024-01-13,Ozempic,Novo Nordisk,3916,127270.0,6848.4,8606.16,13893.4,835,Obesity Comorbidity
+2024-01-13,Mounjaro,Eli Lilly,2955,98500.0,9190.36,3133.16,8061.8,866,Obesity Comorbidity
+2024-01-13,Glucocure,Fictional Pharma,526,12273.33,1218.3,553.15,1625.85,130,Type 2 Newly Diagnosed
+2024-01-14,Jardiance,Boehringer Ingelheim / Eli Lilly,4458,81730.0,7512.33,3984.15,8911.62,1267,Type 2 Newly Diagnosed
+2024-01-14,Trulicity,Eli Lilly,4000,126666.67,11481.71,8865.24,18970.18,1145,Obesity Comorbidity
+2024-01-14,Januvia,Merck,2446,48920.0,4524.24,1951.61,5456.44,720,Type 2 Newly Diagnosed
+2024-01-14,Janumet,Merck,2144,41450.67,2502.02,2699.63,5512.52,487,Type 2 Newly Diagnosed
+2024-01-14,Ozempic,Novo Nordisk,3859,125417.5,10482.23,6372.75,16813.76,815,Obesity Comorbidity
+2024-01-14,Mounjaro,Eli Lilly,3221,107366.67,10564.74,,14540.37,907,Obesity Comorbidity
+2024-01-14,Glucocure,Fictional Pharma,509,11876.67,1059.8,660.04,1619.42,123,Cardiovascular Risk
+2024-01-15,Jardiance,Boehringer Ingelheim / Eli Lilly,4591,84168.33,5683.84,4511.15,9044.48,924,Obesity Comorbidity
+2024-01-15,Trulicity,Eli Lilly,3999,126635.0,9186.8,8410.95,12772.05,1018,Obesity Comorbidity
+2024-01-15,Januvia,Merck,2472,49440.0,2835.57,3315.62,5658.32,729,Type 2 Newly Diagnosed
+2024-01-15,Janumet,Merck,2160,41760.0,3116.59,1801.95,5192.36,643,Type 2 Newly Diagnosed
+2024-01-15,Ozempic,Novo Nordisk,3884,126230.0,9215.54,6739.5,13635.5,985,Obesity Comorbidity
+2024-01-15,Mounjaro,Eli Lilly,3145,104833.33,9824.55,5305.56,15527.67,758,Obesity Comorbidity
+2024-01-15,Glucocure,Fictional Pharma,514,11993.33,700.97,493.45,1108.07,104,Type 2 Newly Diagnosed
+2024-01-16,Jardiance,Boehringer Ingelheim / Eli Lilly,4400,80666.67,5469.17,5305.34,7180.33,1115,Obesity Comorbidity
+2024-01-16,Trulicity,Eli Lilly,4104,129960.0,11692.57,7162.88,11140.58,836,Cardiovascular Risk
+2024-01-16,Januvia,Merck,2452,49040.0,2458.36,3174.46,4213.33,582,Cardiovascular Risk
+2024-01-16,Janumet,Merck,2136,41296.0,3065.24,2260.14,4370.11,506,Obesity Comorbidity
+2024-01-16,Ozempic,Novo Nordisk,3883,126197.5,7242.09,,16166.1,800,Cardiovascular Risk
+2024-01-16,Mounjaro,Eli Lilly,3208,106933.33,9983.38,4722.8,11527.57,651,Type 2 Newly Diagnosed
+2024-01-16,Glucocure,Fictional Pharma,492,11480.0,758.87,441.5,1181.58,99,Type 2 Newly Diagnosed
+2024-01-17,Jardiance,Boehringer Ingelheim / Eli Lilly,4544,83306.67,6139.58,3682.5,10448.12,1064,Obesity Comorbidity
+2024-01-17,Trulicity,Eli Lilly,4062,128630.0,10018.62,6876.74,15372.84,1111,Obesity Comorbidity
+2024-01-17,Januvia,Merck,2488,49760.0,4095.04,2628.88,5221.16,587,Cardiovascular Risk
+2024-01-17,Janumet,Merck,2208,42688.0,2351.64,1541.65,4150.0,493,Type 2 Newly Diagnosed
+2024-01-17,Ozempic,Novo Nordisk,3854,125255.0,11309.68,4036.49,17405.68,804,Type 2 Newly Diagnosed
+2024-01-17,Mounjaro,Eli Lilly,3008,100266.67,9938.32,3457.35,10813.75,725,Cardiovascular Risk
+2024-01-17,Glucocure,Fictional Pharma,469,10943.33,1080.69,543.12,1429.23,94,Cardiovascular Risk
+2024-01-18,Jardiance,Boehringer Ingelheim / Eli Lilly,4593,84205.0,6616.88,3469.18,11272.06,1174,Type 2 Newly Diagnosed
+2024-01-18,Trulicity,Eli Lilly,4071,128915.0,7731.72,7663.98,15094.5,1103,Obesity Comorbidity
+2024-01-18,Januvia,Merck,2527,50540.0,3995.79,1828.26,5745.38,578,Cardiovascular Risk
+2024-01-18,Janumet,Merck,2219,42900.67,2433.36,1395.77,6404.95,518,Obesity Comorbidity
+2024-01-18,Ozempic,Novo Nordisk,3914,127205.0,7243.21,3829.94,11215.5,817,Obesity Comorbidity
+2024-01-18,Mounjaro,Eli Lilly,3023,100766.67,6796.05,6769.62,13920.25,729,Cardiovascular Risk
+2024-01-18,Glucocure,Fictional Pharma,544,12693.33,1263.58,484.89,1352.42,159,Cardiovascular Risk
+2024-01-19,Jardiance,Boehringer Ingelheim / Eli Lilly,4463,81821.67,7535.08,2912.11,11100.64,1148,Type 2 Newly Diagnosed
+2024-01-19,Trulicity,Eli Lilly,3985,126191.67,7485.72,4975.44,15693.59,1125,Cardiovascular Risk
+2024-01-19,Januvia,Merck,2472,49440.0,3442.12,3098.11,5474.96,711,Obesity Comorbidity
+2024-01-19,Janumet,Merck,2208,42688.0,3730.1,2139.05,4108.93,508,Cardiovascular Risk
+2024-01-19,Ozempic,Novo Nordisk,3983,129447.5,12339.4,7115.67,11415.05,1013,Cardiovascular Risk
+2024-01-19,Mounjaro,Eli Lilly,3172,105733.33,6022.95,6530.2,13048.03,740,Obesity Comorbidity
+2024-01-19,Glucocure,Fictional Pharma,494,11526.67,663.75,489.52,1122.63,137,Obesity Comorbidity
+2024-01-20,Jardiance,Boehringer Ingelheim / Eli Lilly,4595,84241.67,7423.62,5481.66,8756.56,1180,Cardiovascular Risk
+2024-01-20,Trulicity,Eli Lilly,4116,130340.0,9495.27,7058.99,15009.98,979,Obesity Comorbidity
+2024-01-20,Januvia,Merck,2538,50760.0,4371.08,2984.76,6338.93,565,Cardiovascular Risk
+2024-01-20,Janumet,Merck,2117,40928.67,3272.31,2581.45,6022.05,575,Obesity Comorbidity
+2024-01-20,Ozempic,Novo Nordisk,3928,127660.0,9331.98,8667.01,11583.18,943,Obesity Comorbidity
+2024-01-20,Mounjaro,Eli Lilly,3211,107033.33,5448.59,6944.85,15546.41,838,Obesity Comorbidity
+2024-01-20,Glucocure,Fictional Pharma,536,12506.67,639.73,701.06,1675.73,149,Type 2 Newly Diagnosed
+2024-01-21,Jardiance,Boehringer Ingelheim / Eli Lilly,4536,83160.0,7220.14,5602.88,12040.72,1099,Obesity Comorbidity
+2024-01-21,Trulicity,Eli Lilly,4005,126825.0,7390.86,4749.96,17581.03,895,Obesity Comorbidity
+2024-01-21,Januvia,Merck,2434,48680.0,3913.61,2198.98,6430.51,542,Type 2 Newly Diagnosed
+2024-01-21,Janumet,Merck,2136,41296.0,2753.41,1896.59,4857.14,428,Cardiovascular Risk
+2024-01-21,Ozempic,Novo Nordisk,3929,127692.5,9454.59,8521.97,15462.89,968,Type 2 Newly Diagnosed
+2024-01-21,Mounjaro,Eli Lilly,3260,108666.67,6391.7,5426.24,11879.96,697,Cardiovascular Risk
+2024-01-21,Glucocure,Fictional Pharma,518,12086.67,772.09,469.01,1146.88,144,Obesity Comorbidity
+2024-01-22,Jardiance,Boehringer Ingelheim / Eli Lilly,4480,82133.33,4717.17,3826.18,7061.37,1326,Cardiovascular Risk
+2024-01-22,Trulicity,Eli Lilly,4010,126983.33,8317.01,5827.61,13952.32,922,Obesity Comorbidity
+2024-01-22,Januvia,Merck,2439,48780.0,2904.09,1534.72,5514.32,537,Cardiovascular Risk
+2024-01-22,Janumet,Merck,2095,40503.33,3471.26,2069.96,4755.57,480,Obesity Comorbidity
+2024-01-22,Ozempic,Novo Nordisk,3970,129025.0,7115.61,5596.4,11003.93,1097,Obesity Comorbidity
+2024-01-22,Mounjaro,Eli Lilly,3283,109433.33,8995.42,5072.17,8949.13,745,Type 2 Newly Diagnosed
+2024-01-22,Glucocure,Fictional Pharma,520,12133.33,854.18,631.77,1186.3,149,Type 2 Newly Diagnosed
+2024-01-23,Jardiance,Boehringer Ingelheim / Eli Lilly,4471,81968.33,7376.81,3044.45,10302.78,940,Type 2 Newly Diagnosed
+2024-01-23,Trulicity,Eli Lilly,3998,126603.33,10902.24,8131.46,17485.87,896,Obesity Comorbidity
+2024-01-23,Januvia,Merck,2517,50340.0,4773.08,,4328.51,577,Type 2 Newly Diagnosed
+2024-01-23,Janumet,Merck,2222,42958.67,4030.48,2393.53,5553.53,471,Cardiovascular Risk
+2024-01-23,Ozempic,Novo Nordisk,4006,130195.0,8198.53,5883.21,15795.34,938,Obesity Comorbidity
+2024-01-23,Mounjaro,Eli Lilly,3286,109533.33,9714.7,4875.36,15364.76,770,Obesity Comorbidity
+2024-01-23,Glucocure,Fictional Pharma,557,12996.67,724.07,684.03,1936.19,154,Type 2 Newly Diagnosed
+2024-01-24,Jardiance,Boehringer Ingelheim / Eli Lilly,4513,82738.33,5248.41,4274.71,10287.97,912,Type 2 Newly Diagnosed
+2024-01-24,Trulicity,Eli Lilly,3987,126255.0,12527.03,6442.49,11617.68,1130,Obesity Comorbidity
+2024-01-24,Januvia,Merck,2448,48960.0,3744.61,3065.0,5623.86,690,Type 2 Newly Diagnosed
+2024-01-24,Janumet,Merck,2226,43036.0,3701.53,1474.55,3864.69,555,Type 2 Newly Diagnosed
+2024-01-24,Ozempic,Novo Nordisk,3845,124962.5,9980.84,6750.56,15814.33,1105,Type 2 Newly Diagnosed
+2024-01-24,Mounjaro,Eli Lilly,3206,106866.67,7504.08,6501.39,11706.44,909,Obesity Comorbidity
+2024-01-24,Glucocure,Fictional Pharma,526,12273.33,664.48,664.31,1192.65,144,Type 2 Newly Diagnosed
+2024-01-25,Jardiance,Boehringer Ingelheim / Eli Lilly,4439,81381.67,7794.38,4790.23,9987.84,1081,Cardiovascular Risk
+2024-01-25,Trulicity,Eli Lilly,4022,127363.33,12334.05,7553.01,12105.35,1071,Type 2 Newly Diagnosed
+2024-01-25,Januvia,Merck,2519,50380.0,4638.81,,7399.14,544,Type 2 Newly Diagnosed
+2024-01-25,Janumet,Merck,2225,43016.67,2891.55,1895.38,4684.32,550,Cardiovascular Risk
+2024-01-25,Ozempic,Novo Nordisk,3923,127497.5,7945.66,8002.26,17334.45,955,Obesity Comorbidity
+2024-01-25,Mounjaro,Eli Lilly,3143,104766.67,7129.23,3526.79,15108.61,814,Type 2 Newly Diagnosed
+2024-01-25,Glucocure,Fictional Pharma,547,12763.33,970.84,427.17,1877.13,147,Obesity Comorbidity
+2024-01-26,Jardiance,Boehringer Ingelheim / Eli Lilly,4548,83380.0,7187.79,4626.69,12393.63,1254,Cardiovascular Risk
+2024-01-26,Trulicity,Eli Lilly,3981,126065.0,12528.77,8542.46,10433.12,884,Obesity Comorbidity
+2024-01-26,Januvia,Merck,2514,50280.0,3941.81,3349.63,4141.88,548,Cardiovascular Risk
+2024-01-26,Janumet,Merck,2206,42649.33,2378.3,1999.0,5786.4,483,Cardiovascular Risk
+2024-01-26,Ozempic,Novo Nordisk,3940,128050.0,8445.54,8087.21,10575.72,1120,Obesity Comorbidity
+2024-01-26,Mounjaro,Eli Lilly,3157,105233.33,5666.57,6087.91,10922.3,669,Obesity Comorbidity
+2024-01-26,Glucocure,Fictional Pharma,513,11970.0,921.39,737.7,1224.68,118,Obesity Comorbidity
+2024-01-27,Jardiance,Boehringer Ingelheim / Eli Lilly,4415,80941.67,7595.02,3780.0,9092.66,1071,Cardiovascular Risk
+2024-01-27,Trulicity,Eli Lilly,3984,126160.0,12231.64,7815.78,18905.76,1007,Obesity Comorbidity
+2024-01-27,Januvia,Merck,2429,48580.0,3953.21,3155.13,7232.87,602,Cardiovascular Risk
+2024-01-27,Janumet,Merck,2220,42920.0,3267.33,2544.76,3443.65,518,Obesity Comorbidity
+2024-01-27,Ozempic,Novo Nordisk,3949,128342.5,8318.57,5049.55,10645.56,903,Type 2 Newly Diagnosed
+2024-01-27,Mounjaro,Eli Lilly,3130,104333.33,7259.67,3649.32,15331.69,660,Obesity Comorbidity
+2024-01-27,Glucocure,Fictional Pharma,518,12086.67,1197.99,790.08,1475.25,134,Cardiovascular Risk
+2024-01-28,Jardiance,Boehringer Ingelheim / Eli Lilly,4552,83453.33,4443.83,3844.13,11570.62,1248,Type 2 Newly Diagnosed
+2024-01-28,Trulicity,Eli Lilly,4083,129295.0,7605.96,5019.16,12030.99,910,Obesity Comorbidity
+2024-01-28,Januvia,Merck,2371,47420.0,3864.2,1832.92,5513.91,664,Cardiovascular Risk
+2024-01-28,Janumet,Merck,2126,41102.67,3114.04,2040.64,6154.86,480,Cardiovascular Risk
+2024-01-28,Ozempic,Novo Nordisk,3847,125027.5,9608.2,6716.18,15079.07,855,Type 2 Newly Diagnosed
+2024-01-28,Mounjaro,Eli Lilly,3170,105666.67,6725.47,5184.75,8781.57,758,Cardiovascular Risk
+2024-01-28,Glucocure,Fictional Pharma,518,12086.67,1000.32,628.92,1040.53,145,Type 2 Newly Diagnosed
+2024-01-29,Jardiance,Boehringer Ingelheim / Eli Lilly,4437,81345.0,7009.58,4053.83,6969.09,1002,Type 2 Newly Diagnosed
+2024-01-29,Trulicity,Eli Lilly,4003,126761.67,11733.1,6313.47,14405.33,831,Obesity Comorbidity
+2024-01-29,Januvia,Merck,2430,48600.0,4077.58,2557.78,4796.43,570,Cardiovascular Risk
+2024-01-29,Janumet,Merck,2210,42726.67,2660.34,1550.71,3897.87,633,Obesity Comorbidity
+2024-01-29,Ozempic,Novo Nordisk,3884,126230.0,10604.21,6910.39,16749.48,1047,Type 2 Newly Diagnosed
+2024-01-29,Mounjaro,Eli Lilly,3308,110266.67,8079.62,7185.29,8861.05,979,Cardiovascular Risk
+2024-01-29,Glucocure,Fictional Pharma,530,12366.67,717.74,775.62,1709.68,145,Obesity Comorbidity
+2024-01-30,Jardiance,Boehringer Ingelheim / Eli Lilly,4438,81363.33,4410.29,3503.29,9697.62,973,Type 2 Newly Diagnosed
+2024-01-30,Trulicity,Eli Lilly,4075,129041.67,9936.11,7896.55,11289.68,1073,Obesity Comorbidity
+2024-01-30,Januvia,Merck,2435,48700.0,4480.7,2224.91,4507.91,592,Cardiovascular Risk
+2024-01-30,Janumet,Merck,2083,40271.33,3398.67,1317.42,4070.12,611,Cardiovascular Risk
+2024-01-30,Ozempic,Novo Nordisk,3994,129805.0,9563.86,4194.88,11063.1,1081,Cardiovascular Risk
+2024-01-30,Mounjaro,Eli Lilly,3351,111700.0,10996.18,6700.44,9953.14,996,Obesity Comorbidity
+2024-01-30,Glucocure,Fictional Pharma,485,11316.67,1030.67,507.82,1553.95,100,Type 2 Newly Diagnosed
+2024-01-31,Jardiance,Boehringer Ingelheim / Eli Lilly,4425,81125.0,5956.76,5498.02,7070.33,955,Cardiovascular Risk
+2024-01-31,Trulicity,Eli Lilly,3994,126476.67,10710.56,4911.19,10847.48,1116,Obesity Comorbidity
+2024-01-31,Januvia,Merck,2381,47620.0,4447.84,3263.37,3913.94,507,Cardiovascular Risk
+2024-01-31,Janumet,Merck,2106,40716.0,3335.71,1869.02,4038.83,509,Cardiovascular Risk
+2024-01-31,Ozempic,Novo Nordisk,3850,125125.0,10788.42,7486.66,11764.9,893,Cardiovascular Risk
+2024-01-31,Mounjaro,Eli Lilly,3369,112300.0,10468.37,5494.66,16594.97,797,Type 2 Newly Diagnosed
+2024-01-31,Glucocure,Fictional Pharma,496,11573.33,667.58,557.23,1355.52,103,Type 2 Newly Diagnosed
+2024-02-01,Jardiance,Boehringer Ingelheim / Eli Lilly,4492,82353.33,4251.6,5504.0,10143.09,957,Cardiovascular Risk
+2024-02-01,Trulicity,Eli Lilly,4134,130910.0,10461.85,7107.4,12741.18,827,Obesity Comorbidity
+2024-02-01,Januvia,Merck,2420,48400.0,3208.74,2594.75,5339.84,641,Cardiovascular Risk
+2024-02-01,Janumet,Merck,2129,41160.67,3458.44,1886.06,6101.2,524,Cardiovascular Risk
+2024-02-01,Ozempic,Novo Nordisk,3865,125612.5,11682.73,7686.74,10397.36,1041,Obesity Comorbidity
+2024-02-01,Mounjaro,Eli Lilly,3185,106166.67,5853.99,5609.44,8629.84,683,Obesity Comorbidity
+2024-02-01,Glucocure,Fictional Pharma,572,13346.67,1040.81,405.62,1372.74,154,Obesity Comorbidity
+2024-02-02,Jardiance,Boehringer Ingelheim / Eli Lilly,4432,81253.33,4397.87,5117.38,8535.35,1277,Obesity Comorbidity
+2024-02-02,Trulicity,Eli Lilly,4086,129390.0,10954.12,8133.15,10724.21,899,Obesity Comorbidity
+2024-02-02,Januvia,Merck,2459,49180.0,4196.22,1537.54,7157.4,648,Type 2 Newly Diagnosed
+2024-02-02,Janumet,Merck,2215,42823.33,4143.59,,5300.3,509,Cardiovascular Risk
+2024-02-02,Ozempic,Novo Nordisk,3970,129025.0,6968.09,8488.9,15267.72,1117,Cardiovascular Risk
+2024-02-02,Mounjaro,Eli Lilly,3108,103600.0,6029.52,4925.59,13544.44,634,Obesity Comorbidity
+2024-02-02,Glucocure,Fictional Pharma,493,11503.33,1076.59,445.97,1706.07,106,Type 2 Newly Diagnosed
+2024-02-03,Jardiance,Boehringer Ingelheim / Eli Lilly,4535,83141.67,5959.82,2639.45,7592.25,1302,Type 2 Newly Diagnosed
+2024-02-03,Trulicity,Eli Lilly,4135,130941.67,10098.74,6511.87,11222.6,964,Obesity Comorbidity
+2024-02-03,Januvia,Merck,2446,48920.0,2943.95,3112.2,4510.11,591,Cardiovascular Risk
+2024-02-03,Janumet,Merck,2077,40155.33,2702.32,1800.63,5988.58,503,Type 2 Newly Diagnosed
+2024-02-03,Ozempic,Novo Nordisk,4041,131332.5,10428.18,4094.39,14142.68,1015,Obesity Comorbidity
+2024-02-03,Mounjaro,Eli Lilly,3375,112500.0,11205.75,4652.35,11828.31,896,Obesity Comorbidity
+2024-02-03,Glucocure,Fictional Pharma,500,11666.67,1010.98,411.4,1517.92,131,Cardiovascular Risk
+2024-02-04,Jardiance,Boehringer Ingelheim / Eli Lilly,4486,82243.33,5645.38,4153.67,8957.3,1180,Type 2 Newly Diagnosed
+2024-02-04,Trulicity,Eli Lilly,4028,127553.33,11931.02,6098.61,14800.93,905,Obesity Comorbidity
+2024-02-04,Januvia,Merck,2481,49620.0,4098.92,2108.15,5355.65,519,Cardiovascular Risk
+2024-02-04,Janumet,Merck,2056,39749.33,3524.72,1400.57,5878.43,478,Obesity Comorbidity
+2024-02-04,Ozempic,Novo Nordisk,4008,130260.0,9391.9,5631.87,14512.84,1155,Obesity Comorbidity
+2024-02-04,Mounjaro,Eli Lilly,3378,112600.0,8939.79,7650.42,10998.42,827,Obesity Comorbidity
+2024-02-04,Glucocure,Fictional Pharma,511,11923.33,1035.19,674.29,1350.01,104,Cardiovascular Risk
+2024-02-05,Jardiance,Boehringer Ingelheim / Eli Lilly,4443,81455.0,7592.49,4262.18,9594.86,1086,Type 2 Newly Diagnosed
+2024-02-05,Trulicity,Eli Lilly,4067,128788.33,9859.84,8688.61,10657.76,836,Type 2 Newly Diagnosed
+2024-02-05,Januvia,Merck,2408,48160.0,3629.42,1524.89,4352.89,557,Cardiovascular Risk
+2024-02-05,Janumet,Merck,2092,40445.33,2675.72,2787.65,4878.02,422,Type 2 Newly Diagnosed
+2024-02-05,Ozempic,Novo Nordisk,4045,131462.5,10956.51,4678.23,10792.83,1006,Obesity Comorbidity
+2024-02-05,Mounjaro,Eli Lilly,3363,112100.0,6515.15,4207.56,14702.82,919,Type 2 Newly Diagnosed
+2024-02-05,Glucocure,Fictional Pharma,489,11410.0,716.15,644.27,1694.43,144,Type 2 Newly Diagnosed
+2024-02-06,Jardiance,Boehringer Ingelheim / Eli Lilly,4557,83545.0,6758.15,5410.06,10020.61,1137,Type 2 Newly Diagnosed
+2024-02-06,Trulicity,Eli Lilly,4063,128661.67,12343.01,6950.87,18766.75,1135,Cardiovascular Risk
+2024-02-06,Januvia,Merck,2395,47900.0,2650.29,2697.43,7183.03,634,Type 2 Newly Diagnosed
+2024-02-06,Janumet,Merck,2120,40986.67,4085.01,2463.18,3538.53,607,Type 2 Newly Diagnosed
+2024-02-06,Ozempic,Novo Nordisk,3947,128277.5,11321.71,8598.06,14196.74,1046,Cardiovascular Risk
+2024-02-06,Mounjaro,Eli Lilly,3416,113866.67,10349.54,3963.51,13449.27,831,Type 2 Newly Diagnosed
+2024-02-06,Glucocure,Fictional Pharma,500,11666.67,939.07,612.94,1244.01,131,Obesity Comorbidity
+2024-02-07,Jardiance,Boehringer Ingelheim / Eli Lilly,4560,83600.0,5740.19,3267.99,7116.34,1020,Cardiovascular Risk
+2024-02-07,Trulicity,Eli Lilly,4103,129928.33,11429.43,,15327.06,1084,Cardiovascular Risk
+2024-02-07,Januvia,Merck,2501,50020.0,3354.46,,5398.04,506,Cardiovascular Risk
+2024-02-07,Janumet,Merck,2089,40387.33,2815.73,2099.2,5342.49,517,Cardiovascular Risk
+2024-02-07,Ozempic,Novo Nordisk,4055,131787.5,7879.43,3993.49,16516.04,818,Cardiovascular Risk
+2024-02-07,Mounjaro,Eli Lilly,3426,114200.0,7880.23,4326.6,12966.59,909,Type 2 Newly Diagnosed
+2024-02-07,Glucocure,Fictional Pharma,564,13160.0,826.96,544.76,1335.88,140,Cardiovascular Risk
+2024-02-08,Jardiance,Boehringer Ingelheim / Eli Lilly,4434,81290.0,4428.79,4772.16,8778.78,1144,Cardiovascular Risk
+2024-02-08,Trulicity,Eli Lilly,4085,129358.33,7639.58,7405.08,11991.61,866,Obesity Comorbidity
+2024-02-08,Januvia,Merck,2414,48280.0,4329.29,1806.11,6964.04,554,Obesity Comorbidity
+2024-02-08,Janumet,Merck,2161,41779.33,3238.37,1325.93,5194.03,606,Cardiovascular Risk
+2024-02-08,Ozempic,Novo Nordisk,4008,130260.0,9868.34,7000.37,17658.32,1057,Obesity Comorbidity
+2024-02-08,Mounjaro,Eli Lilly,3274,109133.33,10367.79,4816.8,10540.2,929,Obesity Comorbidity
+2024-02-08,Glucocure,Fictional Pharma,537,12530.0,1159.76,712.42,1712.44,146,Obesity Comorbidity
+2024-02-09,Jardiance,Boehringer Ingelheim / Eli Lilly,4582,84003.33,4905.85,4996.09,11793.71,1185,Type 2 Newly Diagnosed
+2024-02-09,Trulicity,Eli Lilly,4147,131321.67,10781.32,,15531.26,839,Obesity Comorbidity
+2024-02-09,Januvia,Merck,2419,48380.0,2560.4,1725.76,4800.16,636,Cardiovascular Risk
+2024-02-09,Janumet,Merck,2187,42282.0,3019.36,2482.12,5431.99,525,Cardiovascular Risk
+2024-02-09,Ozempic,Novo Nordisk,4082,132665.0,10634.56,5769.48,19022.4,1150,Obesity Comorbidity
+2024-02-09,Mounjaro,Eli Lilly,3197,106566.67,10092.88,4014.87,10937.58,666,Obesity Comorbidity
+2024-02-09,Glucocure,Fictional Pharma,529,12343.33,890.21,781.02,1566.03,138,Type 2 Newly Diagnosed
+2024-02-10,Jardiance,Boehringer Ingelheim / Eli Lilly,4559,83581.67,7857.01,4683.51,9804.72,1157,Obesity Comorbidity
+2024-02-10,Trulicity,Eli Lilly,4002,126730.0,6668.15,5720.47,13358.11,876,Cardiovascular Risk
+2024-02-10,Januvia,Merck,2369,47380.0,3744.15,1589.63,6979.86,552,Cardiovascular Risk
+2024-02-10,Janumet,Merck,2086,40329.33,3096.95,1365.84,4497.77,459,Cardiovascular Risk
+2024-02-10,Ozempic,Novo Nordisk,4044,131430.0,13019.69,6439.47,14033.68,930,Type 2 Newly Diagnosed
+2024-02-10,Mounjaro,Eli Lilly,3284,109466.67,10905.53,7343.03,12894.84,706,Cardiovascular Risk
+2024-02-10,Glucocure,Fictional Pharma,510,11900.0,747.94,732.04,1672.28,106,Obesity Comorbidity
+2024-02-11,Jardiance,Boehringer Ingelheim / Eli Lilly,4437,81345.0,4323.93,2823.16,7802.21,958,Obesity Comorbidity
+2024-02-11,Trulicity,Eli Lilly,4106,130023.33,12592.49,6780.99,13182.64,857,Obesity Comorbidity
+2024-02-11,Januvia,Merck,2488,49760.0,4660.86,1814.78,6719.56,732,Cardiovascular Risk
+2024-02-11,Janumet,Merck,2097,40542.0,2449.77,2725.39,3573.6,597,Cardiovascular Risk
+2024-02-11,Ozempic,Novo Nordisk,3939,128017.5,9809.22,7534.71,11507.42,1053,Obesity Comorbidity
+2024-02-11,Mounjaro,Eli Lilly,3191,106366.67,7461.52,3929.29,13683.71,664,Obesity Comorbidity
+2024-02-11,Glucocure,Fictional Pharma,510,11900.0,1149.97,630.78,1351.3,131,Type 2 Newly Diagnosed
+2024-02-12,Jardiance,Boehringer Ingelheim / Eli Lilly,4494,82390.0,6616.96,4992.21,7599.55,1117,Cardiovascular Risk
+2024-02-12,Trulicity,Eli Lilly,4137,131005.0,8957.69,4287.39,10717.1,887,Type 2 Newly Diagnosed
+2024-02-12,Januvia,Merck,2403,48060.0,4269.47,,5844.11,499,Cardiovascular Risk
+2024-02-12,Janumet,Merck,2055,39730.0,2196.4,2210.3,3779.22,501,Cardiovascular Risk
+2024-02-12,Ozempic,Novo Nordisk,3969,128992.5,8942.15,6782.12,12051.09,938,Obesity Comorbidity
+2024-02-12,Mounjaro,Eli Lilly,3452,115066.67,9317.51,4820.63,12671.56,950,Type 2 Newly Diagnosed
+2024-02-12,Glucocure,Fictional Pharma,512,11946.67,778.49,406.69,1534.56,108,Type 2 Newly Diagnosed
+2024-02-13,Jardiance,Boehringer Ingelheim / Eli Lilly,4403,80721.67,4959.92,3172.83,7705.38,1159,Type 2 Newly Diagnosed
+2024-02-13,Trulicity,Eli Lilly,4129,130751.67,11272.87,8065.25,14165.1,1175,Obesity Comorbidity
+2024-02-13,Januvia,Merck,2340,46800.0,3467.03,1735.13,5012.07,590,Cardiovascular Risk
+2024-02-13,Janumet,Merck,2163,41818.0,2966.11,2576.55,5049.54,461,Cardiovascular Risk
+2024-02-13,Ozempic,Novo Nordisk,4034,131105.0,7965.95,3996.71,12701.99,1022,Cardiovascular Risk
+2024-02-13,Mounjaro,Eli Lilly,3366,112200.0,7693.6,4559.14,14050.39,687,Obesity Comorbidity
+2024-02-13,Glucocure,Fictional Pharma,547,12763.33,719.34,824.34,1238.6,117,Obesity Comorbidity
+2024-02-14,Jardiance,Boehringer Ingelheim / Eli Lilly,4579,83948.33,5844.46,5729.38,7498.28,1309,Type 2 Newly Diagnosed
+2024-02-14,Trulicity,Eli Lilly,4127,130688.33,11030.98,6208.23,12784.84,955,Cardiovascular Risk
+2024-02-14,Januvia,Merck,2389,47780.0,4255.22,,5479.49,538,Obesity Comorbidity
+2024-02-14,Janumet,Merck,2110,40793.33,2958.78,2663.74,3565.28,609,Cardiovascular Risk
+2024-02-14,Ozempic,Novo Nordisk,4006,130195.0,6781.03,4347.43,16943.92,1073,Type 2 Newly Diagnosed
+2024-02-14,Mounjaro,Eli Lilly,3353,111766.67,8430.44,5085.81,12555.45,682,Cardiovascular Risk
+2024-02-14,Glucocure,Fictional Pharma,545,12716.67,1056.35,475.7,1172.32,151,Type 2 Newly Diagnosed
+2024-02-15,Jardiance,Boehringer Ingelheim / Eli Lilly,4493,82371.67,4401.58,3869.15,7066.11,1271,Cardiovascular Risk
+2024-02-15,Trulicity,Eli Lilly,4090,129516.67,11457.19,7121.67,13824.06,938,Obesity Comorbidity
+2024-02-15,Januvia,Merck,2378,47560.0,2997.98,1558.55,7000.25,536,Obesity Comorbidity
+2024-02-15,Janumet,Merck,2143,41431.33,2331.0,2029.04,3645.0,497,Obesity Comorbidity
+2024-02-15,Ozempic,Novo Nordisk,4084,132730.0,12023.81,7467.28,11808.55,1122,Obesity Comorbidity
+2024-02-15,Mounjaro,Eli Lilly,3392,113066.67,7778.95,5879.88,12121.39,710,Type 2 Newly Diagnosed
+2024-02-15,Glucocure,Fictional Pharma,524,12226.67,1024.58,609.4,989.02,153,Cardiovascular Risk
+2024-02-16,Jardiance,Boehringer Ingelheim / Eli Lilly,4521,82885.0,7713.98,5293.08,11962.37,1273,Type 2 Newly Diagnosed
+2024-02-16,Trulicity,Eli Lilly,4152,131480.0,13005.98,7879.29,15652.29,922,Type 2 Newly Diagnosed
+2024-02-16,Januvia,Merck,2413,48260.0,3062.9,2489.36,6319.95,664,Type 2 Newly Diagnosed
+2024-02-16,Janumet,Merck,2054,39710.67,2955.26,1430.66,4128.59,609,Obesity Comorbidity
+2024-02-16,Ozempic,Novo Nordisk,4094,133055.0,10034.75,5575.26,15906.93,1060,Obesity Comorbidity
+2024-02-16,Mounjaro,Eli Lilly,3512,117066.67,10987.52,5543.34,10683.43,905,Obesity Comorbidity
+2024-02-16,Glucocure,Fictional Pharma,567,13230.0,1142.05,921.77,1150.25,127,Type 2 Newly Diagnosed
+2024-02-17,Jardiance,Boehringer Ingelheim / Eli Lilly,4505,82591.67,5413.59,4930.22,11319.87,1197,Cardiovascular Risk
+2024-02-17,Trulicity,Eli Lilly,4079,129168.33,11520.47,6738.59,10380.75,960,Obesity Comorbidity
+2024-02-17,Januvia,Merck,2379,47580.0,2405.24,2853.93,6333.25,673,Cardiovascular Risk
+2024-02-17,Janumet,Merck,2169,41934.0,2737.46,2728.48,6279.34,466,Obesity Comorbidity
+2024-02-17,Ozempic,Novo Nordisk,4059,131917.5,11743.29,5103.67,11826.09,1072,Obesity Comorbidity
+2024-02-17,Mounjaro,Eli Lilly,3427,114233.33,7742.12,7055.95,9882.25,897,Obesity Comorbidity
+2024-02-17,Glucocure,Fictional Pharma,500,11666.67,1005.32,398.6,1117.44,125,Obesity Comorbidity
+2024-02-18,Jardiance,Boehringer Ingelheim / Eli Lilly,4519,82848.33,6944.63,5153.13,8192.66,1176,Cardiovascular Risk
+2024-02-18,Trulicity,Eli Lilly,4064,128693.33,7393.43,7440.61,17015.16,1071,Cardiovascular Risk
+2024-02-18,Januvia,Merck,2440,48800.0,3702.14,2323.27,4407.7,680,Obesity Comorbidity
+2024-02-18,Janumet,Merck,2169,41934.0,2227.83,,5604.95,514,Cardiovascular Risk
+2024-02-18,Ozempic,Novo Nordisk,4057,131852.5,9369.76,7310.84,17799.51,1072,Type 2 Newly Diagnosed
+2024-02-18,Mounjaro,Eli Lilly,3431,114366.67,9991.18,6816.19,16757.22,1026,Obesity Comorbidity
+2024-02-18,Glucocure,Fictional Pharma,558,13020.0,758.61,755.29,1575.51,166,Obesity Comorbidity
+2024-02-19,Jardiance,Boehringer Ingelheim / Eli Lilly,4597,84278.33,5472.72,5699.51,8271.98,1157,Obesity Comorbidity
+2024-02-19,Trulicity,Eli Lilly,4086,129390.0,7673.48,8035.86,14501.14,1161,Obesity Comorbidity
+2024-02-19,Januvia,Merck,2391,47820.0,2510.17,3163.61,6869.69,629,Cardiovascular Risk
+2024-02-19,Janumet,Merck,2121,41006.0,2376.11,2231.1,3669.0,586,Cardiovascular Risk
+2024-02-19,Ozempic,Novo Nordisk,4096,133120.0,6745.21,5499.16,11065.15,1012,Type 2 Newly Diagnosed
+2024-02-19,Mounjaro,Eli Lilly,3404,113466.67,10138.96,7828.45,12025.71,774,Obesity Comorbidity
+2024-02-19,Glucocure,Fictional Pharma,587,13696.67,729.6,678.02,1127.96,162,Type 2 Newly Diagnosed
+2024-02-20,Jardiance,Boehringer Ingelheim / Eli Lilly,4506,82610.0,6329.66,3836.72,8617.38,963,Cardiovascular Risk
+2024-02-20,Trulicity,Eli Lilly,4179,132335.0,12991.29,6935.24,19265.01,1113,Type 2 Newly Diagnosed
+2024-02-20,Januvia,Merck,2439,48780.0,4221.47,3378.11,4778.35,551,Cardiovascular Risk
+2024-02-20,Janumet,Merck,2068,39981.33,3942.17,2172.63,4176.67,509,Type 2 Newly Diagnosed
+2024-02-20,Ozempic,Novo Nordisk,4127,134127.5,9509.57,4500.46,17149.92,1122,Obesity Comorbidity
+2024-02-20,Mounjaro,Eli Lilly,3401,113366.67,10543.89,6678.72,9606.33,719,Obesity Comorbidity
+2024-02-20,Glucocure,Fictional Pharma,516,12040.0,738.14,769.08,1324.45,134,Type 2 Newly Diagnosed
+2024-02-21,Jardiance,Boehringer Ingelheim / Eli Lilly,4421,81051.67,6763.85,3930.34,8820.33,1259,Cardiovascular Risk
+2024-02-21,Trulicity,Eli Lilly,4107,130055.0,11620.22,,13645.13,940,Cardiovascular Risk
+2024-02-21,Januvia,Merck,2380,47600.0,3188.67,3088.55,5623.43,594,Cardiovascular Risk
+2024-02-21,Janumet,Merck,2133,41238.0,2484.34,,5838.09,537,Cardiovascular Risk
+2024-02-21,Ozempic,Novo Nordisk,4109,133542.5,10417.53,8016.45,15899.39,1210,Obesity Comorbidity
+2024-02-21,Mounjaro,Eli Lilly,3505,116833.33,11153.03,,13417.94,863,Type 2 Newly Diagnosed
+2024-02-21,Glucocure,Fictional Pharma,552,12880.0,899.91,,1428.07,135,Type 2 Newly Diagnosed
+2024-02-22,Jardiance,Boehringer Ingelheim / Eli Lilly,4411,80868.33,5204.44,4990.72,9739.1,1113,Cardiovascular Risk
+2024-02-22,Trulicity,Eli Lilly,4078,129136.67,7721.34,8507.31,15033.23,1077,Obesity Comorbidity
+2024-02-22,Januvia,Merck,2327,46540.0,3754.55,2072.15,6646.05,504,Type 2 Newly Diagnosed
+2024-02-22,Janumet,Merck,2144,41450.67,2826.3,2458.25,5696.42,435,Obesity Comorbidity
+2024-02-22,Ozempic,Novo Nordisk,4157,135102.5,12543.42,4688.83,17803.96,1233,Obesity Comorbidity
+2024-02-22,Mounjaro,Eli Lilly,3394,113133.33,11223.45,6416.56,14076.84,820,Type 2 Newly Diagnosed
+2024-02-22,Glucocure,Fictional Pharma,596,13906.67,785.61,799.28,1203.1,158,Type 2 Newly Diagnosed
+2024-02-23,Jardiance,Boehringer Ingelheim / Eli Lilly,4547,83361.67,4499.06,4940.0,7762.54,1314,Cardiovascular Risk
+2024-02-23,Trulicity,Eli Lilly,4141,131131.67,7282.71,7918.16,19560.2,1208,Cardiovascular Risk
+2024-02-23,Januvia,Merck,2421,48420.0,3287.23,2409.79,6680.87,595,Obesity Comorbidity
+2024-02-23,Janumet,Merck,2034,39324.0,2137.61,2310.8,4302.37,429,Cardiovascular Risk
+2024-02-23,Ozempic,Novo Nordisk,4015,130487.5,11410.0,7313.29,16110.64,983,Obesity Comorbidity
+2024-02-23,Mounjaro,Eli Lilly,3381,112700.0,11152.26,,10012.1,835,Obesity Comorbidity
+2024-02-23,Glucocure,Fictional Pharma,568,13253.33,665.2,758.98,1215.32,131,Obesity Comorbidity
+2024-02-24,Jardiance,Boehringer Ingelheim / Eli Lilly,4400,80666.67,5159.75,4494.37,10372.97,1248,Cardiovascular Risk
+2024-02-24,Trulicity,Eli Lilly,4065,128725.0,6877.17,7791.24,13977.15,959,Obesity Comorbidity
+2024-02-24,Januvia,Merck,2456,49120.0,4392.43,2780.16,4824.57,679,Cardiovascular Risk
+2024-02-24,Janumet,Merck,2162,41798.67,2904.5,1888.47,4007.29,468,Obesity Comorbidity
+2024-02-24,Ozempic,Novo Nordisk,4159,135167.5,13359.96,,14811.44,990,Type 2 Newly Diagnosed
+2024-02-24,Mounjaro,Eli Lilly,3551,118366.67,7575.69,,11890.56,1036,Cardiovascular Risk
+2024-02-24,Glucocure,Fictional Pharma,545,12716.67,1169.59,880.91,1570.43,147,Obesity Comorbidity
+2024-02-25,Jardiance,Boehringer Ingelheim / Eli Lilly,4523,82921.67,5313.29,5382.46,7287.21,1279,Cardiovascular Risk
+2024-02-25,Trulicity,Eli Lilly,4090,129516.67,8181.02,4124.45,15503.4,845,Obesity Comorbidity
+2024-02-25,Januvia,Merck,2451,49020.0,3179.53,2058.68,6471.79,636,Type 2 Newly Diagnosed
+2024-02-25,Janumet,Merck,2077,40155.33,3769.1,,4169.26,597,Cardiovascular Risk
+2024-02-25,Ozempic,Novo Nordisk,4157,135102.5,12416.95,5594.81,14867.05,1052,Obesity Comorbidity
+2024-02-25,Mounjaro,Eli Lilly,3339,111300.0,9231.36,4462.27,10619.78,859,Obesity Comorbidity
+2024-02-25,Glucocure,Fictional Pharma,577,13463.33,1123.65,,1905.45,167,Obesity Comorbidity
+2024-02-26,Jardiance,Boehringer Ingelheim / Eli Lilly,4444,81473.33,4408.55,,9166.59,1197,Type 2 Newly Diagnosed
+2024-02-26,Trulicity,Eli Lilly,4178,132303.33,9548.2,7181.9,16430.95,1208,Obesity Comorbidity
+2024-02-26,Januvia,Merck,2464,49280.0,4130.71,1737.99,4750.24,650,Cardiovascular Risk
+2024-02-26,Janumet,Merck,2074,40097.33,3910.55,2166.3,5294.92,550,Cardiovascular Risk
+2024-02-26,Ozempic,Novo Nordisk,4066,132145.0,12497.48,3979.79,10939.44,978,Obesity Comorbidity
+2024-02-26,Mounjaro,Eli Lilly,3580,119333.33,7618.33,8217.45,12314.52,766,Obesity Comorbidity
+2024-02-26,Glucocure,Fictional Pharma,545,12716.67,920.35,622.75,1543.3,134,Obesity Comorbidity
+2024-02-27,Jardiance,Boehringer Ingelheim / Eli Lilly,4448,81546.67,4970.55,2566.18,7140.37,893,Obesity Comorbidity
+2024-02-27,Trulicity,Eli Lilly,4118,130403.33,7944.89,5981.85,10837.45,1004,Obesity Comorbidity
+2024-02-27,Januvia,Merck,2393,47860.0,3869.64,1653.73,4985.37,499,Cardiovascular Risk
+2024-02-27,Janumet,Merck,2046,39556.0,3313.65,1257.65,4412.15,415,Cardiovascular Risk
+2024-02-27,Ozempic,Novo Nordisk,4029,130942.5,9308.89,6081.08,18794.54,964,Obesity Comorbidity
+2024-02-27,Mounjaro,Eli Lilly,3573,119100.0,7722.01,6995.6,17481.77,955,Obesity Comorbidity
+2024-02-27,Glucocure,Fictional Pharma,531,12390.0,651.18,499.37,1042.83,139,Obesity Comorbidity
+2024-02-28,Jardiance,Boehringer Ingelheim / Eli Lilly,4481,82151.67,6840.33,5094.57,10382.86,1011,Type 2 Newly Diagnosed
+2024-02-28,Trulicity,Eli Lilly,4191,132715.0,12610.06,6127.4,13600.06,1068,Obesity Comorbidity
+2024-02-28,Januvia,Merck,2305,46100.0,3869.33,2050.38,5603.74,615,Type 2 Newly Diagnosed
+2024-02-28,Janumet,Merck,2054,39710.67,3201.82,,5189.32,598,Type 2 Newly Diagnosed
+2024-02-28,Ozempic,Novo Nordisk,3991,129707.5,11861.87,9034.2,17821.93,1009,Obesity Comorbidity
+2024-02-28,Mounjaro,Eli Lilly,3581,119366.67,8868.95,6336.94,9914.8,821,Type 2 Newly Diagnosed
+2024-02-28,Glucocure,Fictional Pharma,556,12973.33,951.34,813.02,1099.06,123,Type 2 Newly Diagnosed
+2024-02-29,Jardiance,Boehringer Ingelheim / Eli Lilly,4506,82610.0,6910.19,3388.27,8380.12,1094,Cardiovascular Risk
+2024-02-29,Trulicity,Eli Lilly,4145,131258.33,11960.41,8440.24,18922.79,1159,Obesity Comorbidity
+2024-02-29,Januvia,Merck,2405,48100.0,2434.6,2154.98,3940.32,694,Obesity Comorbidity
+2024-02-29,Janumet,Merck,2153,41624.67,2428.51,1965.57,3745.45,511,Cardiovascular Risk
+2024-02-29,Ozempic,Novo Nordisk,4187,136077.5,9115.62,6897.71,14495.48,1233,Type 2 Newly Diagnosed
+2024-02-29,Mounjaro,Eli Lilly,3447,114900.0,6326.74,7340.45,13463.52,894,Cardiovascular Risk
+2024-02-29,Glucocure,Fictional Pharma,564,13160.0,956.73,757.11,1182.28,168,Type 2 Newly Diagnosed
+2024-03-01,Jardiance,Boehringer Ingelheim / Eli Lilly,4519,82848.33,6345.82,2935.45,7203.76,1345,Type 2 Newly Diagnosed
+2024-03-01,Trulicity,Eli Lilly,4146,131290.0,7614.98,4061.34,17453.03,990,Obesity Comorbidity
+2024-03-01,Januvia,Merck,2329,46580.0,4274.83,2087.52,4948.48,496,Obesity Comorbidity
+2024-03-01,Janumet,Merck,2133,41238.0,3766.49,2860.29,4131.57,555,Cardiovascular Risk
+2024-03-01,Ozempic,Novo Nordisk,4144,134680.0,9026.17,6957.07,12227.62,988,Obesity Comorbidity
+2024-03-01,Mounjaro,Eli Lilly,3491,116366.67,7254.92,7394.17,12210.7,756,Cardiovascular Risk
+2024-03-01,Glucocure,Fictional Pharma,560,13066.67,984.86,746.05,1260.31,121,Cardiovascular Risk
+2024-03-02,Jardiance,Boehringer Ingelheim / Eli Lilly,4467,81895.0,6471.62,2912.83,9097.15,1048,Cardiovascular Risk
+2024-03-02,Trulicity,Eli Lilly,4180,132366.67,11796.44,7860.35,13373.57,922,Obesity Comorbidity
+2024-03-02,Januvia,Merck,2449,48980.0,2942.01,,4053.69,641,Obesity Comorbidity
+2024-03-02,Janumet,Merck,2115,40890.0,4015.46,2714.2,5338.19,471,Cardiovascular Risk
+2024-03-02,Ozempic,Novo Nordisk,4144,134680.0,11756.62,6999.71,11318.76,844,Obesity Comorbidity
+2024-03-02,Mounjaro,Eli Lilly,3383,112766.67,11105.3,,13070.01,688,Type 2 Newly Diagnosed
+2024-03-02,Glucocure,Fictional Pharma,562,13113.33,1041.68,590.27,1311.4,160,Type 2 Newly Diagnosed
+2024-03-03,Jardiance,Boehringer Ingelheim / Eli Lilly,4550,83416.67,6303.28,4145.23,10044.16,1085,Cardiovascular Risk
+2024-03-03,Trulicity,Eli Lilly,4125,130625.0,10463.83,7008.85,17825.25,1007,Obesity Comorbidity
+2024-03-03,Januvia,Merck,2368,47360.0,2375.5,2633.59,4778.17,487,Type 2 Newly Diagnosed
+2024-03-03,Janumet,Merck,2058,39788.0,2881.29,2006.0,4928.2,593,Cardiovascular Risk
+2024-03-03,Ozempic,Novo Nordisk,4123,133997.5,11307.53,7893.56,17215.63,1021,Type 2 Newly Diagnosed
+2024-03-03,Mounjaro,Eli Lilly,3471,115700.0,10527.53,5014.01,15192.98,917,Obesity Comorbidity
+2024-03-03,Glucocure,Fictional Pharma,605,14116.67,1410.13,805.68,1948.0,121,Type 2 Newly Diagnosed
+2024-03-04,Jardiance,Boehringer Ingelheim / Eli Lilly,4534,83123.33,5576.67,4598.07,7051.52,926,Type 2 Newly Diagnosed
+2024-03-04,Trulicity,Eli Lilly,4181,132398.33,10979.4,8029.25,18431.77,1157,Obesity Comorbidity
+2024-03-04,Januvia,Merck,2397,47940.0,4130.39,1975.77,6142.0,575,Type 2 Newly Diagnosed
+2024-03-04,Janumet,Merck,2068,39981.33,2220.96,2492.01,5850.79,485,Type 2 Newly Diagnosed
+2024-03-04,Ozempic,Novo Nordisk,4075,132437.5,12375.92,7584.69,11641.95,856,Cardiovascular Risk
+2024-03-04,Mounjaro,Eli Lilly,3497,116566.67,6674.59,6808.01,14766.64,866,Obesity Comorbidity
+2024-03-04,Glucocure,Fictional Pharma,546,12740.0,1148.82,855.73,1380.47,124,Cardiovascular Risk
+2024-03-05,Jardiance,Boehringer Ingelheim / Eli Lilly,4452,81620.0,6321.39,3164.49,6721.97,1265,Type 2 Newly Diagnosed
+2024-03-05,Trulicity,Eli Lilly,4066,128756.67,7229.18,8439.53,14834.81,1076,Obesity Comorbidity
+2024-03-05,Januvia,Merck,2301,46020.0,3577.27,2553.36,5376.95,649,Obesity Comorbidity
+2024-03-05,Janumet,Merck,2101,40619.33,3663.78,2116.27,4728.57,593,Type 2 Newly Diagnosed
+2024-03-05,Ozempic,Novo Nordisk,4027,130877.5,9794.19,5414.53,11696.26,914,Obesity Comorbidity
+2024-03-05,Mounjaro,Eli Lilly,3436,114533.33,8031.34,3906.72,10678.26,780,Obesity Comorbidity
+2024-03-05,Glucocure,Fictional Pharma,531,12390.0,1057.47,402.77,1719.16,120,Type 2 Newly Diagnosed
+2024-03-06,Jardiance,Boehringer Ingelheim / Eli Lilly,4468,81913.33,4434.44,5507.48,11293.39,1313,Type 2 Newly Diagnosed
+2024-03-06,Trulicity,Eli Lilly,4186,132556.67,8704.65,8159.83,18880.19,1189,Obesity Comorbidity
+2024-03-06,Januvia,Merck,2401,48020.0,4022.01,1663.46,3983.76,705,Cardiovascular Risk
+2024-03-06,Janumet,Merck,2049,39614.0,3374.83,1195.33,3632.08,539,Cardiovascular Risk
+2024-03-06,Ozempic,Novo Nordisk,4037,131202.5,8386.72,4616.23,16705.7,881,Cardiovascular Risk
+2024-03-06,Mounjaro,Eli Lilly,3570,119000.0,10601.85,6636.15,9921.39,751,Obesity Comorbidity
+2024-03-06,Glucocure,Fictional Pharma,562,13113.33,1223.36,643.06,1150.94,134,Obesity Comorbidity
+2024-03-07,Jardiance,Boehringer Ingelheim / Eli Lilly,4504,82573.33,7297.7,3852.89,11358.18,924,Cardiovascular Risk
+2024-03-07,Trulicity,Eli Lilly,4067,128788.33,12040.18,7626.83,16142.32,964,Obesity Comorbidity
+2024-03-07,Januvia,Merck,2374,47480.0,3075.05,1683.83,5964.19,619,Cardiovascular Risk
+2024-03-07,Janumet,Merck,2015,38956.67,2049.51,2231.74,4393.17,599,Cardiovascular Risk
+2024-03-07,Ozempic,Novo Nordisk,4050,131625.0,9001.74,4254.6,11557.45,926,Obesity Comorbidity
+2024-03-07,Mounjaro,Eli Lilly,3421,114033.33,9624.67,4524.34,16395.12,718,Cardiovascular Risk
+2024-03-07,Glucocure,Fictional Pharma,596,13906.67,982.95,691.36,1506.1,126,Obesity Comorbidity
+2024-03-08,Jardiance,Boehringer Ingelheim / Eli Lilly,4581,83985.0,7243.1,5467.92,6963.7,1038,Obesity Comorbidity
+2024-03-08,Trulicity,Eli Lilly,4118,130403.33,11566.72,7943.76,15190.78,952,Cardiovascular Risk
+2024-03-08,Januvia,Merck,2312,46240.0,2488.6,2094.82,4889.48,595,Type 2 Newly Diagnosed
+2024-03-08,Janumet,Merck,2120,40986.67,2650.42,2497.14,4765.0,427,Obesity Comorbidity
+2024-03-08,Ozempic,Novo Nordisk,4160,135200.0,10600.31,7641.54,16005.89,1069,Cardiovascular Risk
+2024-03-08,Mounjaro,Eli Lilly,3545,118166.67,10535.73,,13241.72,1027,Obesity Comorbidity
+2024-03-08,Glucocure,Fictional Pharma,520,12133.33,1037.48,818.94,1483.06,150,Type 2 Newly Diagnosed
+2024-03-09,Jardiance,Boehringer Ingelheim / Eli Lilly,4523,82921.67,4385.91,5664.51,12105.79,1118,Cardiovascular Risk
+2024-03-09,Trulicity,Eli Lilly,4151,131448.33,10808.94,6894.69,17664.68,1100,Obesity Comorbidity
+2024-03-09,Januvia,Merck,2373,47460.0,2707.13,,6392.51,521,Cardiovascular Risk
+2024-03-09,Janumet,Merck,1994,38550.67,2943.85,2554.25,3526.29,594,Cardiovascular Risk
+2024-03-09,Ozempic,Novo Nordisk,4104,133380.0,12787.71,5551.3,15058.49,962,Cardiovascular Risk
+2024-03-09,Mounjaro,Eli Lilly,3567,118900.0,6820.72,3604.29,14763.16,735,Obesity Comorbidity
+2024-03-09,Glucocure,Fictional Pharma,571,13323.33,867.29,805.31,1396.27,137,Cardiovascular Risk
+2024-03-10,Jardiance,Boehringer Ingelheim / Eli Lilly,4445,81491.67,5193.89,,9141.45,922,Cardiovascular Risk
+2024-03-10,Trulicity,Eli Lilly,4198,132936.67,10374.87,8582.19,15114.01,1032,Cardiovascular Risk
+2024-03-10,Januvia,Merck,2389,47780.0,4733.07,2949.25,6677.97,679,Type 2 Newly Diagnosed
+2024-03-10,Janumet,Merck,2051,39652.67,3244.66,1979.84,4301.01,432,Cardiovascular Risk
+2024-03-10,Ozempic,Novo Nordisk,4234,137605.0,8665.96,6533.46,16725.79,1087,Type 2 Newly Diagnosed
+2024-03-10,Mounjaro,Eli Lilly,3555,118500.0,10839.15,7025.26,12425.07,716,Obesity Comorbidity
+2024-03-10,Glucocure,Fictional Pharma,561,13090.0,1294.15,789.23,1195.34,141,Type 2 Newly Diagnosed
+2024-03-11,Jardiance,Boehringer Ingelheim / Eli Lilly,4495,82408.33,5076.52,3982.74,11099.94,1038,Cardiovascular Risk
+2024-03-11,Trulicity,Eli Lilly,4145,131258.33,10520.78,8323.92,17707.99,1183,Obesity Comorbidity
+2024-03-11,Januvia,Merck,2435,48700.0,3979.68,1893.6,4992.57,542,Cardiovascular Risk
+2024-03-11,Janumet,Merck,2070,40020.0,2492.86,1845.35,5707.85,466,Type 2 Newly Diagnosed
+2024-03-11,Ozempic,Novo Nordisk,4058,131885.0,13123.13,8993.75,15117.62,874,Obesity Comorbidity
+2024-03-11,Mounjaro,Eli Lilly,3650,121666.67,6635.22,3808.74,10224.77,961,Obesity Comorbidity
+2024-03-11,Glucocure,Fictional Pharma,609,14210.0,1270.05,568.97,1697.88,143,Type 2 Newly Diagnosed
+2024-03-12,Jardiance,Boehringer Ingelheim / Eli Lilly,4467,81895.0,7789.18,5330.89,12137.34,1271,Type 2 Newly Diagnosed
+2024-03-12,Trulicity,Eli Lilly,4120,130466.67,6777.29,4101.97,12037.58,914,Cardiovascular Risk
+2024-03-12,Januvia,Merck,2345,46900.0,3368.86,2495.25,5448.32,605,Cardiovascular Risk
+2024-03-12,Janumet,Merck,2124,41064.0,2936.29,2716.4,5716.5,455,Obesity Comorbidity
+2024-03-12,Ozempic,Novo Nordisk,4186,136045.0,12848.68,7044.44,12830.71,1181,Obesity Comorbidity
+2024-03-12,Mounjaro,Eli Lilly,3564,118800.0,6134.89,6586.47,12533.97,924,Obesity Comorbidity
+2024-03-12,Glucocure,Fictional Pharma,619,14443.33,1017.83,901.77,2000.51,155,Type 2 Newly Diagnosed
+2024-03-13,Jardiance,Boehringer Ingelheim / Eli Lilly,4423,81088.33,7398.45,4105.21,9116.81,1040,Type 2 Newly Diagnosed
+2024-03-13,Trulicity,Eli Lilly,4179,132335.0,6865.35,4646.9,17678.4,1013,Type 2 Newly Diagnosed
+2024-03-13,Januvia,Merck,2329,46580.0,4013.17,1771.08,4390.19,550,Type 2 Newly Diagnosed
+2024-03-13,Janumet,Merck,1978,38241.33,2011.3,1439.59,3889.37,570,Cardiovascular Risk
+2024-03-13,Ozempic,Novo Nordisk,4223,137247.5,12684.59,6437.62,13890.16,1157,Obesity Comorbidity
+2024-03-13,Mounjaro,Eli Lilly,3450,115000.0,7310.77,4026.64,11912.57,777,Cardiovascular Risk
+2024-03-13,Glucocure,Fictional Pharma,621,14490.0,1270.95,662.6,1758.28,185,Obesity Comorbidity
+2024-03-14,Jardiance,Boehringer Ingelheim / Eli Lilly,4458,81730.0,7167.03,2519.48,8077.49,1076,Cardiovascular Risk
+2024-03-14,Trulicity,Eli Lilly,4204,133126.67,9863.8,5919.93,19495.68,1104,Obesity Comorbidity
+2024-03-14,Januvia,Merck,2396,47920.0,2641.63,2422.56,5540.62,661,Obesity Comorbidity
+2024-03-14,Janumet,Merck,2100,40600.0,3445.34,2378.07,4560.2,593,Cardiovascular Risk
+2024-03-14,Ozempic,Novo Nordisk,4215,136987.5,12674.57,5997.88,11254.9,895,Type 2 Newly Diagnosed
+2024-03-14,Mounjaro,Eli Lilly,3506,116866.67,7804.42,8080.28,16356.38,822,Obesity Comorbidity
+2024-03-14,Glucocure,Fictional Pharma,598,13953.33,1001.38,725.19,1420.99,159,Type 2 Newly Diagnosed
+2024-03-15,Jardiance,Boehringer Ingelheim / Eli Lilly,4499,82481.67,7152.99,3742.54,6743.99,1253,Cardiovascular Risk
+2024-03-15,Trulicity,Eli Lilly,4145,131258.33,12930.63,6235.62,12659.62,1120,Obesity Comorbidity
+2024-03-15,Januvia,Merck,2354,47080.0,3611.72,,5182.18,637,Obesity Comorbidity
+2024-03-15,Janumet,Merck,2051,39652.67,2338.03,,4706.35,587,Obesity Comorbidity
+2024-03-15,Ozempic,Novo Nordisk,4192,136240.0,12321.48,7777.41,16859.98,1207,Obesity Comorbidity
+2024-03-15,Mounjaro,Eli Lilly,3463,115433.33,10369.85,4619.49,14283.86,925,Obesity Comorbidity
+2024-03-15,Glucocure,Fictional Pharma,539,12576.67,1023.74,501.81,1149.47,160,Type 2 Newly Diagnosed
+2024-03-16,Jardiance,Boehringer Ingelheim / Eli Lilly,4411,80868.33,5283.84,3567.78,9986.47,1009,Obesity Comorbidity
+2024-03-16,Trulicity,Eli Lilly,4126,130656.67,10488.5,5211.28,13707.17,1187,Type 2 Newly Diagnosed
+2024-03-16,Januvia,Merck,2288,45760.0,2452.99,1748.77,4882.63,612,Cardiovascular Risk
+2024-03-16,Janumet,Merck,2053,39691.33,3239.37,1506.67,4337.6,548,Cardiovascular Risk
+2024-03-16,Ozempic,Novo Nordisk,4222,137215.0,8756.51,,20393.69,961,Type 2 Newly Diagnosed
+2024-03-16,Mounjaro,Eli Lilly,3606,120200.0,6629.76,6239.75,17852.95,1073,Obesity Comorbidity
+2024-03-16,Glucocure,Fictional Pharma,606,14140.0,1005.87,620.19,1524.76,163,Type 2 Newly Diagnosed
+2024-03-17,Jardiance,Boehringer Ingelheim / Eli Lilly,4409,80831.67,7033.01,4464.17,9576.32,1109,Cardiovascular Risk
+2024-03-17,Trulicity,Eli Lilly,4225,133791.67,7204.54,4418.25,19613.81,1100,Obesity Comorbidity
+2024-03-17,Januvia,Merck,2415,48300.0,3921.11,2701.91,4768.09,627,Type 2 Newly Diagnosed
+2024-03-17,Janumet,Merck,2034,39324.0,3074.47,,4995.88,482,Cardiovascular Risk
+2024-03-17,Ozempic,Novo Nordisk,4266,138645.0,11075.44,8962.54,20279.79,968,Type 2 Newly Diagnosed
+2024-03-17,Mounjaro,Eli Lilly,3723,124100.0,7527.19,8384.48,9986.05,972,Obesity Comorbidity
+2024-03-17,Glucocure,Fictional Pharma,625,14583.33,1225.08,675.59,1182.38,168,Obesity Comorbidity
+2024-03-18,Jardiance,Boehringer Ingelheim / Eli Lilly,4448,81546.67,7908.61,3165.59,10666.37,1130,Cardiovascular Risk
+2024-03-18,Trulicity,Eli Lilly,4233,134045.0,13250.39,4567.68,10801.67,1131,Obesity Comorbidity
+2024-03-18,Januvia,Merck,2350,47000.0,3369.95,1896.38,5189.19,684,Cardiovascular Risk
+2024-03-18,Janumet,Merck,2119,40967.33,2517.79,2125.18,5200.69,634,Cardiovascular Risk
+2024-03-18,Ozempic,Novo Nordisk,4252,138190.0,12564.02,4422.18,19872.62,1128,Type 2 Newly Diagnosed
+2024-03-18,Mounjaro,Eli Lilly,3690,123000.0,7815.46,4907.99,10378.35,817,Obesity Comorbidity
+2024-03-18,Glucocure,Fictional Pharma,593,13836.67,1104.92,744.3,1467.43,131,Type 2 Newly Diagnosed
+2024-03-19,Jardiance,Boehringer Ingelheim / Eli Lilly,4481,82151.67,7488.06,5529.5,9701.93,1256,Type 2 Newly Diagnosed
+2024-03-19,Trulicity,Eli Lilly,4177,132271.67,11493.86,6727.07,11215.59,1145,Obesity Comorbidity
+2024-03-19,Januvia,Merck,2336,46720.0,4204.14,2025.04,6567.13,515,Cardiovascular Risk
+2024-03-19,Janumet,Merck,2000,38666.67,3455.61,1862.72,4799.2,533,Type 2 Newly Diagnosed
+2024-03-19,Ozempic,Novo Nordisk,4277,139002.5,10421.24,7144.87,12525.12,1211,Obesity Comorbidity
+2024-03-19,Mounjaro,Eli Lilly,3491,116366.67,7519.52,5557.3,9487.83,986,Obesity Comorbidity
+2024-03-19,Glucocure,Fictional Pharma,534,12460.0,928.95,835.87,1088.72,109,Obesity Comorbidity
+2024-03-20,Jardiance,Boehringer Ingelheim / Eli Lilly,4565,83691.67,5273.57,3044.68,7635.39,1212,Type 2 Newly Diagnosed
+2024-03-20,Trulicity,Eli Lilly,4169,132018.33,12420.88,,16892.99,1110,Type 2 Newly Diagnosed
+2024-03-20,Januvia,Merck,2330,46600.0,4484.23,2224.32,5533.13,467,Type 2 Newly Diagnosed
+2024-03-20,Janumet,Merck,2022,39092.0,3574.09,2406.96,3969.62,475,Cardiovascular Risk
+2024-03-20,Ozempic,Novo Nordisk,4190,136175.0,11113.35,6119.81,13481.99,1167,Obesity Comorbidity
+2024-03-20,Mounjaro,Eli Lilly,3694,123133.33,6634.68,7776.47,12857.87,1072,Obesity Comorbidity
+2024-03-20,Glucocure,Fictional Pharma,533,12436.67,1142.87,800.31,1646.43,142,Type 2 Newly Diagnosed
+2024-03-21,Jardiance,Boehringer Ingelheim / Eli Lilly,4428,81180.0,5727.63,4779.65,8681.09,1088,Obesity Comorbidity
+2024-03-21,Trulicity,Eli Lilly,4124,130593.33,6542.67,7672.3,17142.74,892,Obesity Comorbidity
+2024-03-21,Januvia,Merck,2409,48180.0,3240.66,2243.65,6324.54,612,Cardiovascular Risk
+2024-03-21,Janumet,Merck,2081,40232.67,2223.55,1564.83,4680.9,489,Cardiovascular Risk
+2024-03-21,Ozempic,Novo Nordisk,4266,138645.0,9642.99,5458.2,13222.4,877,Cardiovascular Risk
+2024-03-21,Mounjaro,Eli Lilly,3561,118700.0,8396.46,7140.35,16737.03,1063,Obesity Comorbidity
+2024-03-21,Glucocure,Fictional Pharma,569,13276.67,777.81,,1444.99,153,Cardiovascular Risk
+2024-03-22,Jardiance,Boehringer Ingelheim / Eli Lilly,4561,83618.33,8132.36,4838.58,9590.96,922,Cardiovascular Risk
+2024-03-22,Trulicity,Eli Lilly,4120,130466.67,11037.96,4990.36,14016.05,882,Cardiovascular Risk
+2024-03-22,Januvia,Merck,2264,45280.0,4418.06,2764.78,5560.09,627,Cardiovascular Risk
+2024-03-22,Janumet,Merck,2088,40368.0,3286.82,2322.99,3945.13,534,Type 2 Newly Diagnosed
+2024-03-22,Ozempic,Novo Nordisk,4260,138450.0,12132.64,6728.98,19548.03,1149,Obesity Comorbidity
+2024-03-22,Mounjaro,Eli Lilly,3615,120500.0,8744.05,4499.19,16851.71,1009,Cardiovascular Risk
+2024-03-22,Glucocure,Fictional Pharma,533,12436.67,876.62,695.35,1008.43,107,Type 2 Newly Diagnosed
+2024-03-23,Jardiance,Boehringer Ingelheim / Eli Lilly,4593,84205.0,7904.11,3837.74,9929.73,949,Cardiovascular Risk
+2024-03-23,Trulicity,Eli Lilly,4199,132968.33,7141.1,5986.07,18119.2,1112,Obesity Comorbidity
+2024-03-23,Januvia,Merck,2378,47560.0,3439.51,1559.97,6232.57,485,Cardiovascular Risk
+2024-03-23,Janumet,Merck,2017,38995.33,2670.17,1240.55,4074.86,478,Cardiovascular Risk
+2024-03-23,Ozempic,Novo Nordisk,4267,138677.5,11521.91,6845.06,11145.78,946,Cardiovascular Risk
+2024-03-23,Mounjaro,Eli Lilly,3712,123733.33,9781.21,5820.77,14645.36,760,Obesity Comorbidity
+2024-03-23,Glucocure,Fictional Pharma,593,13836.67,1050.21,492.76,1756.99,166,Obesity Comorbidity
+2024-03-24,Jardiance,Boehringer Ingelheim / Eli Lilly,4428,81180.0,6748.02,,8714.91,1056,Type 2 Newly Diagnosed
+2024-03-24,Trulicity,Eli Lilly,4229,133918.33,10694.42,7521.56,19048.4,1166,Obesity Comorbidity
+2024-03-24,Januvia,Merck,2315,46300.0,3412.13,2715.77,4582.13,499,Type 2 Newly Diagnosed
+2024-03-24,Janumet,Merck,2012,38898.67,3111.45,2507.43,5477.12,439,Cardiovascular Risk
+2024-03-24,Ozempic,Novo Nordisk,4253,138222.5,7443.09,7995.65,14761.6,930,Cardiovascular Risk
+2024-03-24,Mounjaro,Eli Lilly,3659,121966.67,8727.24,6339.06,14310.06,1082,Obesity Comorbidity
+2024-03-24,Glucocure,Fictional Pharma,599,13976.67,925.61,569.98,1304.93,157,Obesity Comorbidity
+2024-03-25,Jardiance,Boehringer Ingelheim / Eli Lilly,4412,80886.67,7375.92,2630.89,10869.17,1171,Cardiovascular Risk
+2024-03-25,Trulicity,Eli Lilly,4110,130150.0,11627.0,7932.19,17225.18,1226,Type 2 Newly Diagnosed
+2024-03-25,Januvia,Merck,2387,47740.0,3006.61,1496.51,6757.26,484,Type 2 Newly Diagnosed
+2024-03-25,Janumet,Merck,1956,37816.0,3513.33,2320.05,4160.85,514,Type 2 Newly Diagnosed
+2024-03-25,Ozempic,Novo Nordisk,4276,138970.0,11581.56,4693.45,18394.12,1041,Cardiovascular Risk
+2024-03-25,Mounjaro,Eli Lilly,3777,125900.0,11498.77,,18299.56,1120,Cardiovascular Risk
+2024-03-25,Glucocure,Fictional Pharma,594,13860.0,1384.36,549.69,1147.95,169,Type 2 Newly Diagnosed
+2024-03-26,Jardiance,Boehringer Ingelheim / Eli Lilly,4512,82720.0,7824.12,5291.36,8968.57,1336,Type 2 Newly Diagnosed
+2024-03-26,Trulicity,Eli Lilly,4137,131005.0,6653.37,4020.02,18885.97,956,Obesity Comorbidity
+2024-03-26,Januvia,Merck,2349,46980.0,4315.39,2573.61,5611.18,478,Cardiovascular Risk
+2024-03-26,Janumet,Merck,2034,39324.0,2734.19,1288.77,4903.02,488,Cardiovascular Risk
+2024-03-26,Ozempic,Novo Nordisk,4318,140335.0,9747.88,5494.82,17089.94,1169,Cardiovascular Risk
+2024-03-26,Mounjaro,Eli Lilly,3639,121300.0,9816.37,6710.67,13688.7,862,Obesity Comorbidity
+2024-03-26,Glucocure,Fictional Pharma,584,13626.67,1229.41,798.58,1655.93,154,Type 2 Newly Diagnosed
+2024-03-27,Jardiance,Boehringer Ingelheim / Eli Lilly,4538,83196.67,5667.49,5369.98,7296.72,1285,Cardiovascular Risk
+2024-03-27,Trulicity,Eli Lilly,4224,133760.0,10996.79,9225.41,11354.36,867,Obesity Comorbidity
+2024-03-27,Januvia,Merck,2312,46240.0,3697.59,1718.94,5981.59,609,Obesity Comorbidity
+2024-03-27,Janumet,Merck,2040,39440.0,2091.51,2264.48,3224.13,601,Type 2 Newly Diagnosed
+2024-03-27,Ozempic,Novo Nordisk,4141,134582.5,11343.29,8937.42,16786.78,1016,Cardiovascular Risk
+2024-03-27,Mounjaro,Eli Lilly,3550,118333.33,9304.59,,17098.16,764,Obesity Comorbidity
+2024-03-27,Glucocure,Fictional Pharma,607,14163.33,1128.88,822.97,1199.02,127,Type 2 Newly Diagnosed
+2024-03-28,Jardiance,Boehringer Ingelheim / Eli Lilly,4527,82995.0,5171.78,4782.77,10106.66,1184,Cardiovascular Risk
+2024-03-28,Trulicity,Eli Lilly,4248,134520.0,8653.13,8354.45,20151.99,1162,Type 2 Newly Diagnosed
+2024-03-28,Januvia,Merck,2364,47280.0,4587.99,2885.8,4205.82,619,Obesity Comorbidity
+2024-03-28,Janumet,Merck,1998,38628.0,3509.3,2476.13,5626.46,594,Type 2 Newly Diagnosed
+2024-03-28,Ozempic,Novo Nordisk,4145,134712.5,9539.11,4947.28,15255.73,1156,Type 2 Newly Diagnosed
+2024-03-28,Mounjaro,Eli Lilly,3761,125366.67,7318.22,4499.54,18568.73,790,Obesity Comorbidity
+2024-03-28,Glucocure,Fictional Pharma,576,13440.0,677.85,486.84,1270.2,121,Obesity Comorbidity
+2024-03-29,Jardiance,Boehringer Ingelheim / Eli Lilly,4492,82353.33,4651.64,3315.42,8636.59,1002,Cardiovascular Risk
+2024-03-29,Trulicity,Eli Lilly,4131,130815.0,11832.37,4693.23,13602.82,913,Cardiovascular Risk
+2024-03-29,Januvia,Merck,2370,47400.0,2603.64,2994.38,6136.75,538,Cardiovascular Risk
+2024-03-29,Janumet,Merck,1953,37758.0,2159.91,2075.18,3743.89,489,Obesity Comorbidity
+2024-03-29,Ozempic,Novo Nordisk,4284,139230.0,13813.25,6380.68,18108.68,1046,Obesity Comorbidity
+2024-03-29,Mounjaro,Eli Lilly,3779,125966.67,10864.66,6672.64,15960.59,929,Obesity Comorbidity
+2024-03-29,Glucocure,Fictional Pharma,552,12880.0,672.96,451.5,1537.6,121,Obesity Comorbidity
+2024-03-30,Jardiance,Boehringer Ingelheim / Eli Lilly,4439,81381.67,4863.23,,10735.45,1052,Obesity Comorbidity
+2024-03-30,Trulicity,Eli Lilly,4135,130941.67,8913.22,8431.57,14204.07,1173,Obesity Comorbidity
+2024-03-30,Januvia,Merck,2330,46600.0,4434.68,3056.74,6395.85,585,Cardiovascular Risk
+2024-03-30,Janumet,Merck,2018,39014.67,2905.86,2176.62,3748.84,520,Cardiovascular Risk
+2024-03-30,Ozempic,Novo Nordisk,4169,135492.5,8667.56,4778.3,18945.81,1142,Type 2 Newly Diagnosed
+2024-03-30,Mounjaro,Eli Lilly,3692,123066.67,11234.21,5098.44,17832.2,805,Cardiovascular Risk
+2024-03-30,Glucocure,Fictional Pharma,610,14233.33,1270.78,570.93,2074.12,144,Cardiovascular Risk
+2024-03-31,Jardiance,Boehringer Ingelheim / Eli Lilly,4475,82041.67,7568.84,5073.22,7569.05,1144,Cardiovascular Risk
+2024-03-31,Trulicity,Eli Lilly,4130,130783.33,12254.87,5229.6,12872.65,916,Type 2 Newly Diagnosed
+2024-03-31,Januvia,Merck,2366,47320.0,2492.62,2132.3,4554.26,615,Type 2 Newly Diagnosed
+2024-03-31,Janumet,Merck,2068,39981.33,2186.53,1976.89,5775.37,486,Type 2 Newly Diagnosed
+2024-03-31,Ozempic,Novo Nordisk,4323,140497.5,13519.53,,17041.83,1128,Type 2 Newly Diagnosed
+2024-03-31,Mounjaro,Eli Lilly,3725,124166.67,7167.47,6145.08,13670.62,1028,Obesity Comorbidity
+2024-03-31,Glucocure,Fictional Pharma,552,12880.0,900.23,812.76,1184.31,152,Type 2 Newly Diagnosed
+2024-04-01,Jardiance,Boehringer Ingelheim / Eli Lilly,4548,83380.0,6864.68,3257.63,10581.11,930,Obesity Comorbidity
+2024-04-01,Trulicity,Eli Lilly,4209,133285.0,6999.08,4184.68,15805.09,1052,Obesity Comorbidity
+2024-04-01,Januvia,Merck,2348,46960.0,2406.63,2252.27,4537.44,507,Type 2 Newly Diagnosed
+2024-04-01,Janumet,Merck,2073,40078.0,2351.57,1811.13,5454.66,472,Obesity Comorbidity
+2024-04-01,Ozempic,Novo Nordisk,4293,139522.5,11521.18,5362.03,16596.47,1102,Cardiovascular Risk
+2024-04-01,Mounjaro,Eli Lilly,3633,121100.0,6455.63,3725.79,16697.28,867,Obesity Comorbidity
+2024-04-01,Glucocure,Fictional Pharma,771,17990.0,1814.85,842.04,3445.01,172,Obesity Comorbidity
+2024-04-02,Jardiance,Boehringer Ingelheim / Eli Lilly,4482,82170.0,6562.48,4612.64,7679.75,1181,Type 2 Newly Diagnosed
+2024-04-02,Trulicity,Eli Lilly,4141,131131.67,12358.21,7810.55,13037.44,1220,Obesity Comorbidity
+2024-04-02,Januvia,Merck,2293,45860.0,3847.92,2371.92,4782.37,563,Obesity Comorbidity
+2024-04-02,Janumet,Merck,2018,39014.67,2613.93,1293.63,4330.47,466,Type 2 Newly Diagnosed
+2024-04-02,Ozempic,Novo Nordisk,4207,136727.5,13231.7,5117.62,14503.46,1192,Cardiovascular Risk
+2024-04-02,Mounjaro,Eli Lilly,3722,124066.67,10608.52,5076.56,12890.5,833,Obesity Comorbidity
+2024-04-02,Glucocure,Fictional Pharma,759,17710.0,1334.93,860.81,3299.97,166,Obesity Comorbidity
+2024-04-03,Jardiance,Boehringer Ingelheim / Eli Lilly,4503,82555.0,7860.72,5175.89,10979.27,1160,Type 2 Newly Diagnosed
+2024-04-03,Trulicity,Eli Lilly,4120,130466.67,12165.77,5215.84,16986.56,1014,Cardiovascular Risk
+2024-04-03,Januvia,Merck,2317,46340.0,3000.68,1944.16,4054.47,638,Obesity Comorbidity
+2024-04-03,Janumet,Merck,1999,38647.33,2593.44,,5339.76,436,Type 2 Newly Diagnosed
+2024-04-03,Ozempic,Novo Nordisk,4354,141505.0,7902.51,8106.27,20729.49,1082,Type 2 Newly Diagnosed
+2024-04-03,Mounjaro,Eli Lilly,3618,120600.0,6733.0,6255.26,17266.17,783,Obesity Comorbidity
+2024-04-03,Glucocure,Fictional Pharma,775,18083.33,2144.8,928.6,3317.29,156,Obesity Comorbidity
+2024-04-04,Jardiance,Boehringer Ingelheim / Eli Lilly,4591,84168.33,5889.76,3625.28,6797.16,1330,Cardiovascular Risk
+2024-04-04,Trulicity,Eli Lilly,4168,131986.67,7250.93,4359.05,13899.24,1158,Type 2 Newly Diagnosed
+2024-04-04,Januvia,Merck,2333,46660.0,2489.86,2510.02,6146.09,516,Type 2 Newly Diagnosed
+2024-04-04,Janumet,Merck,1961,37912.67,2318.48,2461.46,5128.24,561,Cardiovascular Risk
+2024-04-04,Ozempic,Novo Nordisk,4361,141732.5,12888.73,9828.11,13914.87,1281,Cardiovascular Risk
+2024-04-04,Mounjaro,Eli Lilly,3785,126166.67,6625.95,4051.29,16204.95,888,Obesity Comorbidity
+2024-04-04,Glucocure,Fictional Pharma,771,17990.0,2124.31,958.38,2998.53,230,Cardiovascular Risk
+2024-04-05,Jardiance,Boehringer Ingelheim / Eli Lilly,4478,82096.67,6064.28,,8651.28,1263,Cardiovascular Risk
+2024-04-05,Trulicity,Eli Lilly,4126,130656.67,7552.19,8281.49,13729.85,1055,Cardiovascular Risk
+2024-04-05,Januvia,Merck,2339,46780.0,2665.52,2482.1,6237.26,510,Cardiovascular Risk
+2024-04-05,Janumet,Merck,2088,40368.0,3900.67,1402.62,5867.99,480,Cardiovascular Risk
+2024-04-05,Ozempic,Novo Nordisk,4336,140920.0,10397.05,6525.99,12863.93,881,Obesity Comorbidity
+2024-04-05,Mounjaro,Eli Lilly,3755,125166.67,12066.7,7984.94,11975.79,875,Obesity Comorbidity
+2024-04-05,Glucocure,Fictional Pharma,749,17476.67,2540.87,1480.39,1939.72,195,Type 2 Newly Diagnosed
+2024-04-06,Jardiance,Boehringer Ingelheim / Eli Lilly,4499,82481.67,8001.48,2628.81,8444.11,1206,Obesity Comorbidity
+2024-04-06,Trulicity,Eli Lilly,4182,132430.0,7322.55,5852.86,14424.55,943,Obesity Comorbidity
+2024-04-06,Januvia,Merck,2369,47380.0,2882.97,1967.23,5635.52,539,Type 2 Newly Diagnosed
+2024-04-06,Janumet,Merck,2071,40039.33,2841.16,1470.57,5667.69,422,Cardiovascular Risk
+2024-04-06,Ozempic,Novo Nordisk,4315,140237.5,12140.97,9581.69,13383.04,1079,Cardiovascular Risk
+2024-04-06,Mounjaro,Eli Lilly,3720,124000.0,10104.89,5719.92,16450.81,980,Obesity Comorbidity
+2024-04-06,Glucocure,Fictional Pharma,806,18806.67,1972.2,1347.2,3485.2,224,Obesity Comorbidity
+2024-04-07,Jardiance,Boehringer Ingelheim / Eli Lilly,4493,82371.67,7597.41,3892.23,8775.29,1141,Cardiovascular Risk
+2024-04-07,Trulicity,Eli Lilly,4145,131258.33,8200.38,6812.16,13021.74,1008,Cardiovascular Risk
+2024-04-07,Januvia,Merck,2231,44620.0,2318.61,1824.06,3589.52,518,Cardiovascular Risk
+2024-04-07,Janumet,Merck,2057,39768.67,2453.52,1528.53,5567.75,478,Cardiovascular Risk
+2024-04-07,Ozempic,Novo Nordisk,4219,137117.5,9599.68,8409.68,13521.84,1243,Cardiovascular Risk
+2024-04-07,Mounjaro,Eli Lilly,3628,120933.33,7202.38,5851.48,13323.09,1087,Obesity Comorbidity
+2024-04-07,Glucocure,Fictional Pharma,813,18970.0,2308.77,1107.1,2503.22,177,Obesity Comorbidity
+2024-04-08,Jardiance,Boehringer Ingelheim / Eli Lilly,4429,81198.33,4589.74,4272.4,9009.58,1229,Cardiovascular Risk
+2024-04-08,Trulicity,Eli Lilly,4173,132145.0,11925.85,4241.28,12048.15,976,Obesity Comorbidity
+2024-04-08,Januvia,Merck,2233,44660.0,2285.94,2831.35,6619.88,498,Type 2 Newly Diagnosed
+2024-04-08,Janumet,Merck,2049,39614.0,3815.75,1853.34,3309.5,587,Type 2 Newly Diagnosed
+2024-04-08,Ozempic,Novo Nordisk,4207,136727.5,11834.84,9279.73,18418.98,1202,Obesity Comorbidity
+2024-04-08,Mounjaro,Eli Lilly,3872,129066.67,10250.17,5925.11,19123.3,789,Obesity Comorbidity
+2024-04-08,Glucocure,Fictional Pharma,802,18713.33,2197.98,1685.83,2170.91,203,Obesity Comorbidity
+2024-04-09,Jardiance,Boehringer Ingelheim / Eli Lilly,4462,81803.33,5833.07,5177.7,11157.6,914,Type 2 Newly Diagnosed
+2024-04-09,Trulicity,Eli Lilly,4237,134171.67,7296.2,4507.72,12548.74,957,Type 2 Newly Diagnosed
+2024-04-09,Januvia,Merck,2297,45940.0,2939.58,1988.28,5806.62,525,Cardiovascular Risk
+2024-04-09,Janumet,Merck,2046,39556.0,2639.18,1810.99,4631.84,499,Type 2 Newly Diagnosed
+2024-04-09,Ozempic,Novo Nordisk,4300,139750.0,9058.54,9283.89,16535.09,949,Obesity Comorbidity
+2024-04-09,Mounjaro,Eli Lilly,3805,126833.33,7137.96,4674.04,17492.21,916,Obesity Comorbidity
+2024-04-09,Glucocure,Fictional Pharma,765,17850.0,1597.71,,2278.45,206,Cardiovascular Risk
+2024-04-10,Jardiance,Boehringer Ingelheim / Eli Lilly,4579,83948.33,4709.97,2891.64,10524.38,1058,Cardiovascular Risk
+2024-04-10,Trulicity,Eli Lilly,4198,132936.67,11120.76,8371.56,14329.17,1186,Type 2 Newly Diagnosed
+2024-04-10,Januvia,Merck,2345,46900.0,2537.35,,7001.37,594,Type 2 Newly Diagnosed
+2024-04-10,Janumet,Merck,2056,39749.33,3951.92,,5388.71,443,Cardiovascular Risk
+2024-04-10,Ozempic,Novo Nordisk,4384,142480.0,11668.41,9889.11,19058.18,1099,Obesity Comorbidity
+2024-04-10,Mounjaro,Eli Lilly,3787,126233.33,8396.31,6635.99,17614.63,919,Obesity Comorbidity
+2024-04-10,Glucocure,Fictional Pharma,780,18200.0,2488.77,1426.36,3183.84,209,Type 2 Newly Diagnosed
+2024-04-11,Jardiance,Boehringer Ingelheim / Eli Lilly,4449,81565.0,5998.9,4052.91,7638.61,1002,Cardiovascular Risk
+2024-04-11,Trulicity,Eli Lilly,4227,133855.0,10724.93,,11280.03,1179,Obesity Comorbidity
+2024-04-11,Januvia,Merck,2267,45340.0,4186.89,1948.4,5774.22,606,Cardiovascular Risk
+2024-04-11,Janumet,Merck,1966,38009.33,2993.92,1792.61,3774.88,527,Cardiovascular Risk
+2024-04-11,Ozempic,Novo Nordisk,4329,140692.5,13668.71,6043.13,17766.63,1066,Obesity Comorbidity
+2024-04-11,Mounjaro,Eli Lilly,3903,130100.0,10447.01,8323.52,10817.79,831,Obesity Comorbidity
+2024-04-11,Glucocure,Fictional Pharma,786,18340.0,2192.74,1277.98,2118.29,171,Type 2 Newly Diagnosed
+2024-04-12,Jardiance,Boehringer Ingelheim / Eli Lilly,4409,80831.67,5086.7,2515.0,10038.99,917,Obesity Comorbidity
+2024-04-12,Trulicity,Eli Lilly,4247,134488.33,10036.86,7442.11,18342.44,1156,Obesity Comorbidity
+2024-04-12,Januvia,Merck,2230,44600.0,3516.45,2344.03,5129.87,644,Type 2 Newly Diagnosed
+2024-04-12,Janumet,Merck,1993,38531.33,2172.18,2389.26,5410.21,565,Type 2 Newly Diagnosed
+2024-04-12,Ozempic,Novo Nordisk,4407,143227.5,9262.19,7307.3,18454.62,1196,Cardiovascular Risk
+2024-04-12,Mounjaro,Eli Lilly,3882,129400.0,11888.82,7062.58,15616.47,895,Obesity Comorbidity
+2024-04-12,Glucocure,Fictional Pharma,771,17990.0,2242.23,1493.58,2842.51,170,Type 2 Newly Diagnosed
+2024-04-13,Jardiance,Boehringer Ingelheim / Eli Lilly,4597,84278.33,8017.84,5350.88,7493.68,1234,Type 2 Newly Diagnosed
+2024-04-13,Trulicity,Eli Lilly,4140,131100.0,12005.6,8749.08,16451.1,867,Type 2 Newly Diagnosed
+2024-04-13,Januvia,Merck,2329,46580.0,3000.34,1954.09,6632.25,615,Type 2 Newly Diagnosed
+2024-04-13,Janumet,Merck,2012,38898.67,2439.88,1187.03,4583.08,474,Cardiovascular Risk
+2024-04-13,Ozempic,Novo Nordisk,4249,138092.5,10723.66,8629.45,14759.74,1231,Obesity Comorbidity
+2024-04-13,Mounjaro,Eli Lilly,3892,129733.33,7102.67,5526.22,11256.33,871,Type 2 Newly Diagnosed
+2024-04-13,Glucocure,Fictional Pharma,812,18946.67,2176.79,,3686.96,198,Obesity Comorbidity
+2024-04-14,Jardiance,Boehringer Ingelheim / Eli Lilly,4592,84186.67,6214.92,3597.48,9616.85,1065,Cardiovascular Risk
+2024-04-14,Trulicity,Eli Lilly,4135,130941.67,7419.22,7240.53,11651.56,957,Obesity Comorbidity
+2024-04-14,Januvia,Merck,2320,46400.0,4185.5,2182.54,6942.73,523,Type 2 Newly Diagnosed
+2024-04-14,Janumet,Merck,2052,39672.0,3506.01,1678.17,4540.21,548,Cardiovascular Risk
+2024-04-14,Ozempic,Novo Nordisk,4262,138515.0,7795.28,9493.71,12128.81,936,Obesity Comorbidity
+2024-04-14,Mounjaro,Eli Lilly,3980,132666.67,11751.03,7439.42,18343.71,906,Cardiovascular Risk
+2024-04-14,Glucocure,Fictional Pharma,840,19600.0,1813.6,1632.02,3501.07,213,Type 2 Newly Diagnosed
+2024-04-15,Jardiance,Boehringer Ingelheim / Eli Lilly,4570,83783.33,5861.34,4519.59,10532.11,1038,Type 2 Newly Diagnosed
+2024-04-15,Trulicity,Eli Lilly,4228,133886.67,10598.0,7927.28,14130.07,1188,Obesity Comorbidity
+2024-04-15,Januvia,Merck,2270,45400.0,3859.98,2761.13,4703.95,680,Cardiovascular Risk
+2024-04-15,Janumet,Merck,1955,37796.67,3636.24,2608.24,5228.2,534,Obesity Comorbidity
+2024-04-15,Ozempic,Novo Nordisk,4340,141050.0,9844.85,8498.28,15768.38,1161,Obesity Comorbidity
+2024-04-15,Mounjaro,Eli Lilly,3904,130133.33,8575.67,6921.69,13559.08,1089,Cardiovascular Risk
+2024-04-15,Glucocure,Fictional Pharma,793,18503.33,2089.86,,3032.46,185,Cardiovascular Risk
+2024-04-16,Jardiance,Boehringer Ingelheim / Eli Lilly,4557,83545.0,7822.55,4017.13,12448.74,1340,Type 2 Newly Diagnosed
+2024-04-16,Trulicity,Eli Lilly,4178,132303.33,9641.23,6069.8,14801.68,1093,Obesity Comorbidity
+2024-04-16,Januvia,Merck,2214,44280.0,4327.41,1596.62,5022.2,586,Cardiovascular Risk
+2024-04-16,Janumet,Merck,2032,39285.33,3669.58,1645.84,3589.8,428,Cardiovascular Risk
+2024-04-16,Ozempic,Novo Nordisk,4233,137572.5,8315.09,4449.45,16325.13,1157,Obesity Comorbidity
+2024-04-16,Mounjaro,Eli Lilly,3886,129533.33,8714.23,8046.67,15261.56,1001,Type 2 Newly Diagnosed
+2024-04-16,Glucocure,Fictional Pharma,794,18526.67,1595.65,1024.99,3408.31,205,Obesity Comorbidity
+2024-04-17,Jardiance,Boehringer Ingelheim / Eli Lilly,4586,84076.67,6786.67,4283.41,8604.29,1087,Obesity Comorbidity
+2024-04-17,Trulicity,Eli Lilly,4265,135058.33,8880.16,8327.21,19462.6,938,Obesity Comorbidity
+2024-04-17,Januvia,Merck,2295,45900.0,4454.32,1605.3,6483.8,522,Cardiovascular Risk
+2024-04-17,Janumet,Merck,2039,39420.67,2050.44,1821.9,4578.31,555,Cardiovascular Risk
+2024-04-17,Ozempic,Novo Nordisk,4335,140887.5,13349.55,5067.11,19021.89,871,Obesity Comorbidity
+2024-04-17,Mounjaro,Eli Lilly,3951,131700.0,11947.74,5427.8,11754.56,824,Obesity Comorbidity
+2024-04-17,Glucocure,Fictional Pharma,822,19180.0,1606.03,1009.36,2325.09,166,Type 2 Newly Diagnosed
+2024-04-18,Jardiance,Boehringer Ingelheim / Eli Lilly,4565,83691.67,6036.59,2672.65,11502.09,1011,Cardiovascular Risk
+2024-04-18,Trulicity,Eli Lilly,4248,134520.0,7184.1,5209.55,19569.49,1063,Obesity Comorbidity
+2024-04-18,Januvia,Merck,2288,45760.0,4479.78,2363.25,5599.02,552,Type 2 Newly Diagnosed
+2024-04-18,Janumet,Merck,2022,39092.0,1995.69,2454.37,5384.52,501,Cardiovascular Risk
+2024-04-18,Ozempic,Novo Nordisk,4292,139490.0,8556.13,7903.63,11941.38,1083,Obesity Comorbidity
+2024-04-18,Mounjaro,Eli Lilly,3979,132633.33,9196.18,4250.37,14303.91,876,Obesity Comorbidity
+2024-04-18,Glucocure,Fictional Pharma,792,18480.0,1761.08,1046.89,2719.77,228,Type 2 Newly Diagnosed
+2024-04-19,Jardiance,Boehringer Ingelheim / Eli Lilly,4594,84223.33,6627.81,4433.58,11914.43,951,Cardiovascular Risk
+2024-04-19,Trulicity,Eli Lilly,4214,133443.33,12794.17,8155.05,18356.96,890,Cardiovascular Risk
+2024-04-19,Januvia,Merck,2314,46280.0,2419.48,3139.58,6430.68,612,Type 2 Newly Diagnosed
+2024-04-19,Janumet,Merck,1951,37719.33,2125.38,1317.59,4386.73,423,Type 2 Newly Diagnosed
+2024-04-19,Ozempic,Novo Nordisk,4365,141862.5,11992.53,8391.37,11815.46,898,Cardiovascular Risk
+2024-04-19,Mounjaro,Eli Lilly,3764,125466.67,6754.86,3785.02,15925.53,961,Obesity Comorbidity
+2024-04-19,Glucocure,Fictional Pharma,803,18736.67,1986.57,1577.22,2936.89,222,Type 2 Newly Diagnosed
+2024-04-20,Jardiance,Boehringer Ingelheim / Eli Lilly,4466,81876.67,6344.89,5610.71,7207.83,1325,Obesity Comorbidity
+2024-04-20,Trulicity,Eli Lilly,4164,131860.0,10664.37,5051.73,15973.36,854,Type 2 Newly Diagnosed
+2024-04-20,Januvia,Merck,2262,45240.0,3250.61,2493.17,5669.57,629,Cardiovascular Risk
+2024-04-20,Janumet,Merck,1952,37738.67,3701.44,2234.5,4313.19,524,Cardiovascular Risk
+2024-04-20,Ozempic,Novo Nordisk,4420,143650.0,8481.76,8901.46,14852.47,1316,Obesity Comorbidity
+2024-04-20,Mounjaro,Eli Lilly,3916,130533.33,9932.83,4270.91,12098.59,928,Cardiovascular Risk
+2024-04-20,Glucocure,Fictional Pharma,878,20486.67,2175.41,1596.22,2881.44,187,Obesity Comorbidity
+2024-04-21,Jardiance,Boehringer Ingelheim / Eli Lilly,4453,81638.33,6664.96,4960.08,12211.93,916,Type 2 Newly Diagnosed
+2024-04-21,Trulicity,Eli Lilly,4226,133823.33,7544.76,6204.51,14025.54,1028,Obesity Comorbidity
+2024-04-21,Januvia,Merck,2284,45680.0,3239.6,2024.19,5553.07,567,Cardiovascular Risk
+2024-04-21,Janumet,Merck,2046,39556.0,3072.46,2089.01,3746.25,505,Cardiovascular Risk
+2024-04-21,Ozempic,Novo Nordisk,4422,143715.0,10584.81,4560.45,18532.59,996,Obesity Comorbidity
+2024-04-21,Mounjaro,Eli Lilly,3982,132733.33,11921.07,7884.49,16287.38,1022,Obesity Comorbidity
+2024-04-21,Glucocure,Fictional Pharma,869,20276.67,2907.61,986.58,3389.36,201,Type 2 Newly Diagnosed
+2024-04-22,Jardiance,Boehringer Ingelheim / Eli Lilly,4457,81711.67,6113.01,3384.91,10738.76,894,Type 2 Newly Diagnosed
+2024-04-22,Trulicity,Eli Lilly,4285,135691.67,7657.06,7185.42,11433.81,901,Type 2 Newly Diagnosed
+2024-04-22,Januvia,Merck,2311,46220.0,3515.9,3044.19,4332.69,556,Type 2 Newly Diagnosed
+2024-04-22,Janumet,Merck,2021,39072.67,3693.65,2105.15,5341.67,520,Obesity Comorbidity
+2024-04-22,Ozempic,Novo Nordisk,4275,138937.5,8723.49,5987.77,12716.04,981,Type 2 Newly Diagnosed
+2024-04-22,Mounjaro,Eli Lilly,3779,125966.67,10039.85,6750.07,10671.44,920,Cardiovascular Risk
+2024-04-22,Glucocure,Fictional Pharma,824,19226.67,2556.19,1689.91,3012.57,224,Type 2 Newly Diagnosed
+2024-04-23,Jardiance,Boehringer Ingelheim / Eli Lilly,4524,82940.0,4204.49,4642.58,10518.56,1272,Cardiovascular Risk
+2024-04-23,Trulicity,Eli Lilly,4277,135438.33,9025.48,7082.91,17538.05,969,Obesity Comorbidity
+2024-04-23,Januvia,Merck,2272,45440.0,3814.84,3056.73,6806.3,605,Cardiovascular Risk
+2024-04-23,Janumet,Merck,1988,38434.67,3148.74,1644.61,3228.44,424,Type 2 Newly Diagnosed
+2024-04-23,Ozempic,Novo Nordisk,4275,138937.5,7906.41,8942.64,15978.38,949,Obesity Comorbidity
+2024-04-23,Mounjaro,Eli Lilly,3827,127566.67,6635.31,6440.66,16281.79,1114,Cardiovascular Risk
+2024-04-23,Glucocure,Fictional Pharma,828,19320.0,1570.32,1316.78,2666.72,232,Cardiovascular Risk
+2024-04-24,Jardiance,Boehringer Ingelheim / Eli Lilly,4488,82280.0,5465.69,2647.66,7633.29,965,Cardiovascular Risk
+2024-04-24,Trulicity,Eli Lilly,4269,135185.0,8157.18,6783.35,13769.04,1099,Obesity Comorbidity
+2024-04-24,Januvia,Merck,2309,46180.0,3777.68,2121.1,3716.43,534,Cardiovascular Risk
+2024-04-24,Janumet,Merck,1953,37758.0,3604.48,1691.91,5006.32,543,Cardiovascular Risk
+2024-04-24,Ozempic,Novo Nordisk,4452,144690.0,11992.75,8053.84,11834.18,954,Obesity Comorbidity
+2024-04-24,Mounjaro,Eli Lilly,3905,130166.67,7217.83,5199.06,13301.21,970,Cardiovascular Risk
+2024-04-24,Glucocure,Fictional Pharma,833,19436.67,2807.93,1890.78,3410.02,212,Type 2 Newly Diagnosed
+2024-04-25,Jardiance,Boehringer Ingelheim / Eli Lilly,4405,80758.33,7853.85,4627.58,8335.32,1185,Cardiovascular Risk
+2024-04-25,Trulicity,Eli Lilly,4301,136198.33,8468.62,5753.27,11503.03,959,Type 2 Newly Diagnosed
+2024-04-25,Januvia,Merck,2267,45340.0,2458.01,2598.26,4375.02,554,Cardiovascular Risk
+2024-04-25,Janumet,Merck,1909,36907.33,3290.69,2293.05,5501.39,437,Cardiovascular Risk
+2024-04-25,Ozempic,Novo Nordisk,4474,145405.0,9104.64,9439.94,13351.1,1198,Type 2 Newly Diagnosed
+2024-04-25,Mounjaro,Eli Lilly,4052,135066.67,8223.62,4528.26,12644.6,1199,Cardiovascular Risk
+2024-04-25,Glucocure,Fictional Pharma,836,19506.67,1739.79,1720.94,2935.97,213,Obesity Comorbidity
+2024-04-26,Jardiance,Boehringer Ingelheim / Eli Lilly,4575,83875.0,7672.73,4896.25,7328.84,1294,Cardiovascular Risk
+2024-04-26,Trulicity,Eli Lilly,4263,134995.0,9199.79,8797.78,17654.11,1149,Type 2 Newly Diagnosed
+2024-04-26,Januvia,Merck,2237,44740.0,2966.5,1469.11,4674.69,515,Cardiovascular Risk
+2024-04-26,Janumet,Merck,1895,36636.67,2985.21,2364.51,3270.19,510,Cardiovascular Risk
+2024-04-26,Ozempic,Novo Nordisk,4468,145210.0,7338.3,7517.56,21535.3,955,Obesity Comorbidity
+2024-04-26,Mounjaro,Eli Lilly,4013,133766.67,7836.03,4909.02,15032.91,1014,Type 2 Newly Diagnosed
+2024-04-26,Glucocure,Fictional Pharma,861,20090.0,1715.24,2088.64,2546.36,215,Type 2 Newly Diagnosed
+2024-04-27,Jardiance,Boehringer Ingelheim / Eli Lilly,4488,82280.0,5821.91,3857.92,11104.05,1164,Type 2 Newly Diagnosed
+2024-04-27,Trulicity,Eli Lilly,4169,132018.33,11046.94,4685.92,13120.1,1189,Type 2 Newly Diagnosed
+2024-04-27,Januvia,Merck,2317,46340.0,3060.42,2495.04,6937.16,582,Obesity Comorbidity
+2024-04-27,Janumet,Merck,2033,39304.67,2704.98,2076.48,4461.45,406,Cardiovascular Risk
+2024-04-27,Ozempic,Novo Nordisk,4350,141375.0,13536.67,,18655.91,870,Type 2 Newly Diagnosed
+2024-04-27,Mounjaro,Eli Lilly,4036,134533.33,11596.97,,14817.17,834,Type 2 Newly Diagnosed
+2024-04-27,Glucocure,Fictional Pharma,804,18760.0,1509.72,1681.68,3164.83,180,Type 2 Newly Diagnosed
+2024-04-28,Jardiance,Boehringer Ingelheim / Eli Lilly,4582,84003.33,8376.52,3302.1,7036.8,932,Type 2 Newly Diagnosed
+2024-04-28,Trulicity,Eli Lilly,4211,133348.33,7208.57,6412.47,17566.83,1105,Obesity Comorbidity
+2024-04-28,Januvia,Merck,2262,45240.0,3781.13,1414.61,5313.33,627,Type 2 Newly Diagnosed
+2024-04-28,Janumet,Merck,1954,37777.33,3752.98,2273.54,3679.6,485,Cardiovascular Risk
+2024-04-28,Ozempic,Novo Nordisk,4338,140985.0,7735.61,8213.06,14689.31,1239,Type 2 Newly Diagnosed
+2024-04-28,Mounjaro,Eli Lilly,4091,136366.67,12401.66,5931.03,18808.6,914,Type 2 Newly Diagnosed
+2024-04-28,Glucocure,Fictional Pharma,868,20253.33,1727.13,,2447.16,256,Type 2 Newly Diagnosed
+2024-04-29,Jardiance,Boehringer Ingelheim / Eli Lilly,4584,84040.0,5955.89,3788.08,11875.97,1050,Cardiovascular Risk
+2024-04-29,Trulicity,Eli Lilly,4314,136610.0,10498.76,8688.38,14173.64,1180,Obesity Comorbidity
+2024-04-29,Januvia,Merck,2303,46060.0,3040.88,1684.48,6209.87,529,Type 2 Newly Diagnosed
+2024-04-29,Janumet,Merck,1937,37448.67,2483.37,1154.55,4990.48,442,Type 2 Newly Diagnosed
+2024-04-29,Ozempic,Novo Nordisk,4379,142317.5,7669.89,9708.6,13845.68,1114,Cardiovascular Risk
+2024-04-29,Mounjaro,Eli Lilly,3862,128733.33,7803.08,4457.05,17835.93,958,Obesity Comorbidity
+2024-04-29,Glucocure,Fictional Pharma,823,19203.33,2719.47,1093.69,2493.76,232,Type 2 Newly Diagnosed
+2024-04-30,Jardiance,Boehringer Ingelheim / Eli Lilly,4445,81491.67,7149.01,3896.78,9897.61,1312,Cardiovascular Risk
+2024-04-30,Trulicity,Eli Lilly,4284,135660.0,12411.68,7622.6,14757.68,1048,Obesity Comorbidity
+2024-04-30,Januvia,Merck,2237,44740.0,3081.16,2082.23,3703.88,466,Type 2 Newly Diagnosed
+2024-04-30,Janumet,Merck,2014,38937.33,3834.58,2312.42,5021.82,455,Cardiovascular Risk
+2024-04-30,Ozempic,Novo Nordisk,4484,145730.0,10956.63,9205.18,16842.0,1213,Obesity Comorbidity
+2024-04-30,Mounjaro,Eli Lilly,4017,133900.0,8988.65,7378.79,12511.77,1114,Type 2 Newly Diagnosed
+2024-04-30,Glucocure,Fictional Pharma,850,19833.33,2596.76,1875.37,3319.84,215,Cardiovascular Risk
+2024-05-01,Jardiance,Boehringer Ingelheim / Eli Lilly,4504,82573.33,5423.84,4576.69,8663.35,1051,Type 2 Newly Diagnosed
+2024-05-01,Trulicity,Eli Lilly,4319,136768.33,9451.54,4826.66,12824.52,1215,Obesity Comorbidity
+2024-05-01,Januvia,Merck,2228,44560.0,3566.91,2577.49,4695.52,588,Cardiovascular Risk
+2024-05-01,Janumet,Merck,1941,37526.0,3379.1,1396.21,3290.67,479,Cardiovascular Risk
+2024-05-01,Ozempic,Novo Nordisk,4319,140367.5,9912.52,4616.84,16886.91,949,Cardiovascular Risk
+2024-05-01,Mounjaro,Eli Lilly,3842,128066.67,7945.28,5823.48,10967.71,1002,Type 2 Newly Diagnosed
+2024-05-01,Glucocure,Fictional Pharma,909,21210.0,3039.65,962.15,3139.74,189,Type 2 Newly Diagnosed
+2024-05-02,Jardiance,Boehringer Ingelheim / Eli Lilly,4536,83160.0,4621.57,4392.21,10038.2,1062,Cardiovascular Risk
+2024-05-02,Trulicity,Eli Lilly,4248,134520.0,12675.0,7016.53,15795.22,1081,Type 2 Newly Diagnosed
+2024-05-02,Januvia,Merck,2276,45520.0,2734.08,2986.54,4007.74,591,Type 2 Newly Diagnosed
+2024-05-02,Janumet,Merck,2023,39111.33,3087.77,1258.62,3988.69,522,Obesity Comorbidity
+2024-05-02,Ozempic,Novo Nordisk,4328,140660.0,10460.77,8109.98,13830.05,903,Obesity Comorbidity
+2024-05-02,Mounjaro,Eli Lilly,4006,133533.33,12800.64,6962.74,13479.69,877,Obesity Comorbidity
+2024-05-02,Glucocure,Fictional Pharma,871,20323.33,2185.31,1949.18,2785.44,203,Obesity Comorbidity
+2024-05-03,Jardiance,Boehringer Ingelheim / Eli Lilly,4516,82793.33,5543.93,4287.35,6861.48,1174,Cardiovascular Risk
+2024-05-03,Trulicity,Eli Lilly,4294,135976.67,9531.12,7743.91,15164.73,880,Obesity Comorbidity
+2024-05-03,Januvia,Merck,2265,45300.0,3352.87,2558.01,4318.85,593,Type 2 Newly Diagnosed
+2024-05-03,Janumet,Merck,1951,37719.33,3297.82,1859.72,3587.95,447,Cardiovascular Risk
+2024-05-03,Ozempic,Novo Nordisk,4468,145210.0,10361.5,7115.87,20744.25,1321,Obesity Comorbidity
+2024-05-03,Mounjaro,Eli Lilly,4102,136733.33,11490.2,7748.58,15829.34,1074,Obesity Comorbidity
+2024-05-03,Glucocure,Fictional Pharma,858,20020.0,2968.89,1192.02,3290.51,174,Cardiovascular Risk
+2024-05-04,Jardiance,Boehringer Ingelheim / Eli Lilly,4523,82921.67,7699.13,5601.24,9491.66,1238,Cardiovascular Risk
+2024-05-04,Trulicity,Eli Lilly,4267,135121.67,8846.5,9116.52,15687.27,1031,Obesity Comorbidity
+2024-05-04,Januvia,Merck,2271,45420.0,3015.53,2844.65,5532.69,481,Obesity Comorbidity
+2024-05-04,Janumet,Merck,1942,37545.33,2973.44,1437.23,5241.27,496,Type 2 Newly Diagnosed
+2024-05-04,Ozempic,Novo Nordisk,4454,144755.0,8553.7,,13257.38,1268,Obesity Comorbidity
+2024-05-04,Mounjaro,Eli Lilly,4134,137800.0,7858.37,5713.04,16021.37,876,Obesity Comorbidity
+2024-05-04,Glucocure,Fictional Pharma,832,19413.33,2808.04,1734.09,2560.04,225,Type 2 Newly Diagnosed
+2024-05-05,Jardiance,Boehringer Ingelheim / Eli Lilly,4409,80831.67,6173.87,3262.06,6765.44,1291,Cardiovascular Risk
+2024-05-05,Trulicity,Eli Lilly,4314,136610.0,12373.94,6733.64,11476.84,1204,Type 2 Newly Diagnosed
+2024-05-05,Januvia,Merck,2267,45340.0,3666.18,3119.06,5936.56,539,Cardiovascular Risk
+2024-05-05,Janumet,Merck,1950,37700.0,2231.43,1626.21,4301.75,530,Type 2 Newly Diagnosed
+2024-05-05,Ozempic,Novo Nordisk,4464,145080.0,11088.88,6293.24,16880.33,1111,Type 2 Newly Diagnosed
+2024-05-05,Mounjaro,Eli Lilly,4061,135366.67,12009.86,6148.64,15630.52,916,Cardiovascular Risk
+2024-05-05,Glucocure,Fictional Pharma,909,21210.0,1808.44,1043.17,3930.21,254,Type 2 Newly Diagnosed
+2024-05-06,Jardiance,Boehringer Ingelheim / Eli Lilly,4536,83160.0,7223.0,2616.92,9416.53,1055,Obesity Comorbidity
+2024-05-06,Trulicity,Eli Lilly,4290,135850.0,7129.83,7463.7,11468.11,875,Obesity Comorbidity
+2024-05-06,Januvia,Merck,2287,45740.0,3471.69,2495.92,4416.78,679,Obesity Comorbidity
+2024-05-06,Janumet,Merck,1885,36443.33,2015.61,2314.11,3527.26,391,Type 2 Newly Diagnosed
+2024-05-06,Ozempic,Novo Nordisk,4439,144267.5,9939.99,9990.13,16249.96,1255,Obesity Comorbidity
+2024-05-06,Mounjaro,Eli Lilly,3914,130466.67,11964.86,4529.66,10849.69,803,Obesity Comorbidity
+2024-05-06,Glucocure,Fictional Pharma,912,21280.0,1756.5,1459.72,3407.37,205,Cardiovascular Risk
+2024-05-07,Jardiance,Boehringer Ingelheim / Eli Lilly,4545,83325.0,5480.84,2855.13,8805.44,1060,Type 2 Newly Diagnosed
+2024-05-07,Trulicity,Eli Lilly,4312,136546.67,10682.32,6918.15,13644.02,1236,Obesity Comorbidity
+2024-05-07,Januvia,Merck,2207,44140.0,3212.62,2175.25,5872.58,580,Type 2 Newly Diagnosed
+2024-05-07,Janumet,Merck,1930,37313.33,2647.64,1288.5,3434.09,404,Cardiovascular Risk
+2024-05-07,Ozempic,Novo Nordisk,4488,145860.0,9114.38,6378.61,20368.38,1142,Obesity Comorbidity
+2024-05-07,Mounjaro,Eli Lilly,4115,137166.67,13073.58,8193.98,16089.36,1132,Cardiovascular Risk
+2024-05-07,Glucocure,Fictional Pharma,906,21140.0,2668.58,2134.17,3305.99,188,Type 2 Newly Diagnosed
+2024-05-08,Jardiance,Boehringer Ingelheim / Eli Lilly,4567,83728.33,7544.08,3049.7,9847.61,1254,Type 2 Newly Diagnosed
+2024-05-08,Trulicity,Eli Lilly,4227,133855.0,7571.43,5673.8,12599.19,1108,Cardiovascular Risk
+2024-05-08,Januvia,Merck,2203,44060.0,2859.51,2424.14,4002.41,529,Obesity Comorbidity
+2024-05-08,Janumet,Merck,1995,38570.0,3117.66,1219.33,3966.23,444,Obesity Comorbidity
+2024-05-08,Ozempic,Novo Nordisk,4507,146477.5,14296.9,6397.35,21826.06,994,Cardiovascular Risk
+2024-05-08,Mounjaro,Eli Lilly,4032,134400.0,6951.38,6428.76,18435.09,814,Cardiovascular Risk
+2024-05-08,Glucocure,Fictional Pharma,925,21583.33,2271.16,1793.0,3464.73,231,Type 2 Newly Diagnosed
+2024-05-09,Jardiance,Boehringer Ingelheim / Eli Lilly,4509,82665.0,5973.68,4093.96,11318.03,986,Type 2 Newly Diagnosed
+2024-05-09,Trulicity,Eli Lilly,4245,134425.0,8167.36,7406.64,19445.46,1115,Cardiovascular Risk
+2024-05-09,Januvia,Merck,2282,45640.0,2990.12,2097.84,4425.16,510,Type 2 Newly Diagnosed
+2024-05-09,Janumet,Merck,1865,36056.67,1887.55,1570.36,3907.11,544,Type 2 Newly Diagnosed
+2024-05-09,Ozempic,Novo Nordisk,4445,144462.5,13503.88,5377.8,21140.36,1082,Obesity Comorbidity
+2024-05-09,Mounjaro,Eli Lilly,4107,136900.0,9540.25,7437.57,15212.35,1131,Obesity Comorbidity
+2024-05-09,Glucocure,Fictional Pharma,878,20486.67,1890.49,1277.44,2819.2,256,Obesity Comorbidity
+2024-05-10,Jardiance,Boehringer Ingelheim / Eli Lilly,4416,80960.0,4280.32,4317.78,11488.55,1059,Type 2 Newly Diagnosed
+2024-05-10,Trulicity,Eli Lilly,4228,133886.67,12020.75,4431.56,13356.8,988,Obesity Comorbidity
+2024-05-10,Januvia,Merck,2289,45780.0,2588.99,2833.59,5290.17,671,Cardiovascular Risk
+2024-05-10,Janumet,Merck,1907,36868.67,2768.74,2447.98,4800.61,461,Cardiovascular Risk
+2024-05-10,Ozempic,Novo Nordisk,4460,144950.0,10462.23,9792.11,14588.67,1211,Obesity Comorbidity
+2024-05-10,Mounjaro,Eli Lilly,4084,136133.33,7373.14,8783.1,15470.08,1101,Type 2 Newly Diagnosed
+2024-05-10,Glucocure,Fictional Pharma,894,20860.0,2701.7,2032.62,2588.41,181,Type 2 Newly Diagnosed
+2024-05-11,Jardiance,Boehringer Ingelheim / Eli Lilly,4483,82188.33,8103.13,4150.89,8248.53,921,Obesity Comorbidity
+2024-05-11,Trulicity,Eli Lilly,4258,134836.67,10888.5,4992.58,15630.71,1128,Obesity Comorbidity
+2024-05-11,Januvia,Merck,2176,43520.0,2671.0,1594.89,4495.23,537,Cardiovascular Risk
+2024-05-11,Janumet,Merck,1926,37236.0,2712.14,1607.45,3115.67,386,Obesity Comorbidity
+2024-05-11,Ozempic,Novo Nordisk,4364,141830.0,14067.49,4539.55,12306.39,1182,Obesity Comorbidity
+2024-05-11,Mounjaro,Eli Lilly,4128,137600.0,12149.17,4563.99,11461.27,1088,Type 2 Newly Diagnosed
+2024-05-11,Glucocure,Fictional Pharma,904,21093.33,2540.53,1491.32,2245.74,223,Obesity Comorbidity
+2024-05-12,Jardiance,Boehringer Ingelheim / Eli Lilly,4560,83600.0,6727.73,4408.84,11322.74,963,Cardiovascular Risk
+2024-05-12,Trulicity,Eli Lilly,4291,135881.67,12823.32,8935.22,14064.72,1025,Obesity Comorbidity
+2024-05-12,Januvia,Merck,2282,45640.0,4406.54,1461.41,5399.73,469,Cardiovascular Risk
+2024-05-12,Janumet,Merck,1860,35960.0,2840.53,1485.22,3579.12,398,Obesity Comorbidity
+2024-05-12,Ozempic,Novo Nordisk,4552,147940.0,13466.92,,16469.96,1177,Obesity Comorbidity
+2024-05-12,Mounjaro,Eli Lilly,4142,138066.67,8689.86,5889.69,11885.84,1039,Obesity Comorbidity
+2024-05-12,Glucocure,Fictional Pharma,900,21000.0,2193.83,1270.98,2847.48,244,Obesity Comorbidity
+2024-05-13,Jardiance,Boehringer Ingelheim / Eli Lilly,4465,81858.33,6874.89,4322.71,10045.14,1311,Cardiovascular Risk
+2024-05-13,Trulicity,Eli Lilly,4258,134836.67,8478.75,6471.86,17327.0,857,Obesity Comorbidity
+2024-05-13,Januvia,Merck,2270,45400.0,2807.34,2964.83,3940.2,670,Type 2 Newly Diagnosed
+2024-05-13,Janumet,Merck,2006,38782.67,2905.47,2099.3,3719.58,572,Cardiovascular Risk
+2024-05-13,Ozempic,Novo Nordisk,4378,142285.0,7758.51,8070.42,12710.73,1004,Cardiovascular Risk
+2024-05-13,Mounjaro,Eli Lilly,4116,137200.0,9497.78,6020.11,15123.08,893,Obesity Comorbidity
+2024-05-13,Glucocure,Fictional Pharma,872,20346.67,2310.16,1888.14,2741.84,203,Obesity Comorbidity
+2024-05-14,Jardiance,Boehringer Ingelheim / Eli Lilly,4576,83893.33,5184.59,2998.5,7800.29,1258,Type 2 Newly Diagnosed
+2024-05-14,Trulicity,Eli Lilly,4273,135311.67,13307.69,7150.95,19003.2,1044,Type 2 Newly Diagnosed
+2024-05-14,Januvia,Merck,2233,44660.0,3535.08,2622.46,4735.88,640,Type 2 Newly Diagnosed
+2024-05-14,Janumet,Merck,1889,36520.67,2887.35,2144.74,3239.73,427,Cardiovascular Risk
+2024-05-14,Ozempic,Novo Nordisk,4451,144657.5,9750.29,9521.68,21360.64,1000,Obesity Comorbidity
+2024-05-14,Mounjaro,Eli Lilly,4125,137500.0,8064.54,5592.25,12150.48,891,Obesity Comorbidity
+2024-05-14,Glucocure,Fictional Pharma,906,21140.0,2197.96,1399.65,2805.76,185,Type 2 Newly Diagnosed
+2024-05-15,Jardiance,Boehringer Ingelheim / Eli Lilly,4532,83086.67,4182.57,5031.25,9636.87,1228,Cardiovascular Risk
+2024-05-15,Trulicity,Eli Lilly,4297,136071.67,8447.34,7790.28,17705.5,1281,Obesity Comorbidity
+2024-05-15,Januvia,Merck,2268,45360.0,3384.06,,4512.36,455,Obesity Comorbidity
+2024-05-15,Janumet,Merck,1864,36037.33,3322.3,1744.68,3431.88,378,Type 2 Newly Diagnosed
+2024-05-15,Ozempic,Novo Nordisk,4448,144560.0,7726.21,7132.88,13791.94,942,Obesity Comorbidity
+2024-05-15,Mounjaro,Eli Lilly,3933,131100.0,11244.21,5354.87,17465.53,821,Obesity Comorbidity
+2024-05-15,Glucocure,Fictional Pharma,863,20136.67,2064.03,,3883.51,191,Cardiovascular Risk
+2024-05-16,Jardiance,Boehringer Ingelheim / Eli Lilly,4402,80703.33,5258.96,4734.4,8482.43,1076,Type 2 Newly Diagnosed
+2024-05-16,Trulicity,Eli Lilly,4231,133981.67,11700.64,4086.96,16762.98,884,Type 2 Newly Diagnosed
+2024-05-16,Januvia,Merck,2246,44920.0,4476.15,2745.0,4303.73,591,Type 2 Newly Diagnosed
+2024-05-16,Janumet,Merck,1869,36134.0,3273.07,1508.84,4019.65,430,Cardiovascular Risk
+2024-05-16,Ozempic,Novo Nordisk,4463,145047.5,7633.66,4957.23,17380.87,1272,Obesity Comorbidity
+2024-05-16,Mounjaro,Eli Lilly,3994,133133.33,10439.44,5456.69,15072.08,1099,Obesity Comorbidity
+2024-05-16,Glucocure,Fictional Pharma,868,20253.33,1783.54,,3423.13,236,Type 2 Newly Diagnosed
+2024-05-17,Jardiance,Boehringer Ingelheim / Eli Lilly,4430,81216.67,6058.77,3444.35,7530.69,989,Cardiovascular Risk
+2024-05-17,Trulicity,Eli Lilly,4346,137623.33,8931.44,,12585.48,1109,Obesity Comorbidity
+2024-05-17,Januvia,Merck,2215,44300.0,4207.93,2442.54,4904.25,509,Type 2 Newly Diagnosed
+2024-05-17,Janumet,Merck,1917,37062.0,3050.96,1791.37,4336.61,494,Type 2 Newly Diagnosed
+2024-05-17,Ozempic,Novo Nordisk,4550,147875.0,13798.1,7388.94,14899.53,948,Obesity Comorbidity
+2024-05-17,Mounjaro,Eli Lilly,4068,135600.0,12170.18,4954.03,11838.14,1094,Type 2 Newly Diagnosed
+2024-05-17,Glucocure,Fictional Pharma,888,20720.0,2590.42,1264.51,3871.96,224,Type 2 Newly Diagnosed
+2024-05-18,Jardiance,Boehringer Ingelheim / Eli Lilly,4444,81473.33,6693.46,3473.19,10062.47,1218,Type 2 Newly Diagnosed
+2024-05-18,Trulicity,Eli Lilly,4202,133063.33,8383.31,6041.38,19428.42,897,Obesity Comorbidity
+2024-05-18,Januvia,Merck,2286,45720.0,3445.0,2417.99,6641.49,560,Cardiovascular Risk
+2024-05-18,Janumet,Merck,1882,36385.33,2298.74,1497.81,5281.22,564,Type 2 Newly Diagnosed
+2024-05-18,Ozempic,Novo Nordisk,4575,148687.5,9092.31,6886.59,15514.76,949,Type 2 Newly Diagnosed
+2024-05-18,Mounjaro,Eli Lilly,4117,137233.33,11296.43,7670.48,12211.64,1161,Obesity Comorbidity
+2024-05-18,Glucocure,Fictional Pharma,864,20160.0,2175.97,955.52,2761.29,251,Cardiovascular Risk
+2024-05-19,Jardiance,Boehringer Ingelheim / Eli Lilly,4591,84168.33,7820.63,4085.94,11354.22,1296,Cardiovascular Risk
+2024-05-19,Trulicity,Eli Lilly,4311,136515.0,10411.44,4456.15,20215.11,996,Obesity Comorbidity
+2024-05-19,Januvia,Merck,2274,45480.0,3826.03,2569.13,5915.7,535,Type 2 Newly Diagnosed
+2024-05-19,Janumet,Merck,1913,36984.67,3082.55,1261.22,2989.63,448,Type 2 Newly Diagnosed
+2024-05-19,Ozempic,Novo Nordisk,4441,144332.5,10457.16,6981.67,12324.24,1283,Obesity Comorbidity
+2024-05-19,Mounjaro,Eli Lilly,4127,137566.67,10817.97,,20034.7,1032,Obesity Comorbidity
+2024-05-19,Glucocure,Fictional Pharma,963,22470.0,2009.65,1148.5,4199.91,245,Cardiovascular Risk
+2024-05-20,Jardiance,Boehringer Ingelheim / Eli Lilly,4591,84168.33,6371.64,4564.46,10456.37,1249,Cardiovascular Risk
+2024-05-20,Trulicity,Eli Lilly,4208,133253.33,11703.95,,12400.73,880,Type 2 Newly Diagnosed
+2024-05-20,Januvia,Merck,2257,45140.0,4396.18,2070.28,4005.76,541,Cardiovascular Risk
+2024-05-20,Janumet,Merck,1998,38628.0,2562.46,1699.04,4702.74,563,Type 2 Newly Diagnosed
+2024-05-20,Ozempic,Novo Nordisk,4489,145892.5,9194.17,9269.42,18979.66,1095,Obesity Comorbidity
+2024-05-20,Mounjaro,Eli Lilly,4011,133700.0,9041.34,4685.44,11911.33,884,Obesity Comorbidity
+2024-05-20,Glucocure,Fictional Pharma,896,20906.67,2553.25,,2375.29,265,Cardiovascular Risk
+2024-05-21,Jardiance,Boehringer Ingelheim / Eli Lilly,4524,82940.0,7368.78,,10469.28,1050,Cardiovascular Risk
+2024-05-21,Trulicity,Eli Lilly,4351,137781.67,12750.68,5710.42,17199.47,1195,Obesity Comorbidity
+2024-05-21,Januvia,Merck,2266,45320.0,4427.62,1740.14,6128.39,460,Cardiovascular Risk
+2024-05-21,Janumet,Merck,1882,36385.33,2204.43,1301.49,4843.92,548,Cardiovascular Risk
+2024-05-21,Ozempic,Novo Nordisk,4420,143650.0,9002.4,9452.61,17263.14,1217,Obesity Comorbidity
+2024-05-21,Mounjaro,Eli Lilly,4170,139000.0,9100.76,6660.72,15065.24,1148,Cardiovascular Risk
+2024-05-21,Glucocure,Fictional Pharma,954,22260.0,3182.3,1075.75,4002.48,284,Type 2 Newly Diagnosed
+2024-05-22,Jardiance,Boehringer Ingelheim / Eli Lilly,4406,80776.67,4833.14,5484.09,7624.79,1268,Cardiovascular Risk
+2024-05-22,Trulicity,Eli Lilly,4363,138161.67,10036.64,9371.31,17598.67,1295,Obesity Comorbidity
+2024-05-22,Januvia,Merck,2191,43820.0,3983.91,1902.98,5268.07,453,Cardiovascular Risk
+2024-05-22,Janumet,Merck,1918,37081.33,2116.2,1305.74,4636.65,536,Type 2 Newly Diagnosed
+2024-05-22,Ozempic,Novo Nordisk,4590,149175.0,8106.04,5888.53,13656.28,1168,Type 2 Newly Diagnosed
+2024-05-22,Mounjaro,Eli Lilly,4007,133566.67,8136.23,4299.21,10850.54,893,Type 2 Newly Diagnosed
+2024-05-22,Glucocure,Fictional Pharma,965,22516.67,3193.38,1782.64,4047.32,236,Cardiovascular Risk
+2024-05-23,Jardiance,Boehringer Ingelheim / Eli Lilly,4500,82500.0,4153.22,4016.16,10559.64,982,Type 2 Newly Diagnosed
+2024-05-23,Trulicity,Eli Lilly,4207,133221.67,11861.39,8846.96,14227.85,886,Obesity Comorbidity
+2024-05-23,Januvia,Merck,2268,45360.0,2445.59,2401.23,3941.06,502,Obesity Comorbidity
+2024-05-23,Janumet,Merck,1914,37004.0,2293.01,2033.91,4188.31,565,Cardiovascular Risk
+2024-05-23,Ozempic,Novo Nordisk,4476,145470.0,11878.93,8559.77,14256.16,1303,Obesity Comorbidity
+2024-05-23,Mounjaro,Eli Lilly,4150,138333.33,8988.6,6682.85,11992.0,1112,Cardiovascular Risk
+2024-05-23,Glucocure,Fictional Pharma,953,22236.67,2343.52,1795.89,2530.04,252,Type 2 Newly Diagnosed
+2024-05-24,Jardiance,Boehringer Ingelheim / Eli Lilly,4585,84058.33,7647.95,5881.9,7968.75,1040,Type 2 Newly Diagnosed
+2024-05-24,Trulicity,Eli Lilly,4304,136293.33,13055.64,6830.34,18489.24,1276,Type 2 Newly Diagnosed
+2024-05-24,Januvia,Merck,2290,45800.0,2431.44,2719.33,5336.68,536,Type 2 Newly Diagnosed
+2024-05-24,Janumet,Merck,1860,35960.0,2478.21,1205.95,3738.25,523,Cardiovascular Risk
+2024-05-24,Ozempic,Novo Nordisk,4593,149272.5,12755.07,9888.41,13380.99,1154,Type 2 Newly Diagnosed
+2024-05-24,Mounjaro,Eli Lilly,4131,137700.0,7274.87,4794.04,16614.03,855,Cardiovascular Risk
+2024-05-24,Glucocure,Fictional Pharma,963,22470.0,2499.45,1096.33,3586.52,222,Cardiovascular Risk
+2024-05-25,Jardiance,Boehringer Ingelheim / Eli Lilly,4526,82976.67,6792.89,2723.95,8738.09,1068,Cardiovascular Risk
+2024-05-25,Trulicity,Eli Lilly,4350,137750.0,11260.58,8865.22,14344.44,884,Obesity Comorbidity
+2024-05-25,Januvia,Merck,2178,43560.0,3073.03,2359.74,5405.85,628,Obesity Comorbidity
+2024-05-25,Janumet,Merck,1914,37004.0,1903.49,2062.93,3678.2,502,Obesity Comorbidity
+2024-05-25,Ozempic,Novo Nordisk,4549,147842.5,11132.87,5396.32,21759.78,1055,Cardiovascular Risk
+2024-05-25,Mounjaro,Eli Lilly,4290,143000.0,9605.15,4399.25,18344.81,1143,Cardiovascular Risk
+2024-05-25,Glucocure,Fictional Pharma,980,22866.67,2496.0,1739.72,2393.66,253,Type 2 Newly Diagnosed
+2024-05-26,Jardiance,Boehringer Ingelheim / Eli Lilly,4568,83746.67,7863.72,3414.15,12457.98,980,Obesity Comorbidity
+2024-05-26,Trulicity,Eli Lilly,4307,136388.33,8433.71,7517.89,18834.65,952,Obesity Comorbidity
+2024-05-26,Januvia,Merck,2149,42980.0,2211.69,2219.9,3597.58,588,Cardiovascular Risk
+2024-05-26,Janumet,Merck,1944,37584.0,2553.35,2624.33,4270.03,510,Obesity Comorbidity
+2024-05-26,Ozempic,Novo Nordisk,4595,149337.5,13955.28,9882.87,11954.82,1052,Obesity Comorbidity
+2024-05-26,Mounjaro,Eli Lilly,4089,136300.0,7371.65,5276.04,13292.5,1070,Cardiovascular Risk
+2024-05-26,Glucocure,Fictional Pharma,893,20836.67,3023.75,1734.13,3871.01,222,Type 2 Newly Diagnosed
+2024-05-27,Jardiance,Boehringer Ingelheim / Eli Lilly,4503,82555.0,6699.15,3952.32,11100.26,945,Type 2 Newly Diagnosed
+2024-05-27,Trulicity,Eli Lilly,4292,135913.33,12593.24,9152.84,19745.78,1059,Type 2 Newly Diagnosed
+2024-05-27,Januvia,Merck,2256,45120.0,4477.2,2556.33,4511.02,470,Cardiovascular Risk
+2024-05-27,Janumet,Merck,1892,36578.67,2389.4,2505.22,5395.87,459,Type 2 Newly Diagnosed
+2024-05-27,Ozempic,Novo Nordisk,4630,150475.0,12590.39,8212.92,21438.6,1285,Type 2 Newly Diagnosed
+2024-05-27,Mounjaro,Eli Lilly,4155,138500.0,9742.77,5377.67,16250.42,841,Cardiovascular Risk
+2024-05-27,Glucocure,Fictional Pharma,948,22120.0,2055.5,1368.72,3128.05,209,Type 2 Newly Diagnosed
+2024-05-28,Jardiance,Boehringer Ingelheim / Eli Lilly,4442,81436.67,4493.82,4731.16,8222.01,1051,Type 2 Newly Diagnosed
+2024-05-28,Trulicity,Eli Lilly,4281,135565.0,12373.29,4861.95,12360.36,1147,Obesity Comorbidity
+2024-05-28,Januvia,Merck,2148,42960.0,2409.21,2376.69,6140.34,436,Cardiovascular Risk
+2024-05-28,Janumet,Merck,1972,38125.33,2669.45,2588.18,4134.78,554,Cardiovascular Risk
+2024-05-28,Ozempic,Novo Nordisk,4539,147517.5,12335.03,8492.18,15327.49,944,Obesity Comorbidity
+2024-05-28,Mounjaro,Eli Lilly,4264,142133.33,8534.48,,19828.92,1190,Obesity Comorbidity
+2024-05-28,Glucocure,Fictional Pharma,904,21093.33,2479.7,1426.34,4045.88,197,Type 2 Newly Diagnosed
+2024-05-29,Jardiance,Boehringer Ingelheim / Eli Lilly,4573,83838.33,8217.69,2664.68,7546.65,922,Type 2 Newly Diagnosed
+2024-05-29,Trulicity,Eli Lilly,4322,136863.33,7181.99,7387.11,14222.46,870,Cardiovascular Risk
+2024-05-29,Januvia,Merck,2206,44120.0,3306.72,1451.04,5643.41,542,Cardiovascular Risk
+2024-05-29,Janumet,Merck,1981,38299.33,2534.35,,4502.35,437,Cardiovascular Risk
+2024-05-29,Ozempic,Novo Nordisk,4591,149207.5,8633.17,10219.75,17350.68,1199,Type 2 Newly Diagnosed
+2024-05-29,Mounjaro,Eli Lilly,4319,143966.67,7423.95,5006.87,17788.7,978,Cardiovascular Risk
+2024-05-29,Glucocure,Fictional Pharma,965,22516.67,2961.18,1192.22,3462.37,236,Obesity Comorbidity
+2024-05-30,Jardiance,Boehringer Ingelheim / Eli Lilly,4515,82775.0,7670.28,5317.97,7197.01,1091,Type 2 Newly Diagnosed
+2024-05-30,Trulicity,Eli Lilly,4331,137148.33,7741.36,8064.3,11943.1,1245,Obesity Comorbidity
+2024-05-30,Januvia,Merck,2134,42680.0,3498.06,1682.76,5546.53,476,Cardiovascular Risk
+2024-05-30,Janumet,Merck,1868,36114.67,2560.32,1147.74,3620.12,445,Obesity Comorbidity
+2024-05-30,Ozempic,Novo Nordisk,4478,145535.0,8046.6,7312.49,19941.75,1235,Cardiovascular Risk
+2024-05-30,Mounjaro,Eli Lilly,4106,136866.67,9298.22,7003.56,16548.24,969,Obesity Comorbidity
+2024-05-30,Glucocure,Fictional Pharma,955,22283.33,2490.68,2134.9,4004.46,236,Type 2 Newly Diagnosed
+2024-05-31,Jardiance,Boehringer Ingelheim / Eli Lilly,4560,83600.0,7214.94,5577.03,12003.65,1338,Cardiovascular Risk
+2024-05-31,Trulicity,Eli Lilly,4255,134741.67,7456.75,5329.55,19732.87,993,Obesity Comorbidity
+2024-05-31,Januvia,Merck,2244,44880.0,3791.42,2921.35,4502.6,496,Type 2 Newly Diagnosed
+2024-05-31,Janumet,Merck,1852,35805.33,3518.8,1614.6,3511.64,453,Type 2 Newly Diagnosed
+2024-05-31,Ozempic,Novo Nordisk,4481,145632.5,8781.55,8500.84,11866.21,1236,Obesity Comorbidity
+2024-05-31,Mounjaro,Eli Lilly,4160,138666.67,10841.91,5296.95,18295.64,972,Type 2 Newly Diagnosed
+2024-05-31,Glucocure,Fictional Pharma,928,21653.33,2733.72,1212.89,3869.53,261,Type 2 Newly Diagnosed
+2024-06-01,Jardiance,Boehringer Ingelheim / Eli Lilly,4458,81730.0,4604.0,,9359.07,1295,Type 2 Newly Diagnosed
+2024-06-01,Trulicity,Eli Lilly,4247,134488.33,13290.74,6058.75,19451.05,1250,Obesity Comorbidity
+2024-06-01,Januvia,Merck,2261,45220.0,3376.9,2177.02,3738.04,659,Cardiovascular Risk
+2024-06-01,Janumet,Merck,1901,36752.67,2046.47,1108.34,5511.51,390,Cardiovascular Risk
+2024-06-01,Ozempic,Novo Nordisk,4559,148167.5,8261.49,7930.67,18770.98,1243,Obesity Comorbidity
+2024-06-01,Mounjaro,Eli Lilly,4094,136466.67,7352.03,4192.41,11894.88,1039,Obesity Comorbidity
+2024-06-01,Glucocure,Fictional Pharma,955,22283.33,3090.92,1715.17,3273.21,201,Cardiovascular Risk
+2024-06-02,Jardiance,Boehringer Ingelheim / Eli Lilly,4535,83141.67,7412.74,3053.35,9632.65,1304,Obesity Comorbidity
+2024-06-02,Trulicity,Eli Lilly,4362,138130.0,10910.69,7128.71,11536.98,1285,Type 2 Newly Diagnosed
+2024-06-02,Januvia,Merck,2269,45380.0,2729.32,2714.86,6793.08,608,Cardiovascular Risk
+2024-06-02,Janumet,Merck,1962,37932.0,2467.81,1515.73,4023.12,422,Type 2 Newly Diagnosed
+2024-06-02,Ozempic,Novo Nordisk,4542,147615.0,8891.73,7773.51,18520.96,1112,Obesity Comorbidity
+2024-06-02,Mounjaro,Eli Lilly,4316,143866.67,9850.49,5234.1,20427.51,983,Type 2 Newly Diagnosed
+2024-06-02,Glucocure,Fictional Pharma,920,21466.67,1928.28,1376.64,3391.91,199,Type 2 Newly Diagnosed
+2024-06-03,Jardiance,Boehringer Ingelheim / Eli Lilly,4534,83123.33,5775.06,3295.22,6741.2,956,Obesity Comorbidity
+2024-06-03,Trulicity,Eli Lilly,4315,136641.67,7827.03,7911.18,17079.72,921,Obesity Comorbidity
+2024-06-03,Januvia,Merck,2158,43160.0,3536.26,1538.64,6234.2,432,Type 2 Newly Diagnosed
+2024-06-03,Janumet,Merck,1918,37081.33,3157.99,1709.49,5354.65,397,Cardiovascular Risk
+2024-06-03,Ozempic,Novo Nordisk,4632,150540.0,14502.01,7428.79,15368.44,1281,Obesity Comorbidity
+2024-06-03,Mounjaro,Eli Lilly,4217,140566.67,7895.06,6471.52,14696.2,1052,Obesity Comorbidity
+2024-06-03,Glucocure,Fictional Pharma,960,22400.0,2553.93,,2360.81,217,Obesity Comorbidity
+2024-06-04,Jardiance,Boehringer Ingelheim / Eli Lilly,4406,80776.67,4807.75,3608.2,7060.39,1192,Cardiovascular Risk
+2024-06-04,Trulicity,Eli Lilly,4361,138098.33,9355.69,,15816.35,902,Type 2 Newly Diagnosed
+2024-06-04,Januvia,Merck,2217,44340.0,3056.59,2825.6,5546.71,482,Cardiovascular Risk
+2024-06-04,Janumet,Merck,1876,36269.33,3020.93,1400.74,3462.81,448,Cardiovascular Risk
+2024-06-04,Ozempic,Novo Nordisk,4483,145697.5,11704.73,5342.94,19788.55,1235,Obesity Comorbidity
+2024-06-04,Mounjaro,Eli Lilly,4197,139900.0,13233.65,,14401.63,1073,Type 2 Newly Diagnosed
+2024-06-04,Glucocure,Fictional Pharma,982,22913.33,2783.25,1943.27,4126.75,250,Type 2 Newly Diagnosed
+2024-06-05,Jardiance,Boehringer Ingelheim / Eli Lilly,4537,83178.33,6320.24,3129.42,9344.48,1121,Cardiovascular Risk
+2024-06-05,Trulicity,Eli Lilly,4285,135691.67,9097.77,8953.01,19792.2,1227,Obesity Comorbidity
+2024-06-05,Januvia,Merck,2218,44360.0,3436.6,2379.23,5575.65,458,Type 2 Newly Diagnosed
+2024-06-05,Janumet,Merck,1904,36810.67,2199.33,2321.82,4394.67,541,Cardiovascular Risk
+2024-06-05,Ozempic,Novo Nordisk,4512,146640.0,8370.34,5000.4,17227.64,1102,Type 2 Newly Diagnosed
+2024-06-05,Mounjaro,Eli Lilly,4234,141133.33,9804.78,9606.68,14449.3,907,Cardiovascular Risk
+2024-06-05,Glucocure,Fictional Pharma,942,21980.0,2756.38,1915.1,3029.44,216,Type 2 Newly Diagnosed
+2024-06-06,Jardiance,Boehringer Ingelheim / Eli Lilly,4575,83875.0,6228.84,5126.14,8954.95,1117,Obesity Comorbidity
+2024-06-06,Trulicity,Eli Lilly,4325,136958.33,10449.55,8539.62,14424.97,1023,Obesity Comorbidity
+2024-06-06,Januvia,Merck,2157,43140.0,2839.59,1884.68,4038.44,588,Cardiovascular Risk
+2024-06-06,Janumet,Merck,1890,36540.0,3078.51,2130.65,3843.99,393,Type 2 Newly Diagnosed
+2024-06-06,Ozempic,Novo Nordisk,4530,147225.0,12283.5,6274.24,18812.7,1106,Cardiovascular Risk
+2024-06-06,Mounjaro,Eli Lilly,4282,142733.33,12254.95,7354.16,16501.32,872,Obesity Comorbidity
+2024-06-06,Glucocure,Fictional Pharma,976,22773.33,2032.41,1654.32,2961.71,211,Type 2 Newly Diagnosed
+2024-06-07,Jardiance,Boehringer Ingelheim / Eli Lilly,4476,82060.0,6710.16,5106.64,11305.19,1195,Cardiovascular Risk
+2024-06-07,Trulicity,Eli Lilly,4310,136483.33,8654.75,9550.21,12593.78,1162,Type 2 Newly Diagnosed
+2024-06-07,Januvia,Merck,2158,43160.0,3122.16,2067.36,6338.12,599,Cardiovascular Risk
+2024-06-07,Janumet,Merck,1880,36346.67,1935.28,1767.5,3518.98,502,Obesity Comorbidity
+2024-06-07,Ozempic,Novo Nordisk,4582,148915.0,13408.33,8232.75,17161.85,1034,Type 2 Newly Diagnosed
+2024-06-07,Mounjaro,Eli Lilly,4283,142766.67,9553.72,9625.46,20537.63,1140,Obesity Comorbidity
+2024-06-07,Glucocure,Fictional Pharma,1000,23333.33,2767.54,2376.88,2540.68,271,Type 2 Newly Diagnosed
+2024-06-08,Jardiance,Boehringer Ingelheim / Eli Lilly,4540,83233.33,4277.53,3318.2,9336.54,1148,Cardiovascular Risk
+2024-06-08,Trulicity,Eli Lilly,4304,136293.33,8628.1,8631.14,14975.27,1287,Obesity Comorbidity
+2024-06-08,Januvia,Merck,2153,43060.0,3645.89,2998.08,4282.42,592,Obesity Comorbidity
+2024-06-08,Janumet,Merck,1937,37448.67,3477.02,2148.37,5309.13,472,Type 2 Newly Diagnosed
+2024-06-08,Ozempic,Novo Nordisk,4514,146705.0,12178.98,7468.51,11978.67,1336,Obesity Comorbidity
+2024-06-08,Mounjaro,Eli Lilly,4226,140866.67,8510.3,5382.35,13138.12,1161,Type 2 Newly Diagnosed
+2024-06-08,Glucocure,Fictional Pharma,965,22516.67,2339.85,2249.98,3902.95,233,Obesity Comorbidity
+2024-06-09,Jardiance,Boehringer Ingelheim / Eli Lilly,4521,82885.0,4713.27,3601.67,10035.08,1305,Type 2 Newly Diagnosed
+2024-06-09,Trulicity,Eli Lilly,4383,138795.0,8801.6,7443.88,18112.95,1212,Cardiovascular Risk
+2024-06-09,Januvia,Merck,2220,44400.0,3939.73,2330.37,5269.8,558,Type 2 Newly Diagnosed
+2024-06-09,Janumet,Merck,1845,35670.0,2233.66,2007.24,3348.5,500,Type 2 Newly Diagnosed
+2024-06-09,Ozempic,Novo Nordisk,4661,151482.5,11241.62,4929.86,17968.58,1383,Cardiovascular Risk
+2024-06-09,Mounjaro,Eli Lilly,4242,141400.0,10599.13,7639.03,11930.42,862,Obesity Comorbidity
+2024-06-09,Glucocure,Fictional Pharma,967,22563.33,3353.87,1950.97,4160.01,259,Cardiovascular Risk
+2024-06-10,Jardiance,Boehringer Ingelheim / Eli Lilly,4498,82463.33,4351.42,4248.91,7004.31,1264,Cardiovascular Risk
+2024-06-10,Trulicity,Eli Lilly,4401,139365.0,11480.33,9582.43,18114.25,1242,Cardiovascular Risk
+2024-06-10,Januvia,Merck,2198,43960.0,3385.09,2636.92,5755.66,576,Cardiovascular Risk
+2024-06-10,Janumet,Merck,1861,35979.33,2149.48,1786.49,5272.24,374,Obesity Comorbidity
+2024-06-10,Ozempic,Novo Nordisk,4543,147647.5,9426.96,4818.02,19108.39,982,Obesity Comorbidity
+2024-06-10,Mounjaro,Eli Lilly,4186,139533.33,7888.06,6261.35,11415.04,1241,Obesity Comorbidity
+2024-06-10,Glucocure,Fictional Pharma,1013,23636.67,2850.02,2458.29,4267.38,300,Type 2 Newly Diagnosed
+2024-06-11,Jardiance,Boehringer Ingelheim / Eli Lilly,4434,81290.0,7200.15,5414.37,11365.65,1244,Cardiovascular Risk
+2024-06-11,Trulicity,Eli Lilly,4331,137148.33,12655.44,8498.16,15853.46,1205,Obesity Comorbidity
+2024-06-11,Januvia,Merck,2236,44720.0,2704.26,2302.33,5885.39,614,Cardiovascular Risk
+2024-06-11,Janumet,Merck,1824,35264.0,2092.75,1151.95,5286.05,509,Type 2 Newly Diagnosed
+2024-06-11,Ozempic,Novo Nordisk,4528,147160.0,10002.94,9467.51,14168.9,941,Type 2 Newly Diagnosed
+2024-06-11,Mounjaro,Eli Lilly,4206,140200.0,13496.27,9073.56,16119.89,933,Type 2 Newly Diagnosed
+2024-06-11,Glucocure,Fictional Pharma,1001,23356.67,2081.95,2179.13,4485.11,260,Type 2 Newly Diagnosed
+2024-06-12,Jardiance,Boehringer Ingelheim / Eli Lilly,4598,84296.67,7149.88,4794.71,8163.94,1369,Cardiovascular Risk
+2024-06-12,Trulicity,Eli Lilly,4384,138826.67,10563.54,7416.98,11188.69,1023,Obesity Comorbidity
+2024-06-12,Januvia,Merck,2124,42480.0,2236.44,2557.18,6238.71,502,Type 2 Newly Diagnosed
+2024-06-12,Janumet,Merck,1879,36327.33,2549.02,2072.8,3389.17,490,Cardiovascular Risk
+2024-06-12,Ozempic,Novo Nordisk,4663,151547.5,10505.75,7093.94,18086.85,1193,Type 2 Newly Diagnosed
+2024-06-12,Mounjaro,Eli Lilly,4423,147433.33,12066.1,10171.54,20315.17,959,Type 2 Newly Diagnosed
+2024-06-12,Glucocure,Fictional Pharma,967,22563.33,2655.01,2209.01,4280.57,229,Obesity Comorbidity
+2024-06-13,Jardiance,Boehringer Ingelheim / Eli Lilly,4523,82921.67,5960.6,3614.37,10807.29,1131,Type 2 Newly Diagnosed
+2024-06-13,Trulicity,Eli Lilly,4324,136926.67,9954.29,5760.02,14634.9,1206,Cardiovascular Risk
+2024-06-13,Januvia,Merck,2185,43700.0,4171.3,1361.91,5848.7,522,Cardiovascular Risk
+2024-06-13,Janumet,Merck,1831,35399.33,2825.56,1580.27,4831.92,463,Cardiovascular Risk
+2024-06-13,Ozempic,Novo Nordisk,4593,149272.5,11470.54,10070.34,15163.79,977,Cardiovascular Risk
+2024-06-13,Mounjaro,Eli Lilly,4347,144900.0,7658.65,8246.7,16972.09,1132,Obesity Comorbidity
+2024-06-13,Glucocure,Fictional Pharma,966,22540.0,2538.62,1995.42,2576.41,229,Type 2 Newly Diagnosed
+2024-06-14,Jardiance,Boehringer Ingelheim / Eli Lilly,4505,82591.67,8146.38,3422.07,7018.45,1246,Obesity Comorbidity
+2024-06-14,Trulicity,Eli Lilly,4288,135786.67,12341.57,7057.25,19700.67,1045,Cardiovascular Risk
+2024-06-14,Januvia,Merck,2241,44820.0,3607.31,1803.33,4862.76,550,Cardiovascular Risk
+2024-06-14,Janumet,Merck,1804,34877.33,2606.38,2294.58,3443.68,504,Obesity Comorbidity
+2024-06-14,Ozempic,Novo Nordisk,4640,150800.0,8969.25,9905.98,16613.02,1264,Type 2 Newly Diagnosed
+2024-06-14,Mounjaro,Eli Lilly,4251,141700.0,8348.48,5607.75,15481.83,986,Obesity Comorbidity
+2024-06-14,Glucocure,Fictional Pharma,982,22913.33,2972.0,1800.6,3131.54,202,Cardiovascular Risk
+2024-06-15,Jardiance,Boehringer Ingelheim / Eli Lilly,4547,83361.67,5442.5,2743.75,12111.18,1271,Obesity Comorbidity
+2024-06-15,Trulicity,Eli Lilly,4380,138700.0,9331.92,8642.13,13487.8,933,Type 2 Newly Diagnosed
+2024-06-15,Januvia,Merck,2182,43640.0,3507.5,2222.42,6162.55,561,Type 2 Newly Diagnosed
+2024-06-15,Janumet,Merck,1852,35805.33,3337.78,1517.24,4604.18,413,Type 2 Newly Diagnosed
+2024-06-15,Ozempic,Novo Nordisk,4568,148460.0,12483.44,5687.74,20179.63,1049,Cardiovascular Risk
+2024-06-15,Mounjaro,Eli Lilly,4381,146033.33,13166.45,7663.11,19256.22,1172,Obesity Comorbidity
+2024-06-15,Glucocure,Fictional Pharma,1003,23403.33,2426.61,1480.76,2486.89,261,Type 2 Newly Diagnosed
+2024-06-16,Jardiance,Boehringer Ingelheim / Eli Lilly,4490,82316.67,6006.42,5162.78,11943.7,1033,Cardiovascular Risk
+2024-06-16,Trulicity,Eli Lilly,4353,137845.0,9230.36,6882.32,15260.37,969,Obesity Comorbidity
+2024-06-16,Januvia,Merck,2191,43820.0,3100.5,1471.19,4848.45,625,Type 2 Newly Diagnosed
+2024-06-16,Janumet,Merck,1801,34819.33,1872.46,2197.21,3827.93,499,Cardiovascular Risk
+2024-06-16,Ozempic,Novo Nordisk,4596,149370.0,11573.82,9606.07,16906.76,927,Type 2 Newly Diagnosed
+2024-06-16,Mounjaro,Eli Lilly,4387,146233.33,8488.73,7681.14,21359.45,1028,Type 2 Newly Diagnosed
+2024-06-16,Glucocure,Fictional Pharma,1038,24220.0,2127.28,1254.47,3775.58,305,Cardiovascular Risk
+2024-06-17,Jardiance,Boehringer Ingelheim / Eli Lilly,4524,82940.0,7805.51,3927.67,10975.6,1238,Cardiovascular Risk
+2024-06-17,Trulicity,Eli Lilly,4324,136926.67,10665.76,5774.51,11782.82,989,Type 2 Newly Diagnosed
+2024-06-17,Januvia,Merck,2108,42160.0,2482.29,2808.14,4745.71,458,Type 2 Newly Diagnosed
+2024-06-17,Janumet,Merck,1834,35457.33,1887.22,2443.04,4186.88,477,Cardiovascular Risk
+2024-06-17,Ozempic,Novo Nordisk,4703,152847.5,14377.58,6592.34,13435.12,1049,Cardiovascular Risk
+2024-06-17,Mounjaro,Eli Lilly,4401,146700.0,10487.81,6086.63,19302.14,952,Obesity Comorbidity
+2024-06-17,Glucocure,Fictional Pharma,1035,24150.0,2061.72,1704.2,3725.41,267,Obesity Comorbidity
+2024-06-18,Jardiance,Boehringer Ingelheim / Eli Lilly,4587,84095.0,7882.84,5680.51,11466.9,1251,Cardiovascular Risk
+2024-06-18,Trulicity,Eli Lilly,4355,137908.33,9191.29,4826.55,12061.27,1049,Obesity Comorbidity
+2024-06-18,Januvia,Merck,2096,41920.0,4111.54,1782.18,3641.3,479,Cardiovascular Risk
+2024-06-18,Janumet,Merck,1922,37158.67,3024.46,1657.62,4365.36,495,Cardiovascular Risk
+2024-06-18,Ozempic,Novo Nordisk,4625,150312.5,10719.67,6515.77,15354.84,1267,Obesity Comorbidity
+2024-06-18,Mounjaro,Eli Lilly,4231,141033.33,11751.78,8786.58,16304.56,869,Type 2 Newly Diagnosed
+2024-06-18,Glucocure,Fictional Pharma,1056,24640.0,3436.36,2158.15,3643.82,309,Obesity Comorbidity
+2024-06-19,Jardiance,Boehringer Ingelheim / Eli Lilly,4442,81436.67,7116.35,3205.68,6856.54,1230,Cardiovascular Risk
+2024-06-19,Trulicity,Eli Lilly,4403,139428.33,9794.85,9378.2,12023.0,1178,Obesity Comorbidity
+2024-06-19,Januvia,Merck,2087,41740.0,2845.25,1903.82,3649.18,612,Cardiovascular Risk
+2024-06-19,Janumet,Merck,1822,35225.33,3372.38,1292.0,3116.77,540,Type 2 Newly Diagnosed
+2024-06-19,Ozempic,Novo Nordisk,4659,151417.5,10722.52,,18462.45,1022,Type 2 Newly Diagnosed
+2024-06-19,Mounjaro,Eli Lilly,4299,143300.0,9931.4,8253.07,17507.09,1045,Type 2 Newly Diagnosed
+2024-06-19,Glucocure,Fictional Pharma,1052,24546.67,2347.63,2444.24,3968.8,276,Type 2 Newly Diagnosed
+2024-06-20,Jardiance,Boehringer Ingelheim / Eli Lilly,4421,81051.67,7353.68,3189.94,7622.44,1270,Cardiovascular Risk
+2024-06-20,Trulicity,Eli Lilly,4327,137021.67,7894.44,5557.46,15062.18,997,Obesity Comorbidity
+2024-06-20,Januvia,Merck,2237,44740.0,4151.7,2120.1,4183.14,523,Type 2 Newly Diagnosed
+2024-06-20,Janumet,Merck,1899,36714.0,3244.11,1403.78,3763.85,430,Obesity Comorbidity
+2024-06-20,Ozempic,Novo Nordisk,4692,152490.0,14766.07,5222.96,21186.78,940,Obesity Comorbidity
+2024-06-20,Mounjaro,Eli Lilly,4470,149000.0,11004.01,9446.0,19803.89,1122,Obesity Comorbidity
+2024-06-20,Glucocure,Fictional Pharma,993,23170.0,1744.1,,3298.98,278,Type 2 Newly Diagnosed
+2024-06-21,Jardiance,Boehringer Ingelheim / Eli Lilly,4418,80996.67,6596.66,4901.43,10818.64,1263,Obesity Comorbidity
+2024-06-21,Trulicity,Eli Lilly,4408,139586.67,9611.79,9231.35,11847.89,1234,Type 2 Newly Diagnosed
+2024-06-21,Januvia,Merck,2095,41900.0,2706.46,1546.54,4464.68,464,Cardiovascular Risk
+2024-06-21,Janumet,Merck,1877,36288.67,3509.86,1159.01,3437.24,452,Cardiovascular Risk
+2024-06-21,Ozempic,Novo Nordisk,4627,150377.5,12452.6,6810.52,14996.46,1179,Obesity Comorbidity
+2024-06-21,Mounjaro,Eli Lilly,4327,144233.33,10901.09,5243.89,12078.4,1148,Obesity Comorbidity
+2024-06-21,Glucocure,Fictional Pharma,1042,24313.33,3220.86,1820.51,3214.54,241,Cardiovascular Risk
+2024-06-22,Jardiance,Boehringer Ingelheim / Eli Lilly,4541,83251.67,4358.08,4383.44,11108.32,1213,Type 2 Newly Diagnosed
+2024-06-22,Trulicity,Eli Lilly,4406,139523.33,13766.53,8597.8,13534.62,1194,Cardiovascular Risk
+2024-06-22,Januvia,Merck,2076,41520.0,3918.54,2310.61,4523.82,512,Type 2 Newly Diagnosed
+2024-06-22,Janumet,Merck,1822,35225.33,2465.28,2400.54,4401.32,461,Type 2 Newly Diagnosed
+2024-06-22,Ozempic,Novo Nordisk,4587,149077.5,10153.53,8410.77,16839.37,1303,Type 2 Newly Diagnosed
+2024-06-22,Mounjaro,Eli Lilly,4279,142633.33,11714.67,9127.64,14331.23,1102,Type 2 Newly Diagnosed
+2024-06-22,Glucocure,Fictional Pharma,1030,24033.33,3192.67,1137.47,2924.03,291,Obesity Comorbidity
+2024-06-23,Jardiance,Boehringer Ingelheim / Eli Lilly,4471,81968.33,5433.28,4008.5,11591.84,1051,Type 2 Newly Diagnosed
+2024-06-23,Trulicity,Eli Lilly,4275,135375.0,6979.04,9188.73,13111.05,922,Obesity Comorbidity
+2024-06-23,Januvia,Merck,2173,43460.0,4120.62,2006.97,4862.9,469,Cardiovascular Risk
+2024-06-23,Janumet,Merck,1882,36385.33,3022.44,1662.08,3849.9,420,Cardiovascular Risk
+2024-06-23,Ozempic,Novo Nordisk,4689,152392.5,11685.11,4573.24,14764.87,1114,Obesity Comorbidity
+2024-06-23,Mounjaro,Eli Lilly,4372,145733.33,8501.82,7908.43,18892.71,881,Type 2 Newly Diagnosed
+2024-06-23,Glucocure,Fictional Pharma,987,23030.0,1862.9,1528.83,3962.0,221,Obesity Comorbidity
+2024-06-24,Jardiance,Boehringer Ingelheim / Eli Lilly,4592,84186.67,7824.11,4884.36,9102.85,1060,Type 2 Newly Diagnosed
+2024-06-24,Trulicity,Eli Lilly,4313,136578.33,9447.68,4928.99,17300.33,1287,Obesity Comorbidity
+2024-06-24,Januvia,Merck,2217,44340.0,3223.99,2861.58,6393.26,584,Cardiovascular Risk
+2024-06-24,Janumet,Merck,1832,35418.67,3159.3,1621.9,4435.24,487,Type 2 Newly Diagnosed
+2024-06-24,Ozempic,Novo Nordisk,4764,154830.0,13069.35,9506.6,21005.81,990,Type 2 Newly Diagnosed
+2024-06-24,Mounjaro,Eli Lilly,4354,145133.33,10767.42,7201.22,12827.21,1275,Cardiovascular Risk
+2024-06-24,Glucocure,Fictional Pharma,988,23053.33,2427.47,,2429.38,252,Type 2 Newly Diagnosed
+2024-06-25,Jardiance,Boehringer Ingelheim / Eli Lilly,4413,80905.0,5865.82,3520.39,8670.34,1162,Type 2 Newly Diagnosed
+2024-06-25,Trulicity,Eli Lilly,4345,137591.67,9390.96,6507.74,17009.37,948,Type 2 Newly Diagnosed
+2024-06-25,Januvia,Merck,2173,43460.0,2299.63,2905.15,6136.95,609,Cardiovascular Risk
+2024-06-25,Janumet,Merck,1870,36153.33,3190.72,1710.44,4117.61,436,Cardiovascular Risk
+2024-06-25,Ozempic,Novo Nordisk,4731,153757.5,11717.51,6353.26,12709.34,1225,Cardiovascular Risk
+2024-06-25,Mounjaro,Eli Lilly,4330,144333.33,12190.97,5063.81,15150.76,1265,Obesity Comorbidity
+2024-06-25,Glucocure,Fictional Pharma,1070,24966.67,2315.6,2456.34,2617.36,218,Type 2 Newly Diagnosed
+2024-06-26,Jardiance,Boehringer Ingelheim / Eli Lilly,4571,83801.67,4991.27,3562.38,9555.33,1369,Cardiovascular Risk
+2024-06-26,Trulicity,Eli Lilly,4283,135628.33,9601.9,7976.75,19568.45,1234,Obesity Comorbidity
+2024-06-26,Januvia,Merck,2117,42340.0,2775.46,1823.83,3419.2,590,Cardiovascular Risk
+2024-06-26,Janumet,Merck,1788,34568.0,1940.1,1775.46,4893.53,519,Obesity Comorbidity
+2024-06-26,Ozempic,Novo Nordisk,4745,154212.5,9855.29,6628.09,22539.48,982,Obesity Comorbidity
+2024-06-26,Mounjaro,Eli Lilly,4355,145166.67,11084.54,8791.08,11664.94,1112,Cardiovascular Risk
+2024-06-26,Glucocure,Fictional Pharma,989,23076.67,3005.02,2110.48,3777.98,295,Type 2 Newly Diagnosed
+2024-06-27,Jardiance,Boehringer Ingelheim / Eli Lilly,4494,82390.0,7965.44,4844.4,10938.67,1017,Type 2 Newly Diagnosed
+2024-06-27,Trulicity,Eli Lilly,4384,138826.67,9066.74,7805.55,13431.22,910,Obesity Comorbidity
+2024-06-27,Januvia,Merck,2142,42840.0,3252.25,2076.55,4370.12,604,Cardiovascular Risk
+2024-06-27,Janumet,Merck,1861,35979.33,3354.25,1798.34,3982.75,385,Cardiovascular Risk
+2024-06-27,Ozempic,Novo Nordisk,4642,150865.0,10999.97,6109.53,14622.37,1327,Obesity Comorbidity
+2024-06-27,Mounjaro,Eli Lilly,4349,144966.67,13103.1,6415.59,12621.72,1020,Cardiovascular Risk
+2024-06-27,Glucocure,Fictional Pharma,1065,24850.0,2798.31,1466.58,3510.56,235,Obesity Comorbidity
+2024-06-28,Jardiance,Boehringer Ingelheim / Eli Lilly,4492,82353.33,6085.91,4023.34,7601.61,1116,Type 2 Newly Diagnosed
+2024-06-28,Trulicity,Eli Lilly,4303,136261.67,7583.32,8216.17,18126.67,1254,Cardiovascular Risk
+2024-06-28,Januvia,Merck,2192,43840.0,2479.33,2658.73,6368.68,557,Cardiovascular Risk
+2024-06-28,Janumet,Merck,1817,35128.67,3293.29,1170.12,5060.49,478,Type 2 Newly Diagnosed
+2024-06-28,Ozempic,Novo Nordisk,4599,149467.5,10512.32,6774.85,20271.74,1036,Obesity Comorbidity
+2024-06-28,Mounjaro,Eli Lilly,4304,143466.67,10825.37,5150.19,17619.99,975,Obesity Comorbidity
+2024-06-28,Glucocure,Fictional Pharma,1043,24336.67,1845.93,1896.27,4686.73,219,Type 2 Newly Diagnosed
+2024-06-29,Jardiance,Boehringer Ingelheim / Eli Lilly,4523,82921.67,7857.18,5711.82,11621.7,1041,Type 2 Newly Diagnosed
+2024-06-29,Trulicity,Eli Lilly,4325,136958.33,10693.6,4509.45,18287.37,1013,Obesity Comorbidity
+2024-06-29,Januvia,Merck,2090,41800.0,2388.5,2417.51,3825.56,494,Cardiovascular Risk
+2024-06-29,Janumet,Merck,1761,34046.0,3243.87,1184.47,3991.39,496,Type 2 Newly Diagnosed
+2024-06-29,Ozempic,Novo Nordisk,4690,152425.0,11701.45,5603.9,15634.46,1163,Obesity Comorbidity
+2024-06-29,Mounjaro,Eli Lilly,4524,150800.0,14355.81,6458.24,17894.48,1024,Type 2 Newly Diagnosed
+2024-06-29,Glucocure,Fictional Pharma,1079,25176.67,2727.54,1520.11,3054.63,293,Obesity Comorbidity
+2024-06-30,Jardiance,Boehringer Ingelheim / Eli Lilly,4455,81675.0,4409.04,2608.9,9095.06,1222,Obesity Comorbidity
+2024-06-30,Trulicity,Eli Lilly,4403,139428.33,13691.28,7761.03,11382.97,1021,Obesity Comorbidity
+2024-06-30,Januvia,Merck,2138,42760.0,2340.16,2579.94,5234.72,492,Cardiovascular Risk
+2024-06-30,Janumet,Merck,1911,36946.0,3474.78,1887.93,5088.89,402,Cardiovascular Risk
+2024-06-30,Ozempic,Novo Nordisk,4652,151190.0,14729.12,9630.59,19740.3,1062,Type 2 Newly Diagnosed
+2024-06-30,Mounjaro,Eli Lilly,4386,146200.0,12008.7,7822.78,20863.54,905,Obesity Comorbidity
+2024-06-30,Glucocure,Fictional Pharma,1021,23823.33,3219.04,1973.17,3112.67,302,Type 2 Newly Diagnosed
+2024-07-01,Jardiance,Boehringer Ingelheim / Eli Lilly,4448,81546.67,7802.9,5163.52,8222.35,907,Cardiovascular Risk
+2024-07-01,Trulicity,Eli Lilly,4320,136800.0,10441.91,5763.55,14416.1,1281,Type 2 Newly Diagnosed
+2024-07-01,Januvia,Merck,2180,43600.0,3502.88,1517.14,4466.88,648,Cardiovascular Risk
+2024-07-01,Janumet,Merck,1900,36733.33,2576.24,,5030.21,495,Cardiovascular Risk
+2024-07-01,Ozempic,Novo Nordisk,4670,151775.0,9024.08,8034.92,14428.8,1278,Cardiovascular Risk
+2024-07-01,Mounjaro,Eli Lilly,4542,151400.0,8180.96,10554.22,20416.42,933,Cardiovascular Risk
+2024-07-01,Glucocure,Fictional Pharma,1047,24430.0,2809.97,2483.13,3421.7,277,Obesity Comorbidity
+2024-07-02,Jardiance,Boehringer Ingelheim / Eli Lilly,4526,82976.67,4680.65,2897.29,10236.81,1097,Cardiovascular Risk
+2024-07-02,Trulicity,Eli Lilly,4397,139238.33,9254.62,4412.19,15976.3,1292,Obesity Comorbidity
+2024-07-02,Januvia,Merck,2207,44140.0,3705.09,1635.09,5745.72,458,Cardiovascular Risk
+2024-07-02,Janumet,Merck,1816,35109.33,2552.18,,4896.77,491,Obesity Comorbidity
+2024-07-02,Ozempic,Novo Nordisk,4780,155350.0,14413.71,7858.66,13577.44,1029,Obesity Comorbidity
+2024-07-02,Mounjaro,Eli Lilly,4419,147300.0,8097.79,7978.79,13031.23,1163,Type 2 Newly Diagnosed
+2024-07-02,Glucocure,Fictional Pharma,1065,24850.0,2331.53,2137.25,4130.88,251,Obesity Comorbidity
+2024-07-03,Jardiance,Boehringer Ingelheim / Eli Lilly,4485,82225.0,6418.28,4727.73,8451.03,1339,Type 2 Newly Diagnosed
+2024-07-03,Trulicity,Eli Lilly,4367,138288.33,9324.8,8141.31,11838.35,883,Type 2 Newly Diagnosed
+2024-07-03,Januvia,Merck,2098,41960.0,3648.27,2622.69,3734.46,537,Type 2 Newly Diagnosed
+2024-07-03,Janumet,Merck,1858,35921.33,1913.89,2069.95,4313.02,418,Obesity Comorbidity
+2024-07-03,Ozempic,Novo Nordisk,4816,156520.0,11842.07,7799.02,16167.17,1244,Type 2 Newly Diagnosed
+2024-07-03,Mounjaro,Eli Lilly,4411,147033.33,9967.34,7446.56,14900.16,1073,Obesity Comorbidity
+2024-07-03,Glucocure,Fictional Pharma,1044,24360.0,2159.16,1221.77,4116.47,240,Type 2 Newly Diagnosed
+2024-07-04,Jardiance,Boehringer Ingelheim / Eli Lilly,4468,81913.33,6770.7,2943.91,9731.39,977,Cardiovascular Risk
+2024-07-04,Trulicity,Eli Lilly,4397,139238.33,11582.78,7885.26,13928.8,1015,Obesity Comorbidity
+2024-07-04,Januvia,Merck,2108,42160.0,3998.34,1620.14,4044.3,426,Type 2 Newly Diagnosed
+2024-07-04,Janumet,Merck,1871,36172.67,2623.8,2175.58,5313.58,519,Cardiovascular Risk
+2024-07-04,Ozempic,Novo Nordisk,4709,153042.5,8939.3,9694.17,14333.6,1299,Cardiovascular Risk
+2024-07-04,Mounjaro,Eli Lilly,4451,148366.67,11899.04,9622.07,22243.62,1009,Obesity Comorbidity
+2024-07-04,Glucocure,Fictional Pharma,1069,24943.33,2470.3,2613.51,4513.38,316,Obesity Comorbidity
+2024-07-05,Jardiance,Boehringer Ingelheim / Eli Lilly,4522,82903.33,5693.16,3758.95,11487.37,1070,Cardiovascular Risk
+2024-07-05,Trulicity,Eli Lilly,4393,139111.67,8982.55,6043.9,14132.75,1185,Type 2 Newly Diagnosed
+2024-07-05,Januvia,Merck,2159,43180.0,3232.38,2448.16,3492.98,517,Cardiovascular Risk
+2024-07-05,Janumet,Merck,1878,36308.0,1913.82,2142.87,3110.66,393,Cardiovascular Risk
+2024-07-05,Ozempic,Novo Nordisk,4770,155025.0,11013.72,10612.5,18905.21,1277,Cardiovascular Risk
+2024-07-05,Mounjaro,Eli Lilly,4528,150933.33,10088.74,7966.16,21172.62,1085,Type 2 Newly Diagnosed
+2024-07-05,Glucocure,Fictional Pharma,1014,23660.0,3313.13,2417.11,3332.33,253,Obesity Comorbidity
+2024-07-06,Jardiance,Boehringer Ingelheim / Eli Lilly,4596,84260.0,4759.78,,12322.73,976,Obesity Comorbidity
+2024-07-06,Trulicity,Eli Lilly,4347,137655.0,10747.26,5153.44,13174.39,1253,Obesity Comorbidity
+2024-07-06,Januvia,Merck,2172,43440.0,3232.61,1890.02,5145.42,601,Cardiovascular Risk
+2024-07-06,Janumet,Merck,1818,35148.0,2406.55,1765.57,4190.5,373,Cardiovascular Risk
+2024-07-06,Ozempic,Novo Nordisk,4712,153140.0,13196.03,6272.87,21319.78,1314,Obesity Comorbidity
+2024-07-06,Mounjaro,Eli Lilly,4457,148566.67,8314.32,5791.62,17087.23,929,Cardiovascular Risk
+2024-07-06,Glucocure,Fictional Pharma,1095,25550.0,2588.81,1770.08,3572.53,305,Type 2 Newly Diagnosed
+2024-07-07,Jardiance,Boehringer Ingelheim / Eli Lilly,4401,80685.0,5720.19,4835.96,11884.37,1219,Obesity Comorbidity
+2024-07-07,Trulicity,Eli Lilly,4384,138826.67,12700.17,8073.81,20296.06,987,Obesity Comorbidity
+2024-07-07,Januvia,Merck,2051,41020.0,2574.48,2339.2,4839.55,519,Type 2 Newly Diagnosed
+2024-07-07,Janumet,Merck,1871,36172.67,3138.92,2045.62,3180.92,525,Cardiovascular Risk
+2024-07-07,Ozempic,Novo Nordisk,4822,156715.0,10515.75,9918.42,15551.75,1153,Obesity Comorbidity
+2024-07-07,Mounjaro,Eli Lilly,4372,145733.33,11821.28,8491.7,14699.07,1290,Obesity Comorbidity
+2024-07-07,Glucocure,Fictional Pharma,1081,25223.33,3243.19,2522.3,4242.57,278,Obesity Comorbidity
+2024-07-08,Jardiance,Boehringer Ingelheim / Eli Lilly,4548,83380.0,6987.21,4854.92,9525.84,1237,Obesity Comorbidity
+2024-07-08,Trulicity,Eli Lilly,4443,140695.0,11314.34,,20552.69,1254,Type 2 Newly Diagnosed
+2024-07-08,Januvia,Merck,2121,42420.0,2370.34,2952.81,4015.41,613,Type 2 Newly Diagnosed
+2024-07-08,Janumet,Merck,1766,34142.67,2227.08,1264.7,4611.2,482,Obesity Comorbidity
+2024-07-08,Ozempic,Novo Nordisk,4755,154537.5,12905.84,5797.65,19121.8,1103,Obesity Comorbidity
+2024-07-08,Mounjaro,Eli Lilly,4496,149866.67,9710.03,9820.52,20807.83,1170,Obesity Comorbidity
+2024-07-08,Glucocure,Fictional Pharma,1032,24080.0,2384.89,2159.14,4632.53,252,Type 2 Newly Diagnosed
+2024-07-09,Jardiance,Boehringer Ingelheim / Eli Lilly,4471,81968.33,4476.57,4850.94,8550.13,1196,Cardiovascular Risk
+2024-07-09,Trulicity,Eli Lilly,4436,140473.33,13353.24,8432.16,16042.38,1082,Obesity Comorbidity
+2024-07-09,Januvia,Merck,2085,41700.0,3476.43,1324.14,4289.41,622,Cardiovascular Risk
+2024-07-09,Janumet,Merck,1890,36540.0,3460.29,2520.31,3041.53,483,Obesity Comorbidity
+2024-07-09,Ozempic,Novo Nordisk,4710,153075.0,12553.63,5326.32,17427.06,1298,Obesity Comorbidity
+2024-07-09,Mounjaro,Eli Lilly,4547,151566.67,8133.41,9471.81,20108.14,976,Obesity Comorbidity
+2024-07-09,Glucocure,Fictional Pharma,1023,23870.0,3081.53,1298.18,4328.69,215,Obesity Comorbidity
+2024-07-10,Jardiance,Boehringer Ingelheim / Eli Lilly,4468,81913.33,5392.35,4656.68,6733.38,1027,Cardiovascular Risk
+2024-07-10,Trulicity,Eli Lilly,4311,136515.0,9162.44,8298.87,16285.54,1237,Cardiovascular Risk
+2024-07-10,Januvia,Merck,2157,43140.0,4172.22,2196.22,4331.74,541,Type 2 Newly Diagnosed
+2024-07-10,Janumet,Merck,1868,36114.67,2852.39,1885.94,4758.96,405,Obesity Comorbidity
+2024-07-10,Ozempic,Novo Nordisk,4736,153920.0,10094.87,,21340.84,1301,Type 2 Newly Diagnosed
+2024-07-10,Mounjaro,Eli Lilly,4524,150800.0,11931.26,5289.12,16940.08,1304,Cardiovascular Risk
+2024-07-10,Glucocure,Fictional Pharma,1102,25713.33,2463.19,2694.78,4430.97,258,Obesity Comorbidity
+2024-07-11,Jardiance,Boehringer Ingelheim / Eli Lilly,4413,80905.0,7264.41,3528.16,6509.36,1189,Obesity Comorbidity
+2024-07-11,Trulicity,Eli Lilly,4398,139270.0,7196.27,6221.2,13452.78,1249,Obesity Comorbidity
+2024-07-11,Januvia,Merck,2147,42940.0,2457.41,2482.38,3862.45,441,Cardiovascular Risk
+2024-07-11,Janumet,Merck,1785,34510.0,2031.62,1186.64,4130.58,429,Cardiovascular Risk
+2024-07-11,Ozempic,Novo Nordisk,4697,152652.5,10873.23,10280.71,18007.97,984,Obesity Comorbidity
+2024-07-11,Mounjaro,Eli Lilly,4522,150733.33,8196.69,8343.69,21709.09,1270,Obesity Comorbidity
+2024-07-11,Glucocure,Fictional Pharma,1053,24570.0,2142.23,2099.55,2853.7,271,Cardiovascular Risk
+2024-07-12,Jardiance,Boehringer Ingelheim / Eli Lilly,4578,83930.0,6712.01,3092.9,11071.6,1127,Obesity Comorbidity
+2024-07-12,Trulicity,Eli Lilly,4381,138731.67,7825.77,6522.37,13499.21,1177,Obesity Comorbidity
+2024-07-12,Januvia,Merck,2122,42440.0,4014.44,1606.68,5218.81,611,Type 2 Newly Diagnosed
+2024-07-12,Janumet,Merck,1852,35805.33,3341.88,2481.42,4187.38,543,Cardiovascular Risk
+2024-07-12,Ozempic,Novo Nordisk,4849,157592.5,10548.85,7690.38,22071.49,1284,Obesity Comorbidity
+2024-07-12,Mounjaro,Eli Lilly,4398,146600.0,7518.69,6397.9,19971.51,1026,Cardiovascular Risk
+2024-07-12,Glucocure,Fictional Pharma,1041,24290.0,2973.96,1513.21,3937.39,305,Type 2 Newly Diagnosed
+2024-07-13,Jardiance,Boehringer Ingelheim / Eli Lilly,4406,80776.67,5419.85,5409.51,6600.05,1096,Cardiovascular Risk
+2024-07-13,Trulicity,Eli Lilly,4454,141043.33,13784.45,,20504.4,1008,Obesity Comorbidity
+2024-07-13,Januvia,Merck,2059,41180.0,2397.76,1620.15,4053.89,604,Type 2 Newly Diagnosed
+2024-07-13,Janumet,Merck,1755,33930.0,2834.07,1449.97,3619.86,430,Cardiovascular Risk
+2024-07-13,Ozempic,Novo Nordisk,4761,154732.5,9724.57,4771.39,14794.95,1359,Type 2 Newly Diagnosed
+2024-07-13,Mounjaro,Eli Lilly,4626,154200.0,10504.95,8244.43,19075.48,1137,Obesity Comorbidity
+2024-07-13,Glucocure,Fictional Pharma,1094,25526.67,2644.21,1779.49,4344.89,257,Type 2 Newly Diagnosed
+2024-07-14,Jardiance,Boehringer Ingelheim / Eli Lilly,4493,82371.67,4877.31,3910.55,8852.22,1316,Obesity Comorbidity
+2024-07-14,Trulicity,Eli Lilly,4393,139111.67,8389.84,9050.94,12670.3,1060,Obesity Comorbidity
+2024-07-14,Januvia,Merck,2115,42300.0,2925.19,2739.52,5066.79,569,Obesity Comorbidity
+2024-07-14,Janumet,Merck,1772,34258.67,3118.8,1869.89,4736.31,436,Obesity Comorbidity
+2024-07-14,Ozempic,Novo Nordisk,4809,156292.5,8739.58,8725.87,15239.42,1400,Cardiovascular Risk
+2024-07-14,Mounjaro,Eli Lilly,4644,154800.0,12159.47,7169.61,19551.45,991,Cardiovascular Risk
+2024-07-14,Glucocure,Fictional Pharma,1129,26343.33,1993.93,2176.89,3498.14,248,Cardiovascular Risk
+2024-07-15,Jardiance,Boehringer Ingelheim / Eli Lilly,4513,82738.33,5617.28,2510.12,11479.49,1058,Type 2 Newly Diagnosed
+2024-07-15,Trulicity,Eli Lilly,4352,137813.33,11099.9,8937.28,11174.09,1013,Obesity Comorbidity
+2024-07-15,Januvia,Merck,2177,43540.0,2274.46,1400.33,4876.75,576,Cardiovascular Risk
+2024-07-15,Janumet,Merck,1819,35167.33,2627.28,2084.54,3758.17,466,Cardiovascular Risk
+2024-07-15,Ozempic,Novo Nordisk,4780,155350.0,8936.47,7789.68,21145.46,1147,Obesity Comorbidity
+2024-07-15,Mounjaro,Eli Lilly,4452,148400.0,12658.95,7363.34,14548.94,1268,Cardiovascular Risk
+2024-07-15,Glucocure,Fictional Pharma,1134,26460.0,2518.57,2465.75,2858.14,251,Cardiovascular Risk
+2024-07-16,Jardiance,Boehringer Ingelheim / Eli Lilly,4487,82261.67,7449.15,2756.01,11220.27,1028,Cardiovascular Risk
+2024-07-16,Trulicity,Eli Lilly,4452,140980.0,7396.51,4242.64,13694.23,1129,Obesity Comorbidity
+2024-07-16,Januvia,Merck,2112,42240.0,3471.23,1449.81,4669.09,522,Cardiovascular Risk
+2024-07-16,Janumet,Merck,1843,35631.33,3456.95,1440.46,4978.92,383,Cardiovascular Risk
+2024-07-16,Ozempic,Novo Nordisk,4795,155837.5,8531.74,9214.26,16002.87,1004,Cardiovascular Risk
+2024-07-16,Mounjaro,Eli Lilly,4504,150133.33,8421.65,7565.26,18161.37,1019,Obesity Comorbidity
+2024-07-16,Glucocure,Fictional Pharma,1120,26133.33,3063.98,2191.79,3216.17,229,Type 2 Newly Diagnosed
+2024-07-17,Jardiance,Boehringer Ingelheim / Eli Lilly,4583,84021.67,6826.52,4970.29,12202.79,981,Type 2 Newly Diagnosed
+2024-07-17,Trulicity,Eli Lilly,4462,141296.67,11325.03,4561.81,20143.85,920,Obesity Comorbidity
+2024-07-17,Januvia,Merck,2118,42360.0,2436.36,1336.19,5994.86,599,Obesity Comorbidity
+2024-07-17,Janumet,Merck,1791,34626.0,1953.8,1075.01,4438.47,519,Cardiovascular Risk
+2024-07-17,Ozempic,Novo Nordisk,4843,157397.5,8534.0,6353.92,12800.34,1081,Type 2 Newly Diagnosed
+2024-07-17,Mounjaro,Eli Lilly,4696,156533.33,15040.71,,20540.21,1011,Obesity Comorbidity
+2024-07-17,Glucocure,Fictional Pharma,1112,25946.67,3285.42,1509.66,3734.22,245,Obesity Comorbidity
+2024-07-18,Jardiance,Boehringer Ingelheim / Eli Lilly,4590,84150.0,5459.96,4745.26,7538.89,1303,Cardiovascular Risk
+2024-07-18,Trulicity,Eli Lilly,4466,141423.33,9297.46,4903.45,14018.05,1015,Obesity Comorbidity
+2024-07-18,Januvia,Merck,2108,42160.0,2328.24,2479.46,5401.11,613,Type 2 Newly Diagnosed
+2024-07-18,Janumet,Merck,1875,36250.0,2545.92,1178.05,4983.49,394,Type 2 Newly Diagnosed
+2024-07-18,Ozempic,Novo Nordisk,4725,153562.5,14123.2,7359.76,19129.05,963,Obesity Comorbidity
+2024-07-18,Mounjaro,Eli Lilly,4569,152300.0,11218.52,8332.19,17048.89,1266,Cardiovascular Risk
+2024-07-18,Glucocure,Fictional Pharma,1120,26133.33,2619.46,2099.8,3798.54,251,Obesity Comorbidity
+2024-07-19,Jardiance,Boehringer Ingelheim / Eli Lilly,4561,83618.33,5132.63,4262.65,11407.78,1289,Obesity Comorbidity
+2024-07-19,Trulicity,Eli Lilly,4340,137433.33,8736.51,8823.82,14327.82,910,Cardiovascular Risk
+2024-07-19,Januvia,Merck,2164,43280.0,4202.83,2835.46,3772.22,531,Cardiovascular Risk
+2024-07-19,Janumet,Merck,1766,34142.67,2512.23,1995.28,3780.72,401,Type 2 Newly Diagnosed
+2024-07-19,Ozempic,Novo Nordisk,4756,154570.0,13085.66,9591.82,16667.97,1407,Obesity Comorbidity
+2024-07-19,Mounjaro,Eli Lilly,4645,154833.33,10279.16,9971.72,13715.75,1227,Obesity Comorbidity
+2024-07-19,Glucocure,Fictional Pharma,1096,25573.33,3770.12,1173.6,3779.29,237,Type 2 Newly Diagnosed
+2024-07-20,Jardiance,Boehringer Ingelheim / Eli Lilly,4544,83306.67,5168.67,2932.06,10836.58,1003,Type 2 Newly Diagnosed
+2024-07-20,Trulicity,Eli Lilly,4384,138826.67,8676.38,7549.55,16792.98,1242,Obesity Comorbidity
+2024-07-20,Januvia,Merck,2110,42200.0,2872.69,2578.72,5558.42,622,Cardiovascular Risk
+2024-07-20,Janumet,Merck,1753,33891.33,3305.43,2005.93,2834.78,466,Cardiovascular Risk
+2024-07-20,Ozempic,Novo Nordisk,4854,157755.0,9704.64,8272.72,14105.55,1151,Obesity Comorbidity
+2024-07-20,Mounjaro,Eli Lilly,4716,157200.0,9361.67,7487.47,19010.66,982,Cardiovascular Risk
+2024-07-20,Glucocure,Fictional Pharma,1128,26320.0,2067.6,2449.61,4184.84,269,Type 2 Newly Diagnosed
+2024-07-21,Jardiance,Boehringer Ingelheim / Eli Lilly,4465,81858.33,6895.64,2866.49,11055.28,1172,Type 2 Newly Diagnosed
+2024-07-21,Trulicity,Eli Lilly,4433,140378.33,8987.46,8316.59,13610.08,1067,Type 2 Newly Diagnosed
+2024-07-21,Januvia,Merck,2168,43360.0,4312.89,2478.73,6458.32,605,Type 2 Newly Diagnosed
+2024-07-21,Janumet,Merck,1873,36211.33,3500.94,2342.66,3489.06,398,Cardiovascular Risk
+2024-07-21,Ozempic,Novo Nordisk,4711,153107.5,11293.95,,13679.85,1206,Obesity Comorbidity
+2024-07-21,Mounjaro,Eli Lilly,4718,157266.67,12101.52,6528.95,13905.36,1398,Obesity Comorbidity
+2024-07-21,Glucocure,Fictional Pharma,1106,25806.67,3002.23,2258.62,2952.64,225,Type 2 Newly Diagnosed
+2024-07-22,Jardiance,Boehringer Ingelheim / Eli Lilly,4586,84076.67,5264.26,,11574.51,1064,Type 2 Newly Diagnosed
+2024-07-22,Trulicity,Eli Lilly,4373,138478.33,11816.01,6921.42,19510.91,920,Type 2 Newly Diagnosed
+2024-07-22,Januvia,Merck,2123,42460.0,4166.99,1488.91,4647.0,590,Obesity Comorbidity
+2024-07-22,Janumet,Merck,1816,35109.33,3169.85,1205.19,5233.71,366,Cardiovascular Risk
+2024-07-22,Ozempic,Novo Nordisk,4742,154115.0,11453.76,6463.28,19212.98,1328,Obesity Comorbidity
+2024-07-22,Mounjaro,Eli Lilly,4481,149366.67,8469.98,4817.98,21027.96,984,Obesity Comorbidity
+2024-07-22,Glucocure,Fictional Pharma,1141,26623.33,2676.53,2781.05,4037.22,253,Type 2 Newly Diagnosed
+2024-07-23,Jardiance,Boehringer Ingelheim / Eli Lilly,4588,84113.33,5739.97,5461.95,9054.74,1156,Obesity Comorbidity
+2024-07-23,Trulicity,Eli Lilly,4445,140758.33,11804.73,5853.2,16947.86,1029,Type 2 Newly Diagnosed
+2024-07-23,Januvia,Merck,2145,42900.0,4141.78,,4651.97,429,Cardiovascular Risk
+2024-07-23,Janumet,Merck,1712,33098.67,2160.37,1201.69,3051.06,352,Cardiovascular Risk
+2024-07-23,Ozempic,Novo Nordisk,4884,158730.0,13742.88,7092.04,13877.57,1415,Obesity Comorbidity
+2024-07-23,Mounjaro,Eli Lilly,4720,157333.33,13636.09,10203.24,14707.63,1083,Type 2 Newly Diagnosed
+2024-07-23,Glucocure,Fictional Pharma,1096,25573.33,2240.72,2043.29,4929.67,256,Obesity Comorbidity
+2024-07-24,Jardiance,Boehringer Ingelheim / Eli Lilly,4533,83105.0,5456.99,4244.2,8534.68,908,Type 2 Newly Diagnosed
+2024-07-24,Trulicity,Eli Lilly,4425,140125.0,11929.81,8646.85,17380.86,1127,Type 2 Newly Diagnosed
+2024-07-24,Januvia,Merck,2090,41800.0,3470.21,2475.25,4670.24,486,Cardiovascular Risk
+2024-07-24,Janumet,Merck,1840,35573.33,2829.63,2366.63,4832.5,407,Cardiovascular Risk
+2024-07-24,Ozempic,Novo Nordisk,4742,154115.0,9610.65,10763.94,13444.45,1045,Type 2 Newly Diagnosed
+2024-07-24,Mounjaro,Eli Lilly,4624,154133.33,13822.19,5151.75,14310.05,1208,Obesity Comorbidity
+2024-07-24,Glucocure,Fictional Pharma,1112,25946.67,2568.49,2096.48,4126.48,226,Type 2 Newly Diagnosed
+2024-07-25,Jardiance,Boehringer Ingelheim / Eli Lilly,4470,81950.0,7438.96,4080.3,7323.32,922,Cardiovascular Risk
+2024-07-25,Trulicity,Eli Lilly,4431,140315.0,10591.93,6580.47,15135.23,1215,Type 2 Newly Diagnosed
+2024-07-25,Januvia,Merck,2016,40320.0,3473.43,2516.56,5474.62,408,Type 2 Newly Diagnosed
+2024-07-25,Janumet,Merck,1768,34181.33,1836.41,1723.28,5054.08,356,Cardiovascular Risk
+2024-07-25,Ozempic,Novo Nordisk,4821,156682.5,11914.72,9942.35,21639.97,1009,Cardiovascular Risk
+2024-07-25,Mounjaro,Eli Lilly,4551,151700.0,13869.4,9334.25,14886.69,923,Obesity Comorbidity
+2024-07-25,Glucocure,Fictional Pharma,1114,25993.33,3092.31,2361.63,5052.51,236,Obesity Comorbidity
+2024-07-26,Jardiance,Boehringer Ingelheim / Eli Lilly,4514,82756.67,6110.56,3378.71,6789.52,1132,Cardiovascular Risk
+2024-07-26,Trulicity,Eli Lilly,4455,141075.0,9744.16,,12983.3,1305,Type 2 Newly Diagnosed
+2024-07-26,Januvia,Merck,2057,41140.0,3489.13,1573.32,4561.85,438,Type 2 Newly Diagnosed
+2024-07-26,Janumet,Merck,1788,34568.0,2945.64,1809.46,4951.98,477,Type 2 Newly Diagnosed
+2024-07-26,Ozempic,Novo Nordisk,4932,160290.0,9030.04,8439.56,17293.37,1197,Obesity Comorbidity
+2024-07-26,Mounjaro,Eli Lilly,4522,150733.33,13453.49,9475.57,17909.27,1113,Type 2 Newly Diagnosed
+2024-07-26,Glucocure,Fictional Pharma,1160,27066.67,3558.56,2535.33,2895.78,344,Type 2 Newly Diagnosed
+2024-07-27,Jardiance,Boehringer Ingelheim / Eli Lilly,4507,82628.33,8107.09,5235.79,9442.71,1098,Cardiovascular Risk
+2024-07-27,Trulicity,Eli Lilly,4463,141328.33,9058.65,,11817.59,1034,Type 2 Newly Diagnosed
+2024-07-27,Januvia,Merck,2027,40540.0,2500.09,1951.39,4710.69,432,Cardiovascular Risk
+2024-07-27,Janumet,Merck,1795,34703.33,2513.96,1128.35,3932.72,513,Cardiovascular Risk
+2024-07-27,Ozempic,Novo Nordisk,4924,160030.0,12648.27,7285.42,14715.27,1350,Obesity Comorbidity
+2024-07-27,Mounjaro,Eli Lilly,4740,158000.0,10591.41,6787.55,19133.69,1024,Type 2 Newly Diagnosed
+2024-07-27,Glucocure,Fictional Pharma,1122,26180.0,2928.59,2710.46,3516.63,253,Obesity Comorbidity
+2024-07-28,Jardiance,Boehringer Ingelheim / Eli Lilly,4578,83930.0,7413.98,5772.9,11098.72,1353,Type 2 Newly Diagnosed
+2024-07-28,Trulicity,Eli Lilly,4449,140885.0,11198.45,6761.99,19736.04,1203,Cardiovascular Risk
+2024-07-28,Januvia,Merck,2120,42400.0,3261.37,2042.8,4013.17,547,Type 2 Newly Diagnosed
+2024-07-28,Janumet,Merck,1754,33910.67,1698.22,1727.13,3529.6,362,Cardiovascular Risk
+2024-07-28,Ozempic,Novo Nordisk,4779,155317.5,8802.74,4957.47,20855.83,1171,Obesity Comorbidity
+2024-07-28,Mounjaro,Eli Lilly,4729,157633.33,10863.1,7712.51,19566.69,1298,Cardiovascular Risk
+2024-07-28,Glucocure,Fictional Pharma,1146,26740.0,2625.74,,5179.89,244,Type 2 Newly Diagnosed
+2024-07-29,Jardiance,Boehringer Ingelheim / Eli Lilly,4400,80666.67,6908.11,2569.26,7956.73,893,Obesity Comorbidity
+2024-07-29,Trulicity,Eli Lilly,4367,138288.33,10026.56,4271.09,17265.26,981,Obesity Comorbidity
+2024-07-29,Januvia,Merck,2061,41220.0,2170.33,2131.78,4047.99,566,Cardiovascular Risk
+2024-07-29,Janumet,Merck,1841,35592.67,1988.7,2186.34,4525.47,526,Type 2 Newly Diagnosed
+2024-07-29,Ozempic,Novo Nordisk,4876,158470.0,15197.36,10534.28,20874.65,1331,Type 2 Newly Diagnosed
+2024-07-29,Mounjaro,Eli Lilly,4617,153900.0,10234.16,10540.22,22023.71,1365,Obesity Comorbidity
+2024-07-29,Glucocure,Fictional Pharma,1093,25503.33,2396.03,1816.01,3859.58,327,Type 2 Newly Diagnosed
+2024-07-30,Jardiance,Boehringer Ingelheim / Eli Lilly,4533,83105.0,4248.95,2678.47,6953.26,949,Cardiovascular Risk
+2024-07-30,Trulicity,Eli Lilly,4434,140410.0,10689.22,8604.06,12762.62,1187,Obesity Comorbidity
+2024-07-30,Januvia,Merck,2042,40840.0,3936.55,2747.93,5327.21,459,Cardiovascular Risk
+2024-07-30,Janumet,Merck,1768,34181.33,1739.89,2302.8,2941.29,488,Cardiovascular Risk
+2024-07-30,Ozempic,Novo Nordisk,4922,159965.0,14936.55,6638.87,16526.96,1447,Obesity Comorbidity
+2024-07-30,Mounjaro,Eli Lilly,4698,156600.0,10305.1,7357.02,15918.81,1019,Obesity Comorbidity
+2024-07-30,Glucocure,Fictional Pharma,1156,26973.33,3420.6,2487.43,3090.81,308,Type 2 Newly Diagnosed
+2024-07-31,Jardiance,Boehringer Ingelheim / Eli Lilly,4551,83435.0,4945.72,,10836.71,1041,Cardiovascular Risk
+2024-07-31,Trulicity,Eli Lilly,4412,139713.33,9877.51,6892.85,13754.15,947,Obesity Comorbidity
+2024-07-31,Januvia,Merck,2071,41420.0,2395.66,1949.07,4871.79,502,Type 2 Newly Diagnosed
+2024-07-31,Janumet,Merck,1699,32847.33,2663.78,2258.11,2846.01,406,Obesity Comorbidity
+2024-07-31,Ozempic,Novo Nordisk,4802,156065.0,12027.43,6703.9,13973.68,1338,Cardiovascular Risk
+2024-07-31,Mounjaro,Eli Lilly,4629,154300.0,12819.96,9671.26,13721.95,1265,Cardiovascular Risk
+2024-07-31,Glucocure,Fictional Pharma,1092,25480.0,3470.1,2373.56,4610.85,255,Type 2 Newly Diagnosed
+2024-08-01,Jardiance,Boehringer Ingelheim / Eli Lilly,4542,83270.0,5651.82,2717.58,7635.35,1344,Cardiovascular Risk
+2024-08-01,Trulicity,Eli Lilly,4360,138066.67,8892.89,5561.28,17464.15,1027,Obesity Comorbidity
+2024-08-01,Januvia,Merck,2050,41000.0,3044.83,,5917.64,590,Cardiovascular Risk
+2024-08-01,Janumet,Merck,1773,34278.0,2013.33,,3415.79,433,Cardiovascular Risk
+2024-08-01,Ozempic,Novo Nordisk,4962,161265.0,9456.74,7060.22,13595.93,1328,Obesity Comorbidity
+2024-08-01,Mounjaro,Eli Lilly,4636,154533.33,8545.04,4751.26,21066.74,1072,Type 2 Newly Diagnosed
+2024-08-01,Glucocure,Fictional Pharma,1122,26180.0,2970.93,2231.71,4741.44,309,Type 2 Newly Diagnosed
+2024-08-02,Jardiance,Boehringer Ingelheim / Eli Lilly,4403,80721.67,6681.55,2449.64,11698.68,1145,Type 2 Newly Diagnosed
+2024-08-02,Trulicity,Eli Lilly,4492,142246.67,11773.64,6647.83,18490.75,1132,Cardiovascular Risk
+2024-08-02,Januvia,Merck,2001,40020.0,2976.93,2210.12,3424.37,576,Obesity Comorbidity
+2024-08-02,Janumet,Merck,1765,34123.33,2419.57,2267.18,5102.17,507,Type 2 Newly Diagnosed
+2024-08-02,Ozempic,Novo Nordisk,4959,161167.5,15964.7,9728.25,18663.79,1187,Obesity Comorbidity
+2024-08-02,Mounjaro,Eli Lilly,4814,160466.67,9467.53,8039.69,22367.33,1442,Type 2 Newly Diagnosed
+2024-08-02,Glucocure,Fictional Pharma,1125,26250.0,2648.88,1590.14,3758.34,314,Type 2 Newly Diagnosed
+2024-08-03,Jardiance,Boehringer Ingelheim / Eli Lilly,4421,81051.67,6251.3,5603.73,11079.86,1279,Cardiovascular Risk
+2024-08-03,Trulicity,Eli Lilly,4432,140346.67,11273.43,7602.63,19353.96,1088,Obesity Comorbidity
+2024-08-03,Januvia,Merck,2090,41800.0,3246.79,2083.98,4239.36,532,Cardiovascular Risk
+2024-08-03,Janumet,Merck,1690,32673.33,1982.84,1237.61,3557.9,459,Type 2 Newly Diagnosed
+2024-08-03,Ozempic,Novo Nordisk,4852,157690.0,11359.72,7751.85,22516.49,1024,Obesity Comorbidity
+2024-08-03,Mounjaro,Eli Lilly,4835,161166.67,11553.42,7491.63,13295.1,1392,Obesity Comorbidity
+2024-08-03,Glucocure,Fictional Pharma,1102,25713.33,1953.72,1422.0,4203.94,326,Type 2 Newly Diagnosed
+2024-08-04,Jardiance,Boehringer Ingelheim / Eli Lilly,4427,81161.67,6137.61,,6687.58,983,Type 2 Newly Diagnosed
+2024-08-04,Trulicity,Eli Lilly,4382,138763.33,11863.8,7125.36,12498.19,939,Type 2 Newly Diagnosed
+2024-08-04,Januvia,Merck,2064,41280.0,3883.78,1890.06,5286.33,616,Obesity Comorbidity
+2024-08-04,Janumet,Merck,1709,33040.67,2020.35,1239.76,3633.2,356,Cardiovascular Risk
+2024-08-04,Ozempic,Novo Nordisk,4919,159867.5,10336.68,,16999.37,989,Type 2 Newly Diagnosed
+2024-08-04,Mounjaro,Eli Lilly,4777,159233.33,12526.9,,21972.05,1180,Obesity Comorbidity
+2024-08-04,Glucocure,Fictional Pharma,1154,26926.67,3530.5,2675.39,4916.34,305,Obesity Comorbidity
+2024-08-05,Jardiance,Boehringer Ingelheim / Eli Lilly,4506,82610.0,7459.56,3434.92,10449.24,1227,Obesity Comorbidity
+2024-08-05,Trulicity,Eli Lilly,4459,141201.67,7510.99,4414.64,13851.18,1269,Cardiovascular Risk
+2024-08-05,Januvia,Merck,2021,40420.0,3544.16,1568.4,4332.91,467,Cardiovascular Risk
+2024-08-05,Janumet,Merck,1697,32808.67,2732.5,1264.76,4134.3,445,Obesity Comorbidity
+2024-08-05,Ozempic,Novo Nordisk,4875,158437.5,9918.74,7631.41,16954.42,1337,Cardiovascular Risk
+2024-08-05,Mounjaro,Eli Lilly,4869,162300.0,9095.13,7635.34,16250.89,1191,Type 2 Newly Diagnosed
+2024-08-05,Glucocure,Fictional Pharma,1146,26740.0,2113.66,,4009.16,278,Type 2 Newly Diagnosed
+2024-08-06,Jardiance,Boehringer Ingelheim / Eli Lilly,4594,84223.33,8134.14,4911.5,11147.35,1139,Type 2 Newly Diagnosed
+2024-08-06,Trulicity,Eli Lilly,4433,140378.33,9554.62,5409.41,15013.96,1255,Obesity Comorbidity
+2024-08-06,Januvia,Merck,2031,40620.0,2261.65,2528.21,3969.57,555,Type 2 Newly Diagnosed
+2024-08-06,Janumet,Merck,1833,35438.0,1818.5,1433.15,4169.8,379,Cardiovascular Risk
+2024-08-06,Ozempic,Novo Nordisk,4848,157560.0,11119.1,10699.79,13998.56,1239,Cardiovascular Risk
+2024-08-06,Mounjaro,Eli Lilly,4666,155533.33,13777.06,6851.2,21282.98,1063,Obesity Comorbidity
+2024-08-06,Glucocure,Fictional Pharma,1156,26973.33,3168.92,1977.29,4022.25,307,Obesity Comorbidity
+2024-08-07,Jardiance,Boehringer Ingelheim / Eli Lilly,4452,81620.0,5474.77,5597.9,9438.99,940,Cardiovascular Risk
+2024-08-07,Trulicity,Eli Lilly,4377,138605.0,7879.46,,12316.19,1052,Obesity Comorbidity
+2024-08-07,Januvia,Merck,1987,39740.0,3958.14,2283.7,5519.69,492,Obesity Comorbidity
+2024-08-07,Janumet,Merck,1814,35070.67,2025.93,1987.26,4291.74,457,Type 2 Newly Diagnosed
+2024-08-07,Ozempic,Novo Nordisk,4872,158340.0,13099.64,9242.71,19164.33,1143,Obesity Comorbidity
+2024-08-07,Mounjaro,Eli Lilly,4761,158700.0,9814.11,,16045.23,1171,Cardiovascular Risk
+2024-08-07,Glucocure,Fictional Pharma,1193,27836.67,2717.91,2338.78,3728.43,343,Type 2 Newly Diagnosed
+2024-08-08,Jardiance,Boehringer Ingelheim / Eli Lilly,4452,81620.0,5757.07,4800.61,9452.21,1043,Cardiovascular Risk
+2024-08-08,Trulicity,Eli Lilly,4462,141296.67,9130.89,8750.63,19051.53,1030,Obesity Comorbidity
+2024-08-08,Januvia,Merck,2120,42400.0,2632.89,2758.19,3448.52,604,Cardiovascular Risk
+2024-08-08,Janumet,Merck,1698,32828.0,3270.07,1841.8,2767.1,426,Cardiovascular Risk
+2024-08-08,Ozempic,Novo Nordisk,4812,156390.0,13213.56,7705.88,13872.45,976,Obesity Comorbidity
+2024-08-08,Mounjaro,Eli Lilly,4628,154266.67,8521.4,7430.89,14919.69,1206,Cardiovascular Risk
+2024-08-08,Glucocure,Fictional Pharma,1155,26950.0,2047.03,2336.94,3827.92,302,Obesity Comorbidity
+2024-08-09,Jardiance,Boehringer Ingelheim / Eli Lilly,4524,82940.0,6790.27,4864.78,7937.2,1217,Type 2 Newly Diagnosed
+2024-08-09,Trulicity,Eli Lilly,4436,140473.33,8104.09,8672.47,20234.49,1135,Type 2 Newly Diagnosed
+2024-08-09,Januvia,Merck,2055,41100.0,2965.19,1289.18,4207.64,531,Cardiovascular Risk
+2024-08-09,Janumet,Merck,1797,34742.0,2949.8,1474.41,3021.74,489,Type 2 Newly Diagnosed
+2024-08-09,Ozempic,Novo Nordisk,4966,161395.0,14919.28,6766.94,19673.97,1079,Obesity Comorbidity
+2024-08-09,Mounjaro,Eli Lilly,4817,160566.67,8631.21,10875.87,16948.75,1242,Cardiovascular Risk
+2024-08-09,Glucocure,Fictional Pharma,1116,26040.0,3137.92,2151.09,4220.0,307,Obesity Comorbidity
+2024-08-10,Jardiance,Boehringer Ingelheim / Eli Lilly,4440,81400.0,5812.46,3079.22,6670.69,953,Cardiovascular Risk
+2024-08-10,Trulicity,Eli Lilly,4491,142215.0,10544.49,7190.85,19631.75,935,Obesity Comorbidity
+2024-08-10,Januvia,Merck,2122,42440.0,3951.38,2697.81,5335.11,447,Cardiovascular Risk
+2024-08-10,Janumet,Merck,1762,34065.33,3146.63,1508.28,2983.45,456,Obesity Comorbidity
+2024-08-10,Ozempic,Novo Nordisk,4912,159640.0,13310.8,,19962.77,1066,Type 2 Newly Diagnosed
+2024-08-10,Mounjaro,Eli Lilly,4814,160466.67,10963.54,9665.17,23669.93,1293,Type 2 Newly Diagnosed
+2024-08-10,Glucocure,Fictional Pharma,1161,27090.0,2648.29,2623.29,4743.96,340,Cardiovascular Risk
+2024-08-11,Jardiance,Boehringer Ingelheim / Eli Lilly,4427,81161.67,5186.43,3728.78,7459.5,1131,Cardiovascular Risk
+2024-08-11,Trulicity,Eli Lilly,4402,139396.67,7155.25,7315.43,13242.39,1265,Obesity Comorbidity
+2024-08-11,Januvia,Merck,1988,39760.0,2883.67,1211.32,4730.52,500,Cardiovascular Risk
+2024-08-11,Janumet,Merck,1810,34993.33,2749.32,1143.23,3084.7,495,Cardiovascular Risk
+2024-08-11,Ozempic,Novo Nordisk,4879,158567.5,10031.88,5824.06,20386.89,1168,Obesity Comorbidity
+2024-08-11,Mounjaro,Eli Lilly,4710,157000.0,10462.62,9450.6,19689.16,1245,Obesity Comorbidity
+2024-08-11,Glucocure,Fictional Pharma,1129,26343.33,2713.73,2294.95,4743.13,294,Obesity Comorbidity
+2024-08-12,Jardiance,Boehringer Ingelheim / Eli Lilly,4516,82793.33,5183.62,3158.46,8596.18,1168,Obesity Comorbidity
+2024-08-12,Trulicity,Eli Lilly,4383,138795.0,13544.76,8554.06,14736.55,918,Obesity Comorbidity
+2024-08-12,Januvia,Merck,2050,41000.0,3463.89,2627.52,4884.86,461,Cardiovascular Risk
+2024-08-12,Janumet,Merck,1691,32692.67,1828.1,1975.53,4737.99,365,Obesity Comorbidity
+2024-08-12,Ozempic,Novo Nordisk,4902,159315.0,9984.73,5252.6,13902.5,1006,Cardiovascular Risk
+2024-08-12,Mounjaro,Eli Lilly,4751,158366.67,13333.63,9785.78,13920.44,1089,Obesity Comorbidity
+2024-08-12,Glucocure,Fictional Pharma,1204,28093.33,2911.79,,3214.51,303,Cardiovascular Risk
+2024-08-13,Jardiance,Boehringer Ingelheim / Eli Lilly,4598,84296.67,7208.25,3755.92,11660.69,1079,Obesity Comorbidity
+2024-08-13,Trulicity,Eli Lilly,4419,139935.0,12916.83,8316.16,13268.66,931,Type 2 Newly Diagnosed
+2024-08-13,Januvia,Merck,1977,39540.0,2816.89,1845.81,5000.46,480,Obesity Comorbidity
+2024-08-13,Janumet,Merck,1763,34084.67,3394.32,2287.16,3460.98,428,Type 2 Newly Diagnosed
+2024-08-13,Ozempic,Novo Nordisk,4878,158535.0,12488.99,10784.15,22216.96,1129,Obesity Comorbidity
+2024-08-13,Mounjaro,Eli Lilly,4711,157033.33,12413.85,10642.02,21486.39,1081,Obesity Comorbidity
+2024-08-13,Glucocure,Fictional Pharma,1204,28093.33,3085.35,1691.33,4212.81,301,Type 2 Newly Diagnosed
+2024-08-14,Jardiance,Boehringer Ingelheim / Eli Lilly,4408,80813.33,5116.43,4087.63,7069.71,1259,Cardiovascular Risk
+2024-08-14,Trulicity,Eli Lilly,4523,143228.33,12777.31,8669.81,18703.16,1239,Obesity Comorbidity
+2024-08-14,Januvia,Merck,2054,41080.0,3686.27,2461.09,4554.87,564,Cardiovascular Risk
+2024-08-14,Janumet,Merck,1788,34568.0,3422.08,1349.37,4246.72,428,Obesity Comorbidity
+2024-08-14,Ozempic,Novo Nordisk,4975,161687.5,12946.4,10502.07,14291.19,1045,Obesity Comorbidity
+2024-08-14,Mounjaro,Eli Lilly,4714,157133.33,15214.95,7091.09,18910.74,983,Obesity Comorbidity
+2024-08-14,Glucocure,Fictional Pharma,1226,28606.67,2549.64,1889.62,5397.45,260,Obesity Comorbidity
+2024-08-15,Jardiance,Boehringer Ingelheim / Eli Lilly,4469,81931.67,7035.49,5549.39,9581.42,993,Cardiovascular Risk
+2024-08-15,Trulicity,Eli Lilly,4485,142025.0,10479.0,7685.3,21164.48,1043,Cardiovascular Risk
+2024-08-15,Januvia,Merck,2073,41460.0,2897.49,1953.78,5871.46,466,Cardiovascular Risk
+2024-08-15,Janumet,Merck,1676,32402.67,2593.97,,4748.33,404,Type 2 Newly Diagnosed
+2024-08-15,Ozempic,Novo Nordisk,4967,161427.5,13553.83,6471.82,19544.22,1335,Obesity Comorbidity
+2024-08-15,Mounjaro,Eli Lilly,4848,161600.0,11968.69,8838.58,17508.35,1126,Type 2 Newly Diagnosed
+2024-08-15,Glucocure,Fictional Pharma,1199,27976.67,2455.52,2321.39,3978.51,243,Obesity Comorbidity
+2024-08-16,Jardiance,Boehringer Ingelheim / Eli Lilly,4524,82940.0,7400.34,3103.13,10317.99,1282,Cardiovascular Risk
+2024-08-16,Trulicity,Eli Lilly,4443,140695.0,7922.08,9469.59,17213.54,963,Obesity Comorbidity
+2024-08-16,Januvia,Merck,2000,40000.0,2216.45,2693.3,4133.83,511,Type 2 Newly Diagnosed
+2024-08-16,Janumet,Merck,1762,34065.33,3157.77,,3371.36,496,Type 2 Newly Diagnosed
+2024-08-16,Ozempic,Novo Nordisk,4974,161655.0,8327.6,9832.78,19968.87,1212,Obesity Comorbidity
+2024-08-16,Mounjaro,Eli Lilly,4891,163033.33,15770.64,4946.88,13588.17,1266,Type 2 Newly Diagnosed
+2024-08-16,Glucocure,Fictional Pharma,1159,27043.33,3452.28,2386.67,4605.23,310,Type 2 Newly Diagnosed
+2024-08-17,Jardiance,Boehringer Ingelheim / Eli Lilly,4476,82060.0,7515.7,4003.87,9750.52,1335,Cardiovascular Risk
+2024-08-17,Trulicity,Eli Lilly,4498,142436.67,7786.21,8482.26,20965.85,1276,Obesity Comorbidity
+2024-08-17,Januvia,Merck,2035,40700.0,2936.38,2196.65,4613.09,599,Cardiovascular Risk
+2024-08-17,Janumet,Merck,1771,34239.33,2888.01,2111.75,4136.5,442,Cardiovascular Risk
+2024-08-17,Ozempic,Novo Nordisk,5005,162662.5,11405.65,5032.51,16763.86,1033,Obesity Comorbidity
+2024-08-17,Mounjaro,Eli Lilly,4849,161633.33,13209.77,8293.16,17371.84,1352,Obesity Comorbidity
+2024-08-17,Glucocure,Fictional Pharma,1172,27346.67,3953.03,1891.2,5059.61,339,Type 2 Newly Diagnosed
+2024-08-18,Jardiance,Boehringer Ingelheim / Eli Lilly,4440,81400.0,4471.05,4908.3,7785.66,941,Type 2 Newly Diagnosed
+2024-08-18,Trulicity,Eli Lilly,4486,142056.67,11543.14,6185.96,12622.25,966,Obesity Comorbidity
+2024-08-18,Januvia,Merck,2073,41460.0,3521.27,2411.21,4746.2,558,Cardiovascular Risk
+2024-08-18,Janumet,Merck,1784,34490.67,2068.37,1459.17,2861.46,437,Cardiovascular Risk
+2024-08-18,Ozempic,Novo Nordisk,4960,161200.0,14272.77,6945.92,15628.94,1142,Type 2 Newly Diagnosed
+2024-08-18,Mounjaro,Eli Lilly,4906,163533.33,10260.11,9957.6,18058.33,1110,Obesity Comorbidity
+2024-08-18,Glucocure,Fictional Pharma,1219,28443.33,3810.67,2246.85,5435.96,337,Type 2 Newly Diagnosed
+2024-08-19,Jardiance,Boehringer Ingelheim / Eli Lilly,4449,81565.0,6206.63,4612.35,8701.11,1027,Cardiovascular Risk
+2024-08-19,Trulicity,Eli Lilly,4486,142056.67,11681.83,5840.61,21275.41,1335,Cardiovascular Risk
+2024-08-19,Januvia,Merck,1995,39900.0,3622.56,2688.94,5540.7,563,Cardiovascular Risk
+2024-08-19,Janumet,Merck,1661,32112.67,2254.49,1247.9,3719.98,468,Cardiovascular Risk
+2024-08-19,Ozempic,Novo Nordisk,5015,162987.5,15880.73,10771.82,23030.17,1286,Cardiovascular Risk
+2024-08-19,Mounjaro,Eli Lilly,4733,157766.67,9928.65,6882.76,13329.06,1321,Type 2 Newly Diagnosed
+2024-08-19,Glucocure,Fictional Pharma,1168,27253.33,3844.09,1875.97,3500.74,291,Type 2 Newly Diagnosed
+2024-08-20,Jardiance,Boehringer Ingelheim / Eli Lilly,4495,82408.33,5636.1,4302.58,7169.13,1217,Cardiovascular Risk
+2024-08-20,Trulicity,Eli Lilly,4464,141360.0,9583.12,5653.7,17406.39,1315,Obesity Comorbidity
+2024-08-20,Januvia,Merck,1960,39200.0,2317.38,2653.53,5207.91,476,Type 2 Newly Diagnosed
+2024-08-20,Janumet,Merck,1797,34742.0,2328.87,1566.32,4983.65,521,Cardiovascular Risk
+2024-08-20,Ozempic,Novo Nordisk,4987,162077.5,9815.92,8964.03,24039.49,1190,Obesity Comorbidity
+2024-08-20,Mounjaro,Eli Lilly,4815,160500.0,13593.39,10491.61,18144.23,1128,Obesity Comorbidity
+2024-08-20,Glucocure,Fictional Pharma,1193,27836.67,3658.58,2695.54,4544.59,357,Cardiovascular Risk
+2024-08-21,Jardiance,Boehringer Ingelheim / Eli Lilly,4511,82701.67,5079.57,5200.98,8327.41,1155,Cardiovascular Risk
+2024-08-21,Trulicity,Eli Lilly,4458,141170.0,8206.58,9059.42,18080.17,1264,Obesity Comorbidity
+2024-08-21,Januvia,Merck,1978,39560.0,2361.72,1637.55,4563.7,478,Cardiovascular Risk
+2024-08-21,Janumet,Merck,1795,34703.33,2802.69,1656.29,4313.23,403,Cardiovascular Risk
+2024-08-21,Ozempic,Novo Nordisk,4968,161460.0,8682.95,6437.01,20775.43,1427,Obesity Comorbidity
+2024-08-21,Mounjaro,Eli Lilly,4923,164100.0,8446.85,6093.11,24459.33,1012,Obesity Comorbidity
+2024-08-21,Glucocure,Fictional Pharma,1219,28443.33,4003.25,2837.2,3646.54,309,Type 2 Newly Diagnosed
+2024-08-22,Jardiance,Boehringer Ingelheim / Eli Lilly,4598,84296.67,6659.6,,7299.82,952,Cardiovascular Risk
+2024-08-22,Trulicity,Eli Lilly,4490,142183.33,7174.94,6884.89,16234.98,901,Type 2 Newly Diagnosed
+2024-08-22,Januvia,Merck,1954,39080.0,3048.03,1642.8,3583.61,448,Obesity Comorbidity
+2024-08-22,Janumet,Merck,1777,34355.33,1810.99,1850.56,2957.32,408,Cardiovascular Risk
+2024-08-22,Ozempic,Novo Nordisk,4889,158892.5,8821.67,,13499.67,1346,Obesity Comorbidity
+2024-08-22,Mounjaro,Eli Lilly,4737,157900.0,14480.42,4788.45,14986.92,1014,Obesity Comorbidity
+2024-08-22,Glucocure,Fictional Pharma,1183,27603.33,4035.08,2529.33,3587.66,284,Cardiovascular Risk
+2024-08-23,Jardiance,Boehringer Ingelheim / Eli Lilly,4457,81711.67,5202.29,5473.58,8563.16,917,Cardiovascular Risk
+2024-08-23,Trulicity,Eli Lilly,4443,140695.0,9119.48,8304.2,13519.08,1020,Type 2 Newly Diagnosed
+2024-08-23,Januvia,Merck,1997,39940.0,2767.47,2339.23,3389.53,490,Cardiovascular Risk
+2024-08-23,Janumet,Merck,1662,32132.0,3165.92,1884.3,3297.5,339,Obesity Comorbidity
+2024-08-23,Ozempic,Novo Nordisk,4910,159575.0,10236.87,7582.77,16731.38,1417,Type 2 Newly Diagnosed
+2024-08-23,Mounjaro,Eli Lilly,4995,166500.0,15578.34,,17302.65,1188,Obesity Comorbidity
+2024-08-23,Glucocure,Fictional Pharma,1175,27416.67,2974.58,1986.58,3496.72,287,Obesity Comorbidity
+2024-08-24,Jardiance,Boehringer Ingelheim / Eli Lilly,4444,81473.33,6160.08,3617.88,9170.03,1292,Cardiovascular Risk
+2024-08-24,Trulicity,Eli Lilly,4498,142436.67,14093.08,,14186.07,1266,Type 2 Newly Diagnosed
+2024-08-24,Januvia,Merck,2099,41980.0,2115.34,2523.81,3670.97,453,Type 2 Newly Diagnosed
+2024-08-24,Janumet,Merck,1663,32151.33,2632.65,1345.29,4170.98,416,Type 2 Newly Diagnosed
+2024-08-24,Ozempic,Novo Nordisk,5076,164970.0,9978.83,5438.13,18564.2,1311,Obesity Comorbidity
+2024-08-24,Mounjaro,Eli Lilly,4988,166266.67,12942.57,11166.61,17700.38,1364,Obesity Comorbidity
+2024-08-24,Glucocure,Fictional Pharma,1164,27160.0,2117.28,2179.61,2976.99,235,Cardiovascular Risk
+2024-08-25,Jardiance,Boehringer Ingelheim / Eli Lilly,4447,81528.33,6922.63,4480.05,7600.99,923,Obesity Comorbidity
+2024-08-25,Trulicity,Eli Lilly,4441,140631.67,8560.58,5648.77,16080.57,1010,Cardiovascular Risk
+2024-08-25,Januvia,Merck,2036,40720.0,2775.83,1978.2,6047.94,465,Type 2 Newly Diagnosed
+2024-08-25,Janumet,Merck,1702,32905.33,1774.05,2215.73,3468.86,501,Cardiovascular Risk
+2024-08-25,Ozempic,Novo Nordisk,5060,164450.0,13189.84,9345.38,20091.98,1022,Type 2 Newly Diagnosed
+2024-08-25,Mounjaro,Eli Lilly,4966,165533.33,11139.98,7270.02,18677.83,1085,Obesity Comorbidity
+2024-08-25,Glucocure,Fictional Pharma,1223,28536.67,3031.43,2056.19,5115.15,292,Type 2 Newly Diagnosed
+2024-08-26,Jardiance,Boehringer Ingelheim / Eli Lilly,4464,81840.0,7092.92,4542.12,10243.87,1315,Cardiovascular Risk
+2024-08-26,Trulicity,Eli Lilly,4489,142151.67,12696.23,9278.08,19717.69,1125,Obesity Comorbidity
+2024-08-26,Januvia,Merck,1955,39100.0,2696.26,1705.19,4827.22,495,Cardiovascular Risk
+2024-08-26,Janumet,Merck,1658,32054.67,1766.84,1040.5,2679.56,398,Obesity Comorbidity
+2024-08-26,Ozempic,Novo Nordisk,5039,163767.5,9479.71,6565.56,14897.16,1367,Cardiovascular Risk
+2024-08-26,Mounjaro,Eli Lilly,4887,162900.0,8260.68,5886.67,17834.21,1142,Type 2 Newly Diagnosed
+2024-08-26,Glucocure,Fictional Pharma,1190,27766.67,2823.08,2567.31,4176.92,286,Type 2 Newly Diagnosed
+2024-08-27,Jardiance,Boehringer Ingelheim / Eli Lilly,4511,82701.67,7062.15,2988.16,11911.74,1230,Type 2 Newly Diagnosed
+2024-08-27,Trulicity,Eli Lilly,4535,143608.33,10041.83,4418.39,19254.27,1016,Type 2 Newly Diagnosed
+2024-08-27,Januvia,Merck,1975,39500.0,2682.62,2492.97,3222.5,491,Type 2 Newly Diagnosed
+2024-08-27,Janumet,Merck,1649,31880.67,1986.6,2108.47,2783.37,445,Cardiovascular Risk
+2024-08-27,Ozempic,Novo Nordisk,4975,161687.5,10432.72,5918.88,23363.9,1346,Obesity Comorbidity
+2024-08-27,Mounjaro,Eli Lilly,4855,161833.33,11244.64,9655.64,17324.43,1005,Obesity Comorbidity
+2024-08-27,Glucocure,Fictional Pharma,1180,27533.33,2547.26,2881.96,5260.19,286,Cardiovascular Risk
+2024-08-28,Jardiance,Boehringer Ingelheim / Eli Lilly,4465,81858.33,6813.92,3392.8,7688.48,940,Cardiovascular Risk
+2024-08-28,Trulicity,Eli Lilly,4423,140061.67,11680.61,4725.5,16184.06,970,Type 2 Newly Diagnosed
+2024-08-28,Januvia,Merck,2058,41160.0,3150.28,2205.9,3870.82,572,Type 2 Newly Diagnosed
+2024-08-28,Janumet,Merck,1775,34316.67,2537.0,1989.14,4959.62,524,Obesity Comorbidity
+2024-08-28,Ozempic,Novo Nordisk,5080,165100.0,13552.03,,19682.71,1115,Obesity Comorbidity
+2024-08-28,Mounjaro,Eli Lilly,5002,166733.33,9320.85,5377.32,18147.19,1300,Obesity Comorbidity
+2024-08-28,Glucocure,Fictional Pharma,1255,29283.33,3196.24,2544.27,4079.28,349,Type 2 Newly Diagnosed
+2024-08-29,Jardiance,Boehringer Ingelheim / Eli Lilly,4420,81033.33,4622.05,4094.58,9813.34,1071,Obesity Comorbidity
+2024-08-29,Trulicity,Eli Lilly,4496,142373.33,7289.34,6053.86,19560.78,1127,Obesity Comorbidity
+2024-08-29,Januvia,Merck,2068,41360.0,2636.27,1421.79,5219.11,415,Obesity Comorbidity
+2024-08-29,Janumet,Merck,1715,33156.67,2572.99,1300.99,4378.18,416,Cardiovascular Risk
+2024-08-29,Ozempic,Novo Nordisk,5008,162760.0,9763.04,8179.47,20675.8,1105,Cardiovascular Risk
+2024-08-29,Mounjaro,Eli Lilly,4919,163966.67,8219.91,,17162.44,1068,Obesity Comorbidity
+2024-08-29,Glucocure,Fictional Pharma,1190,27766.67,3431.27,1952.14,3258.67,263,Type 2 Newly Diagnosed
+2024-08-30,Jardiance,Boehringer Ingelheim / Eli Lilly,4405,80758.33,5135.67,2970.95,10522.18,975,Cardiovascular Risk
+2024-08-30,Trulicity,Eli Lilly,4432,140346.67,12484.31,5673.56,12828.27,1116,Obesity Comorbidity
+2024-08-30,Januvia,Merck,1992,39840.0,2252.71,1924.38,3935.39,512,Cardiovascular Risk
+2024-08-30,Janumet,Merck,1769,34200.67,2952.52,1723.8,4225.06,429,Obesity Comorbidity
+2024-08-30,Ozempic,Novo Nordisk,4981,161882.5,11796.88,8208.6,22376.64,1207,Obesity Comorbidity
+2024-08-30,Mounjaro,Eli Lilly,4967,165566.67,13596.55,11132.83,22997.07,1326,Obesity Comorbidity
+2024-08-30,Glucocure,Fictional Pharma,1177,27463.33,3642.6,1601.08,3529.69,293,Type 2 Newly Diagnosed
+2024-08-31,Jardiance,Boehringer Ingelheim / Eli Lilly,4400,80666.67,6614.79,5450.68,6464.24,910,Cardiovascular Risk
+2024-08-31,Trulicity,Eli Lilly,4524,143260.0,13499.19,5527.29,17819.23,1333,Obesity Comorbidity
+2024-08-31,Januvia,Merck,2081,41620.0,3073.3,2618.12,4120.18,471,Type 2 Newly Diagnosed
+2024-08-31,Janumet,Merck,1753,33891.33,2482.29,1745.43,5072.22,489,Obesity Comorbidity
+2024-08-31,Ozempic,Novo Nordisk,5037,163702.5,15600.76,5181.19,18042.56,1061,Type 2 Newly Diagnosed
+2024-08-31,Mounjaro,Eli Lilly,4843,161433.33,8791.71,6206.52,18588.92,1340,Type 2 Newly Diagnosed
+2024-08-31,Glucocure,Fictional Pharma,1187,27696.67,3291.56,1309.69,4110.65,327,Obesity Comorbidity
