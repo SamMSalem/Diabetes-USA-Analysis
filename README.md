@@ -253,7 +253,7 @@ Actionable Insight: This insight is highly valuable since it points to a direct 
 ## The Analysis:
 The Jupyter notebook for this part (02_Marketing_Analysis.ipynb) of the project aimed at investigating the Marketing aspects of the US diabetes drugs. Here’s how I approached each question:
 
-###  Which patient segment has the highest volume of new prescriptions?
+##  Which patient segment has the highest volume of new prescriptions?
 This question is identified by grouping patient segments and aggregating the sum of new prescriptions, then plotting the results.
 
 ### Result
@@ -261,9 +261,12 @@ This question is identified by grouping patient segments and aggregating the sum
 ![Rx volume per patient segments](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/d6cbbc05ec07875c65b2b6eb2dbb7a6f91e74577/Marketing%20Photos/volume_newRx_patient_segment.png)
 
 ### Insights
+The graph, a horizontal bar chart, illustrates the total number of new prescriptions for three distinct patient segments: Obesity Comorbidity, Cardiovascular Risk, and Type 2 Newly Diagnosed. The data reveals a clear and significant difference in the volume of new patients in each group, which is a crucial insight for understanding market size and growth potential.
+  - The Obesity Comorbidity segment generates the highest volume of new prescriptions by a considerable margin. This indicates that this patient group is the primary driver of new customer acquisition for the brands in the market.
+  - Cardiovascular Risk segment generates the second-highest volume of new prescriptions. Its strong performance indicates that patients with cardiovascular risk are also a major target for new prescription acquisition.
+  - Type 2 Newly Diagnosed segment has the lowest volume of new prescriptions. This lower volume could be due to several factors, such as newly diagnosed patients being started on more traditional, older, and less expensive treatments that are not reflected in the data.
 
-
-### Do certain patient segments generate higher sales per prescription than others?
+## Do certain patient segments generate higher sales per prescription than others?
 This question is solved by creating a new column for the single prescription cost by dividing the daily sales by the daily Rx, then grouping the patient segment by the average Rx cost.
 
 ### Result
@@ -271,9 +274,9 @@ This question is solved by creating a new column for the single prescription cos
 ![Rx cost per patient segment](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/rx_cost_patient_segment.png)
 
 ### Insights
+The bar chart compares the average prescription cost across three distinct patient segments: Obesity Comorbidity, Cardiovascular Risk, and Type 2 Newly Diagnosed. The graph reveals a clear difference in the cost of prescriptions for patients with specific health conditions, reflecting the current situation in the US guidelines and FDA approvals, where GLP-1-like Ozempic and Trulicity are used in type 2 diabetes and weight loss (Obesity Comorbidity). These medications are novel to the global market and are currently making a disruption in the diabetes market. 
 
-
-### Is there a specific marketing channel that is more effective at reaching a particular patient segment?
+## Is there a specific marketing channel that is more effective at reaching a particular patient segment?
 To identify the effectiveness of the channel, this could be reached by determining the cost of the new Rx for each channel. 
 
     # We need to calculate the cost of every new rx from every channel spending
@@ -290,9 +293,12 @@ To identify the effectiveness of the channel, this could be reached by determini
 ![channel effectiveness](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/channel_effect.png)
 
 ### Insights
+The bar chart compares the effectiveness (in USD) of three distinct marketing channels in driving conversions within three key patient segments. This is a classic cross-channel, cross-segment performance analysis. The more spending in the channel to achieve the conversion or sale is the less effective the channel and vice versa
+  - **Direct-to-Consumer DTC:** This includes digital advertising (social media, search engines), email marketing, branded websites, and online patient resources. DTC is likely most effective for the "Type 2 Newly Diagnosed" segment. Best for capturing intent and guiding patients to ask their HCP about the drug.
+  - **HCP Outreach Channel:** This includes sales reps detailing physicians, providing samples, medical science liaisons, and professional marketing. HCP Outreach is undoubtedly the top-performing channel for the "Obesity Comorbidity" and "Cardiovascular Risk" segments. This is a high-touch, high-value channel designed to influence the prescriber directly.
+  - **TV:** National or targeted cable TV commercials. TV is likely the broad awareness play, potentially showing the most balanced performance across all three segments, but with a lower dollar effectiveness per spend than targeted channels. It primes the entire market, making the efforts of the DTC and HCP channels more effective.
 
-
-### What is the average cost of a prescription for each drug?
+## What is the average cost of a prescription for each drug?
 
     # Since we have created the Rx cost before so we will group drugs directly
     avg_Rxcost_drug = df_marketing.groupby('Drug_Name')['RX_Cost'].mean().sort_values(ascending=False)
@@ -316,10 +322,11 @@ To identify the effectiveness of the channel, this could be reached by determini
 ![channel effectiveness](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/avg_rx_costs.png)
 
 ### Insights
+The graph, a simple bar chart, presents the average cost per prescription for seven different brands. The data reveals a significant difference in pricing across the market, which is a key factor in both patient accessibility and a brand's revenue strategy. 
+  - High-Cost vs. Low-Cost Brands: There is a clear divide between the high-cost brands (Ozempic, Trulicity, and Mounjaro) and the lower-cost brands (Januvia, Janumet, and Jardiance). This pricing strategy likely reflects differences in drug type, Route of administration, market positioning, and the target patient segment or indication.
 
 
-
-### How is the market share distributed among the top pharmaceutical companies based on total sales?
+## How is the market share distributed among the top pharmaceutical companies based on total sales?
 The pie chart below contains only the top 5 brands in the market.
 
     # Calculating the total sales for each drug 
@@ -334,10 +341,13 @@ The pie chart below contains only the top 5 brands in the market.
 ![channel effectiveness](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/brands_ms.png)
 
 ### Insights
+The graph, a bar chart, provides a clear snapshot of the market share for five different diabetes drugs. The length of each bar represents the percentage of the total market that the brand controls. The visualization reveals a highly competitive market, dominated by a few key players, with a significant disparity between the top brands and the others.
+  - Ozempic: This brand is the undisputed market leader. It has the largest market share, controlling just over 24%. Its near-equal dominance suggests a direct and intense rivalry for the top spot. 
+  - Mounjaro and Trulicity: Trulicity and Mounjaro are strong second and third-place competitors. Their market share is significant, at approximately 22% for each, placing them firmly in the top tier behind the market leaders. This indicates a robust market presence and a strong competitive position. Their combined market share represents over 40% of the total market, making them the most influential players.
+  - Jardiance: Jardiance holds a solid position, with a market share of around 13%. While not a top-tier leader, its substantial share indicates a stable and recognizable brand with a dedicated customer base.
+  - Januvia and Janumet: These two brands occupy the lower tier of the market. Both have a relatively small market share, with Januvia at approximately 7% and Janumet at less than 4%. Their combined share is less than half of Trulicity's, suggesting they are either legacy brands, patients face severe side effects, or niche players that do not compete directly with the market leaders.
 
-
-
-### Which drug and company combination has the highest daily sales and prescriptions?
+## Which drug and company combination has the highest daily sales and prescriptions?
 
     # Plotting a dual axis graph for the data
     fig, ax1 = plt.subplots(figsize=(9, 6))
@@ -378,9 +388,12 @@ The pie chart below contains only the top 5 brands in the market.
 ![top companies sales and rx](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/top_drugs_sales_rx.png)
 
 ### Insights
+The graph, a grouped bar chart, effectively compares the performance of several drugs across two key metrics: Total Sales (USD) and Total New Prescriptions. The visual separation of these metrics for each drug allows for a direct comparison of their market success and patient adoption. A key takeaway is the strong positive relationship between sales and new prescriptions. Drugs with higher sales generally have a higher number of new prescriptions, and vice versa. This indicates that the sales volume is directly tied to the number of new patients adopting the drug.
+  - Market Leaders: Ozempic, Trulicity, and Mounjaro are the market leaders. Any competitive strategy would need to focus on directly challenging their dominance.
+  - Tiered Market: The market appears to be tiered, with a clear gap between the top two drugs, the solid mid-tier performer (Jardiance), and the lower-tier drugs (Januvia, Janumet, and Glucocure).
+The high correlation between sales and prescriptions means that a successful marketing strategy should focus on driving new prescriptions, as this will directly translate into higher sales.
 
-
-### What is the correlation between marketing spend across all channels and daily sales/new prescriptions?
+## What is the correlation between marketing spend across all channels and daily sales/new prescriptions?
 To determine the relation between these three variables, linear regression is used to answer this question.
 
     # drop nan values in the needed columns 
@@ -407,12 +420,17 @@ To determine the relation between these three variables, linear regression is us
 
 ### Result
 
-![top companies sales and rx](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/Relation_spend_sales_newRx.png)
+![Relation of spend with sales RX](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/ee98ba14ac4965174f7328e4ebfae3caea3e43d1/Marketing%20Photos/Relation_spend_sales_newRx.png)
 
 ### Insights
+Both graphs show a clear positive relationship between total marketing spend and outcomes (sales and new prescriptions). This indicates highly efficient and predictable marketing performance with no signs of diminishing returns within the current budget range. The strategy is working exceptionally well and is likely scalable. The tight clustering of points around the imaginary trend line means marketing spend is a primary and reliable driver of both sales and new Rx.
+  - Sales Insights: The Slope (4.092) is the ROI Multiplier, which means that for every $1 spent, it generates $4.09 in sales. This is an outstanding return and indicates that proper messaging, targeting, and channel selection are effectively driving revenue. While the Intercept ($1,422) is the "Baseline Brand Health" metric. This represents daily sales that occur without the influence of this specific marketing campaign/spending. 
+  - New RX Insights: The Slope (0.0255) defines the Cost Per Acquisition (CPA). The brand acquires 0.0255 new prescriptions for every $1 spent. Which means that the CPA, or the cost for a new Rx, is $39.22. While The Intercept (266 New Rx) is significant. This means that the brand or drug has strong inherent demand. Over 250 new prescriptions are written daily without any marketing push, likely due to doctor preferences, clinical reputation, or other non-paid factors.
 
+The entire current spend range ($0-$50k) is highly efficient. Brands can confidently maintain or increase budget within this range, expecting linear returns. To improve the New Prescription slope, brands should focus on converting more of their marketing touches into scripts. This could involve A/B testing ad creative, simplifying the call-to-action, or improving targeting to reach more receptive audiences.
 
-### How does marketing spend change over time for the top-selling drugs?
+## How does marketing spend change over time for the top-selling drugs?
+
     # Cleaning date column and converting it to months
     df_marketing['month_n'] = df_marketing['Date'].dt.month
     df_marketing['month'] = df_marketing['month_n'].apply(lambda x: pd.to_datetime(x, format='%m').strftime('%b'))
@@ -431,7 +449,30 @@ To determine the relation between these three variables, linear regression is us
 ![top companies sales and rx](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/Marketing_spend_overtime.png)
 
 ### Insights
+The graph shows a wide variation of spending strategies for brands from January to August. The brands do not follow a uniform pattern; some increase their spend, some decrease it, and others maintain a relatively steady budget. This suggests different marketing campaigns are running with varying timelines and priorities.
+  - Top-Tier Spenders (Ozempic, Trulicity, Mounjaro): These three brands are the clear leaders in marketing spend. Their trend lines show a steep and consistent upward trajectory from January to August. This indicates an aggressive, high-investment strategy aimed at either launching new campaigns or solidifying a dominant market position. The high spend suggests a focus on rapid growth and brand awareness.
+  - Mid-Tier Spender (Jardiance): The line for Jardiance shows a steady but more moderate increase in spending. While it's not at the same level as the top three, its consistent upward trend suggests a strategy of sustained growth rather than a one-time surge.
+  - Maintenance Spenders (Januvia, Janumet): The trend lines for Januvia and Janumet are relatively flat. Their spending remains consistent throughout the eight months. This is characteristic of a marketing strategy focused on maintaining existing market share and brand relevance rather than aggressive expansion.
 
+The marketing landscape shown in the graph is segmented into distinct strategies: a high-investment, growth-focused approach by Ozempic, Trulicity, and Mounjaro, a steady and incremental growth strategy from Jardiance, and a market-maintenance approach from Januvia and Janumet.
 
-###  Which marketing channel (DTC, HCP, or TV) shows the strongest return on investment (ROI)?
+##  Which marketing channel (DTC, HCP, or TV) shows the strongest return on investment (ROI)?
+To determine the return on investment (ROI) for each marketing channel, I calculated the relationship between spending and the resulting changes in both sales and new prescriptions using linear regression. This method determines how many dollars of sales or new prescriptions are generated for every dollar spent on a given channel.
 
+### Result
+
+![top companies sales and rx](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/afd745a90dbfbf5260579e86c37419faf02b356b/Marketing%20Photos/ROI_channels_sales_presecription.png)
+
+### Insights
+
+1. ROI on Sales
+   - Marketing_Spend_HCP_Outreach: An ROI of 16.73, meaning for every dollar spent on this channel, approximately $16.73 in sales is generated.
+   - Marketing_Spend_DTC_Digital: An ROI of 12.12, meaning for every dollar spent on this channel, approximately $12.12 in sales is generated.
+   - Marketing_Spend_TV_Ads: An ROI of 7.96, meaning for every dollar spent on this channel, approximately $7.96 in sales is generated.
+
+2. ROI on New Prescriptions
+   - Marketing_Spend_HCP_Outreach: An ROI of 0.105, meaning for every dollar spent on this channel, approximately 0.105 new prescriptions are generated.
+   - Marketing_Spend_DTC_Digital: An ROI of 0.076, meaning for every dollar spent on this channel, approximately 0.076 new prescriptions are generated.
+   - Marketing_Spend_TV_Ads: An ROI of 0.050, meaning for every dollar spent on this channel, approximately 0.050 new prescriptions are generated.
+
+Based on the analysis, the most effective channel is HCP Outreach, followed by DTC Digital, with TV Ads being the least effective. The HCP Outreach channel shows the strongest return on investment for both sales and new prescriptions. It consistently outperforms the DTC Digital and TV Ads channels. This indicates that targeting healthcare professionals is the most effective marketing communication channel for this dataset. In conclusion, the companies should allocate more budget to the HCP outreach channels with marketing activities like increasing HCP engagement through the Representative visits, Rep-triggered emails, websites, invitations to events and medical conferences, and most importantly, updating HCPs with the new publications related to the promoted drug, as well as building a trustworthy business relationship with the company and brand.
