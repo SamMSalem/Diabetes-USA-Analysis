@@ -4,7 +4,7 @@
 
 Welcome to my analysis of diabetes mellitus, focusing on disease analysis in the USA and Marketing analysis for the top 5 drugs in the US managing this disease. Diabetes mellitus is a condition that happens when your blood sugar (glucose) is too high. It develops when your pancreas doesn’t make enough insulin or any at all, or when your body isn’t responding to the effects of insulin properly. This project was created out of a desire to understand the disease burden, its prevalence, risk factors, occurrence at the county level, and to analyze the marketing strategies of the top 5 drugs. It delves into the disease status in the USA market and companies' marketing performance to help find optimal marketing activities to tackle this disease.
 
-The data was sourced from two separate sources; the USA disease data was sourced from the Centers for Disease Control and Prevention (CDC) website. The disease data contains detailed information on age groups, genders, diagnosed percentage per county, risk factors, obesity percentages/county for US race and ethnicity, Social Vulnerability Index (SVI)/county, and diagnosed/undiagnosed percentages across years. Due to the proprietary nature of pharmaceutical sales/marketing data, this project utilized a simulated dataset that mirrors a real-world scenario. The simulated data was supplemented with real figures for drug sales and marketing expenditures from the company's 10-K filing, as well as trusted blogs on pharma websites, such as xtalks. The data was created to demonstrate my ability to analyze key marketing metrics, including market share, sales trends, and the effectiveness of campaigns or channels. The simulated data contains detailed information on drug name, company, prescriptions filled, new prescriptions, sales, marketing spend on digital Ads, marketing spend on Healthcare professionals, and prescription dates.
+The data was sourced from two separate sources; the USA disease data was sourced from the Centers for Disease Control and Prevention (CDC) website. The disease data contains detailed information on age groups, genders, diagnosed percentage per county, risk factors, obesity percentages/county for US race and ethnicity, Social Vulnerability Index (SVI)/county, and diagnosed/undiagnosed percentages across years. Due to the proprietary nature of pharmaceutical sales/marketing data, this project utilized a simulated dataset that mirrors a real-world scenario. The simulated data was supplemented with real figures for drug sales and marketing expenditures from the company's 10-K filing, as well as trusted blogs on pharma websites, such as xtalks. The data was created to demonstrate my ability to analyze key marketing metrics, including market share, sales trends, and the effectiveness of campaigns or channels. The simulated data contains detailed information on drug name, company, prescriptions filled, new prescriptions, sales, marketing spend on digital Ads, marketing spend on Healthcare professionals, and prescription(Rx) dates.
 
 ## Tools I Used:
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
@@ -33,7 +33,7 @@ The Jupyter notebook for this part (01_Patient_Profile.ipynb) of the project aim
 
 ### What are the demographic characteristics of the American population with diabetes?
 
-To find the main demographics of the American population with diabetes, I filtered the data for the age groups of diabetes diagnosed/undiagnosed, then I filtered for the gender diagnosed/undiagnosed diabetes percentage, and then for the percentage of diabetes diagnosed for each ethnic group. I plotted a subplots bar chart for the age group to identify the difference between the groups diagnosed and the undiagnosed numbers. In the same way, I plotted subplot pie charts for the gender data. For the ethnic groups data, I plotted it on a bar chart to demonstrate the differences in diabetes occurrence across different ethnicities.
+To identify the main demographics of the American population with diabetes, I filtered the data by age groups of diagnosed/undiagnosed diabetes, then by the percentage of diagnosed/undiagnosed diabetes by gender, and finally by the percentage of diagnosed diabetes for each ethnic group. I plotted a subplots bar chart for the age group to identify the difference between the groups diagnosed and the undiagnosed numbers. In the same way, I plotted subplot pie charts for the gender data. For the ethnic groups data, I plotted it on a bar chart to demonstrate the differences in diabetes occurrence across different ethnicities.
 
 ### Results
 
@@ -254,10 +254,184 @@ Actionable Insight: This insight is highly valuable since it points to a direct 
 The Jupyter notebook for this part (02_Marketing_Analysis.ipynb) of the project aimed at investigating the Marketing aspects of the US diabetes drugs. Here’s how I approached each question:
 
 ###  Which patient segment has the highest volume of new prescriptions?
-This question is approached by grouping patient segments and aggregating the sum of new prescriptions, then plotting the results.
+This question is identified by grouping patient segments and aggregating the sum of new prescriptions, then plotting the results.
 
 ### Result
 
 ![Rx volume per patient segments](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/d6cbbc05ec07875c65b2b6eb2dbb7a6f91e74577/Marketing%20Photos/volume_newRx_patient_segment.png)
 
 ### Insights
+
+
+### Do certain patient segments generate higher sales per prescription than others?
+This question is solved by creating a new column for the single prescription cost by dividing the daily sales by the daily Rx, then grouping the patient segment by the average Rx cost.
+
+### Result
+
+![Rx cost per patient segment](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/rx_cost_patient_segment.png)
+
+### Insights
+
+
+### Is there a specific marketing channel that is more effective at reaching a particular patient segment?
+To identify the effectiveness of the channel, this could be reached by determining the cost of the new Rx for each channel. 
+
+    # We need to calculate the cost of every new rx from every channel spending
+    df_marketing['Rx_cost_DTC'] = df_marketing['Marketing_Spend_DTC_Digital'] / df_marketing['New_Prescriptions']
+    df_marketing['Rx_cost_HCP'] = df_marketing['Marketing_Spend_HCP_Outreach'] / df_marketing['New_Prescriptions']
+    df_marketing['Rx_cost_TV'] = df_marketing['Marketing_Spend_TV_Ads'] / df_marketing['New_Prescriptions']
+    
+    # Now calculating the avg of Rx cost per channel 
+    channel_effectiveness = df_marketing.groupby('Patient_Segment')[['Rx_cost_DTC', 'Rx_cost_HCP', 'Rx_cost_TV']].mean().sort_values(by='Rx_cost_DTC', ascending=False)
+    print(channel_effectiveness)
+
+### Result
+
+![channel effectiveness](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/channel_effect.png)
+
+### Insights
+
+
+### What is the average cost of a prescription for each drug?
+
+    # Since we have created the Rx cost before so we will group drugs directly
+    avg_Rxcost_drug = df_marketing.groupby('Drug_Name')['RX_Cost'].mean().sort_values(ascending=False)
+    
+    # Plotting data 
+    plt.bar(avg_Rxcost_drug.index, avg_Rxcost_drug.values)
+    
+    for i, v in enumerate(avg_Rxcost_drug):
+        plt.text(i, v + 1, str(round(v)), ha="center")
+    
+    plt.gca().spines['top'].set_visible(False)
+    plt.gca().spines['right'].set_visible(False)
+    plt.title('Avg Rx cost for each Drug')
+    plt.xlabel('')
+    plt.ylabel('USD')
+    plt.tight_layout()
+    plt.show()
+
+### Result
+
+![channel effectiveness](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/avg_rx_costs.png)
+
+### Insights
+
+
+
+### How is the market share distributed among the top pharmaceutical companies based on total sales?
+The pie chart below contains only the top 5 brands in the market.
+
+    # Calculating the total sales for each drug 
+    market_share = df_marketing.groupby('Drug_Name')['Daily_Sales_USD'].sum().sort_values(ascending=False).head(5)
+    # Calculating total market size 
+    total_market = round(df_marketing['Daily_Sales_USD'].sum())
+    # Calculating the market share percentages for each drug 
+    marketshare_Percentage = (market_share / total_market) * 100
+
+### Result
+
+![channel effectiveness](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/brands_ms.png)
+
+### Insights
+
+
+
+### Which drug and company combination has the highest daily sales and prescriptions?
+
+    # Plotting a dual axis graph for the data
+    fig, ax1 = plt.subplots(figsize=(9, 6))
+    
+    # Plot sales on the primary axis
+    bar_width = 0.6
+    bar_positions = range(len(highest_sales_Rx))
+    ax1.bar(bar_positions, highest_sales_Rx['Daily_Sales_USD'], bar_width, color='skyblue', label='Daily Sales (USD)')
+    
+    # Format the sales axis with dollar signs and commas
+    formatter = ticker.FuncFormatter(lambda x, p: f'${x:,.0f}')
+    ax1.yaxis.set_major_formatter(formatter)
+    ax1.set_xlabel('')
+    ax1.set_ylabel('')
+    ax1.set_title('Top Drugs by Sales and Prescriptions')
+    ax1.set_xticks(bar_positions)
+    ax1.set_xticklabels(highest_sales_Rx[('Drug_Company')], rotation=45, ha='right')
+    
+    # Create a secondary axis for prescriptions
+    ax2 = ax1.twinx()
+    
+    # Plot prescriptions on the secondary axis as a line
+    ax2.plot(bar_positions, highest_sales_Rx['Daily_Prescriptions'], marker='o', color='darkblue', linestyle='-', linewidth=2, label='Daily Prescriptions')
+    ax2.set_ylabel('Daily Prescriptions')
+    ax2.tick_params(axis='y', colors='black')
+    
+    # Add a combined legend
+    lines, labels = ax1.get_legend_handles_labels()
+    lines2, labels2 = ax2.get_legend_handles_labels()
+    ax2.legend(lines + lines2, labels + labels2, loc='upper right')
+    
+    plt.tight_layout()
+    
+    plt.show()
+
+### Result
+
+![top companies sales and rx](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/top_drugs_sales_rx.png)
+
+### Insights
+
+
+### What is the correlation between marketing spend across all channels and daily sales/new prescriptions?
+To determine the relation between these three variables, linear regression is used to answer this question.
+
+    # drop nan values in the needed columns 
+    df_marketing = df_marketing.dropna(subset=['Marketing_Spend_HCP_Outreach'])
+    
+    # Creating new column for the sum of all channels spends
+    df_marketing['com_spend'] = df_marketing['Marketing_Spend_HCP_Outreach'] + df_marketing['Marketing_Spend_DTC_Digital'] + df_marketing['Marketing_Spend_TV_Ads']
+    
+    # Plotting 2 scattered plot for the total spend vs sales and total spend vs new rx
+    sub1 = (df_marketing[['com_spend','Daily_Sales_USD']]).copy()
+    sub2 = (df_marketing[['com_spend','New_Prescriptions']]).copy()
+    a = sub1['com_spend'].values; b = sub1['Daily_Sales_USD'].values
+    c = sub2['com_spend'].values; d = sub2['New_Prescriptions'].values
+    
+    fig, ax = plt.subplots(2, 1, figsize=(12, 10))
+    
+    # Linear regression calculation
+    coeff1 = np.polyfit(a, b, 1)
+    b_fit = np.polyval(coeff1, a)
+    coeff2 = np.polyfit(c, d, 1)
+    d_fit = np.polyval(coeff2, c)
+    print("Slope:", coeff1[0], "Intercept:", coeff1[1])
+    print("Slope:", coeff2[0], "Intercept:", coeff2[1])
+
+### Result
+
+![top companies sales and rx](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/Relation_spend_sales_newRx.png)
+
+### Insights
+
+
+### How does marketing spend change over time for the top-selling drugs?
+    # Cleaning date column and converting it to months
+    df_marketing['month_n'] = df_marketing['Date'].dt.month
+    df_marketing['month'] = df_marketing['month_n'].apply(lambda x: pd.to_datetime(x, format='%m').strftime('%b'))
+    # grouping date, drugs and total spend for all channels
+    spend_overtime = df_marketing.groupby(['month_n', 'month', 'Drug_Name'])['com_spend'].sum().reset_index()
+    
+    # Pivotting the grouped data in one table
+    df_pivot = spend_overtime.pivot_table(index='month', columns='Drug_Name', values='com_spend')
+    
+    # Sort the index in chronological order
+    month_order = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug']
+    df_pivot = df_pivot.reindex(month_order)
+
+### Result
+
+![top companies sales and rx](https://github.com/SamMSalem/Diabetes-USA-Analysis/blob/533db24726a61b2b49fb43fec8af41fd6ea69173/Marketing%20Photos/Marketing_spend_overtime.png)
+
+### Insights
+
+
+###  Which marketing channel (DTC, HCP, or TV) shows the strongest return on investment (ROI)?
+
